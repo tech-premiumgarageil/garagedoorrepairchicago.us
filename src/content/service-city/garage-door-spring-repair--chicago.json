@@ -1,0 +1,96 @@
+{
+  "service": "garage-door-spring-repair",
+  "city": "chicago",
+  "generatedAt": "2026-07-13T00:00:00.000Z",
+  "model": "hand-written-seed",
+  "meta": {
+    "title": "Garage Door Spring Repair Chicago, IL | Same-Day",
+    "description": "Broken garage door spring in Chicago? Same-day torsion & extension spring replacement, 24h Mon–Sat, from Portage Park to Beverly. Book online, save 10%."
+  },
+  "hero": {
+    "headline": "Garage Door Spring Repair in Chicago, IL",
+    "subheadline": "That bang you heard from the garage was probably a torsion spring letting go. We replace both springs with high-cycle steel and have your door balanced the same day — anywhere from Albany Park to Mount Greenwood."
+  },
+  "intro": "A snapped spring is the single most common garage door failure in Chicago, and it never picks a convenient morning. The door suddenly weighs its full 150–300 pounds, the opener strains and gives up, and your car is stuck behind a slab of steel. Our technicians replace torsion and extension springs across every Chicago neighborhood — the bungalow belts of Portage Park and Jefferson Park, Beverly's brick garages, Bridgeport two-flats, and new-construction infill from Albany Park to the South Loop. We quote the complete flat price before touching a wrench, replace springs in matched pairs so the fresh one isn't fighting a tired one, and finish with a full balance and safety test. Book online any hour and the 10% discount applies automatically.",
+  "localContext": "Chicago's housing stock is hard on springs in a specific way: most of the city's garages are detached, unheated frame structures on rear alleys, built decades before anyone imagined a 16-foot insulated door. Inside an unheated alley garage, January cold makes spring steel brittle exactly when lake-effect snow adds friction load to every lift — which is why the week after each cold snap is our busiest spring-replacement stretch of the year. Add road-salt spray drifting in under the door and you get corrosion pitting that shortens spring life well below the rated cycle count.",
+  "problemSigns": [
+    {
+      "sign": "A loud bang from the garage",
+      "detail": "The classic Chicago alley-garage sound in January — a torsion spring unwinding all its stored energy at once. The door is now unsafe to lift by hand."
+    },
+    {
+      "sign": "Door lifts a few inches, then stops",
+      "detail": "The opener's force limit is giving up against the door's full dead weight. Forcing it strips the opener's drive gear — now it's two repairs."
+    },
+    {
+      "sign": "Visible gap in the spring above the door",
+      "detail": "A healthy torsion spring is one continuous coil. A two-inch gap means it has already failed, even if the door still moves."
+    },
+    {
+      "sign": "Door feels twice as heavy",
+      "detail": "On older extension-spring doors common in pre-war Chicago garages, one spring often fails quietly first — the door works, badly, until the second one goes."
+    },
+    {
+      "sign": "Cables suddenly slack or tangled",
+      "detail": "When a spring lets go, the lift cables lose tension and can jump their drums. Don't operate the door — the cables may be the only thing holding it square."
+    }
+  ],
+  "process": [
+    {
+      "step": "Call or book online",
+      "description": "Live dispatch 24 hours Mon–Sat. Online bookings pick their own slot and save 10% automatically."
+    },
+    {
+      "step": "Flat quote at the door",
+      "description": "The technician measures wire size, length, and inside diameter, checks cables and bearings, and quotes the complete price before starting."
+    },
+    {
+      "step": "Matched-pair replacement",
+      "description": "Both springs replaced with high-cycle oil-tempered steel — never just the broken one — plus new center bearing if it's worn."
+    },
+    {
+      "step": "Balance & safety test",
+      "description": "Door balanced to hand-liftable weight, opener force recalibrated, safety reverse tested, every moving part lubricated."
+    }
+  ],
+  "whyUs": [
+    "Same-day service across all 77 Chicago community areas",
+    "High-cycle springs rated for 2–4× the lifts of builder-grade",
+    "Flat upfront pricing: most jobs $180–$450 all-in",
+    "Open 24 hours Monday–Saturday for emergencies",
+    "10% off every online booking"
+  ],
+  "neighborhoodsServed": [
+    "Lincoln Park",
+    "Portage Park",
+    "Beverly",
+    "Jefferson Park",
+    "Bridgeport",
+    "Norwood Park",
+    "Mount Greenwood",
+    "Albany Park"
+  ],
+  "faqs": [
+    {
+      "q": "How fast can you replace a spring in Chicago?",
+      "a": "Usually same-day. Our trucks work the city in zones, so a morning call from Portage Park or Beverly typically gets an afternoon slot at the latest — and emergency calls run 24 hours a day, Monday through Saturday."
+    },
+    {
+      "q": "Why do garage door springs snap so often in Chicago winters?",
+      "a": "Most Chicago garages are unheated, detached alley structures. Sub-zero cold makes spring steel brittle while snow and ice add load to every lift, and road-salt corrosion pits the coils. That combination is why spring failures spike after every cold snap."
+    },
+    {
+      "q": "Do you replace both springs or just the broken one?",
+      "a": "Both, always, on a two-spring door. The springs have identical mileage — pairing a new spring with a worn one unbalances the door and typically brings us back within months for the second failure."
+    },
+    {
+      "q": "Can I still open my door with a broken spring to get my car out?",
+      "a": "Don't try. A Chicago-standard steel door weighs 150–300 pounds without spring assistance, and lifting it by hand or with the opener risks injury and a stripped opener gear. Call us instead — emergency dispatch can usually free a trapped car within hours."
+    },
+    {
+      "q": "What does spring replacement cost in Chicago?",
+      "a": "Most torsion spring replacements land between $180 and $450 including parts, quoted flat before work starts. Booking online saves another 10%."
+    }
+  ],
+  "ctaLine": "Spring snapped this morning? Fixed this afternoon."
+}
