@@ -1,26 +1,151 @@
 @import "tailwindcss";
 
+/* ————— Chicago Steel: industrial-editorial theme ————— */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --charcoal: #0d0e10;
+  --charcoal-2: #141518;
+  --bone: #ede8df;
+  --bone-dim: #b8b2a6;
+  --ember: #ff5a1f;
+  --ember-deep: #d43f0a;
+  --steel: #2a2d31;
+  --steel-light: #3a3e44;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-charcoal: var(--charcoal);
+  --color-charcoal-2: var(--charcoal-2);
+  --color-bone: var(--bone);
+  --color-bone-dim: var(--bone-dim);
+  --color-ember: var(--ember);
+  --color-ember-deep: var(--ember-deep);
+  --color-steel: var(--steel);
+  --color-steel-light: var(--steel-light);
+  --font-display: var(--font-big-shoulders);
+  --font-sans: var(--font-libre-franklin);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--charcoal);
+  color: var(--bone);
+  font-family: var(--font-libre-franklin), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--ember);
+  color: var(--charcoal);
+}
+
+/* Film grain overlay — SVG turbulence data URI, zero network cost */
+.grain::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Blueprint grid section background */
+.blueprint-faint {
+  background-image:
+    linear-gradient(rgba(42, 45, 49, 0.55) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(42, 45, 49, 0.55) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+/* Display type helpers */
+.display {
+  font-family: var(--font-big-shoulders), sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+  line-height: 0.92;
+}
+
+.index-num {
+  font-family: var(--font-big-shoulders), sans-serif;
+  font-weight: 300;
+  font-variant-numeric: tabular-nums;
+  color: var(--steel-light);
+  line-height: 1;
+}
+
+/* Ember keyword underline */
+.u-ember {
+  text-decoration: underline;
+  text-decoration-color: var(--ember);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.12em;
+}
+
+/* City marquee divider */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 60s linear infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track {
+    animation: none;
+  }
+}
+
+/* Staggered hero reveal */
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.rise {
+  animation: rise 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.rise-1 { animation-delay: 0.05s; }
+.rise-2 { animation-delay: 0.15s; }
+.rise-3 { animation-delay: 0.25s; }
+.rise-4 { animation-delay: 0.38s; }
+@media (prefers-reduced-motion: reduce) {
+  .rise {
+    animation: none;
+  }
+}
+
+/* Card hover lift */
+.lift {
+  transition: transform 0.25s ease, border-color 0.25s ease, background-color 0.25s ease;
+}
+.lift:hover {
+  transform: translateY(-4px);
+  border-color: var(--ember);
+}
+
+/* Native details accordion styling */
+details.faq-item > summary {
+  cursor: pointer;
+  list-style: none;
+}
+details.faq-item > summary::-webkit-details-marker {
+  display: none;
+}
+details.faq-item > summary .faq-marker {
+  transition: transform 0.2s ease;
+}
+details.faq-item[open] > summary .faq-marker {
+  transform: rotate(45deg);
 }
