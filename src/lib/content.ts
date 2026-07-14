@@ -32,11 +32,11 @@ export const spokeContentSchema = z.object({
   }),
   intro: z.string().min(400), // ~120–180 words
   localContext: z.string().min(350), // ~100–160 words
-  problemSigns: z.array(z.object({ sign: z.string(), detail: z.string() })).min(4).max(6),
-  process: z.array(z.object({ step: z.string(), description: z.string() })).length(4),
-  whyUs: z.array(z.string()).min(4).max(5),
+  problemSigns: z.array(z.object({ sign: z.string(), detail: z.string() })).min(4).max(8),
+  process: z.array(z.object({ step: z.string(), description: z.string() })).min(3).max(5),
+  whyUs: z.array(z.string()).min(4).max(6),
   neighborhoodsServed: z.array(z.string()).min(3),
-  faqs: z.array(faqSchema).min(4).max(5),
+  faqs: z.array(faqSchema).min(4).max(8),
   ctaLine: z.string().min(20),
 });
 
@@ -52,10 +52,10 @@ export const serviceHubContentSchema = z.object({
   }),
   intro: z.string().min(500),
   whatWeDo: z.string().min(400),
-  problemSigns: z.array(z.object({ sign: z.string(), detail: z.string() })).min(4).max(6),
-  process: z.array(z.object({ step: z.string(), description: z.string() })).length(4),
-  whyUs: z.array(z.string()).min(4).max(5),
-  faqs: z.array(faqSchema).min(4).max(6),
+  problemSigns: z.array(z.object({ sign: z.string(), detail: z.string() })).min(4).max(8),
+  process: z.array(z.object({ step: z.string(), description: z.string() })).min(3).max(5),
+  whyUs: z.array(z.string()).min(4).max(6),
+  faqs: z.array(faqSchema).min(4).max(8),
   ctaLine: z.string().min(20),
 });
 
@@ -72,7 +72,7 @@ export const cityHubContentSchema = z.object({
   intro: z.string().min(500),
   localContext: z.string().min(400),
   neighborhoodsServed: z.array(z.string()).min(3),
-  faqs: z.array(faqSchema).min(4).max(6),
+  faqs: z.array(faqSchema).min(4).max(8),
   ctaLine: z.string().min(20),
 });
 

@@ -101,6 +101,25 @@ const cityJob = (c: City): Job => ({
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
+/**
+ * Guarantee SEO-correct meta lengths without failing a page over a few
+ * stray characters. Titles: keep as-is if ≤60; otherwise drop trailing
+ * "| tagline" segments, then word-boundary truncate. Descriptions: keep
+ * if ≤155; otherwise word-boundary truncate.
+ */
+function clampTitle(title: string): string {
+  let t = title.trim();
+  while (t.length > 60 && t.includes("|")) {
+    t = t.slice(0, t.lastIndexOf("|")).trim();
+  }
+  return t.length <= 60 ? t : t.slice(0, 60).replace(/\s+\S*$/, "").trim();
+}
+
+function clampDescription(desc: string): string {
+  const d = desc.trim();
+  return d.length <= 155 ? d : d.slice(0, 155).replace(/\s+\S*$/, "").trim();
+}
+
 function fileIsValid(job: Job): boolean {
   if (!fs.existsSync(job.file)) return false;
   try {
@@ -169,6 +188,10 @@ async function main() {
           generatedAt: new Date().toISOString(),
           model: MODEL,
         };
+        if (merged.meta && typeof merged.meta === "object") {
+          merged.meta.title = clampTitle(String(merged.meta.title ?? ""));
+          merged.meta.description = clampDescription(String(merged.meta.description ?? ""));
+        }
         const parsed = job.validate(merged);
 
         const words = wordCount(flattenText(parsed));

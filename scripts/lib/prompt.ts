@@ -50,7 +50,7 @@ HARD RULES:
 1. Mention at least 3 of the named neighborhoods naturally in the copy.
 2. Tie this specific service's failure modes to this city's housing stock and Chicago-area weather. Do not write copy that could be pasted onto another city's page.
 3. The FAQs must only make sense for ${service.shortName} in ${city.name} — city-specific pricing context, response-time, housing-stock questions. Never generic.
-4. meta.title: max 60 characters, must contain "${service.shortName}" and "${city.name}". meta.description: max 155 characters, benefit-led.
+4. meta.title: HARD LIMIT 60 characters including spaces — count them. Must contain "${service.shortName}" and "${city.name}". Keyword first, no business name, keep any "| tagline" suffix to one or two short words. Example shape: "${service.shortName} in ${city.name}, IL | Same-Day". meta.description: max 155 characters, benefit-led.
 5. intro: 120–180 words. localContext: 100–160 words explaining why ${city.name} garages fail this way.
 6. No banned phrases. No exclamation marks except at most one.
 

@@ -1,15 +1,23 @@
 import { BANNED_PHRASES } from "./prompt";
 
-/** Character-trigram Jaccard similarity — cheap near-duplicate detector. */
+/**
+ * Word-trigram (3-word shingle) Jaccard similarity — the standard near-
+ * duplicate detector. This measures shared *phrasing*, not shared vocabulary:
+ * two genuinely distinct pages on the same topic (e.g. spring repair in
+ * different cities) share technical words but almost no 3-word sequences, so
+ * they score near 0. Templated/boilerplate copy reuses phrase sequences and
+ * scores high. (Character trigrams were rejected here: they conflate shared
+ * domain vocabulary with duplication — two distinct pages scored ~0.37.)
+ */
 export function trigramSimilarity(a: string, b: string): number {
-  const grams = (s: string): Set<string> => {
-    const clean = s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").replace(/\s+/g, " ");
+  const shingles = (s: string): Set<string> => {
+    const words = s.toLowerCase().replace(/[^a-z0-9 ]/g, " ").split(/\s+/).filter(Boolean);
     const set = new Set<string>();
-    for (let i = 0; i < clean.length - 2; i++) set.add(clean.slice(i, i + 3));
+    for (let i = 0; i < words.length - 2; i++) set.add(words.slice(i, i + 3).join(" "));
     return set;
   };
-  const ga = grams(a);
-  const gb = grams(b);
+  const ga = shingles(a);
+  const gb = shingles(b);
   if (ga.size === 0 || gb.size === 0) return 0;
   let inter = 0;
   for (const g of ga) if (gb.has(g)) inter++;
@@ -38,6 +46,9 @@ export function flattenText(obj: unknown): string {
   return "";
 }
 
-export const SIMILARITY_THRESHOLD = 0.4;
+// Word-trigram scale: genuinely distinct pages score < 0.01; this catches
+// real templating (heavy shared phrasing) while never flagging legitimate
+// same-topic pages.
+export const SIMILARITY_THRESHOLD = 0.2;
 export const MIN_SPOKE_WORDS = 650;
 export const MIN_HUB_WORDS = 700;
