@@ -1,0 +1,88 @@
+{
+  "service": "garage-door-tune-up",
+  "city": "lombard",
+  "generatedAt": "2026-07-14T23:06:04.469Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up in Lombard, IL | Prevent Issues",
+    "description": "Maintain your Lombard garage door. Prevent noise and breakdowns. Get a flat-rate quote for tune-up and maintenance. Book online for a 10% discount."
+  },
+  "hero": {
+    "headline": "Garage Door Tune-Up & Maintenance in Lombard, IL",
+    "subheadline": "Keep your garage door running smoothly. Prevent unexpected breakdowns."
+  },
+  "intro": "Regular garage door maintenance extends the life of your system. A tune-up addresses small issues before they become major problems. It ensures your door operates safely and quietly. Many Lombard homeowners neglect their garage door until it fails. This preventative service avoids being stranded when you need to leave. We check critical components and make necessary adjustments. This helps avoid more costly repairs later. It is a smart investment for your home. We provide upfront flat-rate quotes for all tune-up services. You will know the cost before any work begins. This service is designed to keep your garage door reliable through all seasons.",
+  "localContext": "Lombard's varied housing stock presents unique challenges for garage doors. Homes built in the 1920s near Lilacia Park often have detached garages. These structures, built on older foundations, frequently settle on clay soil. This settling can cause garage door openings to go out of square. Tracks pinch seasonally as the ground freezes and thaws. The spring balance also drifts with the shifting frame. Newer homes from the 1960s and 70s toward Yorktown typically feature attached garages. These are often on their second or third opener, meaning the hardware has seen years of use. Even in neighborhoods like Downtown Lombard or Westmore, local soil conditions and Chicago-area weather cycles demand regular attention. This prevents small shifts from escalating into significant operational failures.",
+  "problemSigns": [
+    {
+      "sign": "Door is louder than it used to be",
+      "detail": "Increased noise often indicates worn rollers, unlubricated parts, or loose hardware. Addressing these early prevents further damage."
+    },
+    {
+      "sign": "Haven't serviced the door since moving in",
+      "detail": "New homeowners often inherit an unmaintained door. Regular service establishes a baseline for proper function and safety."
+    },
+    {
+      "sign": "Preparing the door for winter",
+      "detail": "Cold weather strains garage door components. Lubricating and checking alignment before winter hits can prevent cold-weather breakdowns."
+    },
+    {
+      "sign": "Small issues you want caught before they strand your car",
+      "detail": "Preventative checks identify minor wear or misalignment. These can escalate into a door failure at an inconvenient time, trapping your vehicle."
+    }
+  ],
+  "process": [
+    {
+      "step": "Lubricate moving parts",
+      "description": "We apply garage-door-specific lubricant to all hinges, rollers, and springs. This reduces friction and noise."
+    },
+    {
+      "step": "Inspect and tighten hardware",
+      "description": "We check all fastener hardware and tighten loose bolts or nuts. Worn hinges are replaced as needed."
+    },
+    {
+      "step": "Check and adjust balance",
+      "description": "We test the spring tension and adjust it for proper door balance. This reduces strain on your opener."
+    },
+    {
+      "step": "Install new weather seal (if needed)",
+      "description": "We inspect the bottom rubber weather seal for cracks or wear. A new seal maintains energy efficiency and keeps out debris."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Open 24 hours Monday–Saturday for your convenience.",
+    "Upfront flat-rate quotes provided before work starts.",
+    "Book online for a 10% discount on your service.",
+    "Trucks stocked with common parts for efficient repairs."
+  ],
+  "neighborhoodsServed": [
+    "Lilacia Park area",
+    "Yorktown",
+    "Downtown Lombard",
+    "Westmore"
+  ],
+  "faqs": [
+    {
+      "q": "How often should I tune up my garage door in Lombard?",
+      "a": "We recommend a professional tune-up every 12-18 months. Lombard's changing seasons, from humid summers to freezing winters, stress garage door components. Regular service addresses the seasonal shifts that impact older detached garages near Lilacia Park and attached systems in Yorktown."
+    },
+    {
+      "q": "What is the typical cost for a garage door tune-up in Lombard?",
+      "a": "A standard garage door tune-up in Lombard typically costs between $89 and $150. This is a flat-rate price, provided upfront after an inspection. The final cost depends on specific parts needed, such as new hinges or weather seal, if the existing ones are worn."
+    },
+    {
+      "q": "Can you service my older detached garage near Lilacia Park?",
+      "a": "Yes, we specialize in older garage systems common in the Lilacia Park area. These 1920s bungalows often have detached garages built on settling clay soil. Our tune-up process accounts for out-of-square openings and spring balance drift. We ensure proper operation despite the building's age and foundation shifts."
+    },
+    {
+      "q": "How quickly can I get a tune-up appointment in Lombard?",
+      "a": "We offer flexible scheduling for tune-ups. Our service is available 24 hours Monday through Saturday. You can often book a tune-up within a day or two. Emergency service is not typically needed for a routine tune-up, but we work to fit your schedule."
+    },
+    {
+      "q": "What specific issues does a tune-up address for attached garages in Yorktown?",
+      "a": "Attached garages in Yorktown, often from the 1960s-70s, typically have older hardware. Our tune-up focuses on lubricating aged components and replacing worn fastener hardware. We also check the spring balance, which can drift over time with consistent use on these more established systems. This helps prevent sudden failures common with older, frequently used doors."
+    }
+  ],
+  "ctaLine": "Book your garage door tune-up online today."
+}

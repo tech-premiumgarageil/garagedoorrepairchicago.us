@@ -1,0 +1,88 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "bolingbrook",
+  "generatedAt": "2026-07-14T20:02:27.722Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Installation Bolingbrook, IL | New Doors",
+    "description": "Replace your old garage door in Bolingbrook. We install insulated steel, carriage-house, and full-view doors. Upfront pricing, family-owned."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Bolingbrook, IL",
+    "subheadline": "Upgrade your home's curb appeal and energy efficiency."
+  },
+  "intro": "We install new garage doors for Bolingbrook homeowners. Our team replaces old, inefficient, or damaged doors. This includes doors with rusted, cracked, or delaminating panels. Many residents upgrade from single-layer doors to improve home insulation. We offer insulated steel doors from R-9 to R-18, classic carriage-house styles, and modern full-view aluminum and glass options. Every installation includes new tracks and spring hardware. We provide an upfront flat-rate quote before any work starts. Our crew ensures your new door is properly balanced and the safety-reverse function works correctly after every job. Booking your installation online gives you a 10% discount. We are a family-owned company serving Bolingbrook Monday through Saturday, 24 hours a day for our services.",
+  "localContext": "Many Bolingbrook homes were built in subdivision waves between the 1970s and 2000s. These homes, particularly in areas like Winston Village and Indian Chase Meadows, often have original builder-grade garage doors. After decades of Chicago-area winters and summers, these doors show their age. Panels rust, crack, or delaminate from salt exposure and temperature swings. Original single-layer doors allow heat loss, increasing utility bills. We see entire blocks in Bloomfield where doors from the same era are reaching their replacement age. While our commercial crews handle the I-55 logistics corridor, residential calls for new door installations are common in these aging neighborhoods.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or Cracked Panels",
+      "detail": "Garage door panels develop rust spots or cracks over time from weather exposure."
+    },
+    {
+      "sign": "Delaminating Panels",
+      "detail": "Insulated panels can separate, showing gaps or bubbles in the door’s surface."
+    },
+    {
+      "sign": "Drafty Garage",
+      "detail": "Single-layer garage doors offer poor insulation, leading to significant heat loss in winter."
+    },
+    {
+      "sign": "Outdated Appearance",
+      "detail": "An old, worn door detracts from your home's overall curb appeal."
+    },
+    {
+      "sign": "Converting to Heated Space",
+      "detail": "Upgrading to an insulated door is necessary when converting a garage into a heated living area."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation & Quote",
+      "description": "We discuss your new door options and provide a flat-rate quote before work begins."
+    },
+    {
+      "step": "Door Selection",
+      "description": "Choose from insulated steel, carriage-house, or full-view aluminum and glass doors."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our team installs your new garage door, including all tracks and spring hardware."
+    },
+    {
+      "step": "Safety & Balance Test",
+      "description": "We confirm your new door is balanced and the safety-reverse function works correctly."
+    }
+  ],
+  "whyUs": [
+    "Upfront Flat-Rate Quotes: You receive a clear price before any work starts. No hidden fees.",
+    "Family-Owned Business: We are a local family business serving the Bolingbrook area.",
+    "Online Booking Discount: Get 10% off your new garage door installation when you book online.",
+    "Full-Service Installation: Every new door includes new tracks, springs, and a safety check.",
+    "Available Monday-Saturday: Our team is available 24 hours a day, Monday through Saturday."
+  ],
+  "neighborhoodsServed": [
+    "Indian Chase Meadows",
+    "Winston Village",
+    "Bloomfield",
+    "Americana Estates"
+  ],
+  "faqs": [
+    {
+      "q": "What's the typical cost for a new garage door installation in Bolingbrook?",
+      "a": "New garage door installations in Bolingbrook typically range from $1,100 to $4,500, installed. This price depends on the door type, insulation level, and style you choose."
+    },
+    {
+      "q": "Many Bolingbrook homes, especially in Winston Village or Indian Chase Meadows, have older, single-layer garage doors. Is an insulated door a significant upgrade?",
+      "a": "Yes. Converting to an insulated door, like our R-9 to R-18 steel options, will significantly improve your garage's energy efficiency. This helps manage heating costs during cold Illinois winters."
+    },
+    {
+      "q": "Can I get a new garage door installed on a Saturday in Bolingbrook?",
+      "a": "Yes. We operate 24 hours a day, Monday through Saturday, for new door installations. We can schedule your project on a weekend to fit your availability."
+    },
+    {
+      "q": "Our entire block in Bloomfield seems to need new garage doors. Do you handle multiple installations in the same area?",
+      "a": "Yes, we regularly service homeowners throughout Bolingbrook. We understand that many homes in neighborhoods like Bloomfield and Americana Estates were built around the same time and their original doors are aging in sync."
+    }
+  ],
+  "ctaLine": "Ready for a new garage door? Book your installation online for a 10% discount."
+}

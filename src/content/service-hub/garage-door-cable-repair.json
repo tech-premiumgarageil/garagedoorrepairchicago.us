@@ -1,0 +1,81 @@
+{
+  "service": "garage-door-cable-repair",
+  "generatedAt": "2026-07-15T15:40:11.518Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Cable Repair in Chicago & Chicagoland",
+    "description": "Expert repair for broken or frayed garage door cables across Chicago. We replace lift cables, drums, and brackets. Upfront pricing, 24/6 emergency service."
+  },
+  "hero": {
+    "headline": "Garage Door Cable Repair in Chicago & Chicagoland",
+    "subheadline": "We fix broken, frayed, or slipping garage door cables. Get your door operating safely again."
+  },
+  "intro": "A garage door relies on its lift cables to operate smoothly and safely. These galvanized steel cables connect the bottom corners of your garage door to the spring system, either torsion or extension. As the garage door opens, the cables spool onto drums mounted on the spring shaft, lifting the door's full weight evenly. When a cable frays, slips off its drum, or breaks entirely, your garage door cannot function correctly. It might hang severely lopsided in the opening, refuse to open or close, or drop unexpectedly and quickly. This creates an immediate safety hazard for people and property, along with a security risk for your home or business. Cable failure is a common issue caused by general wear and tear, corrosion from moisture, or accidental impact. Attempting a do-it-yourself cable repair is extremely dangerous due to the high tension held within the garage door springs. Our technicians serve properties across Chicago and the surrounding suburbs, addressing cable problems on all garage door types and configurations. We provide precise, safe cable repair services to ensure your door operates reliably again.",
+  "whatWeDo": "We restore proper garage door function by replacing damaged lift cables and related components. Our service includes removing the broken or compromised cables. We then install new galvanized aircraft-grade lift cables designed for strength and durability. If cable drums are worn or damaged, we replace them. We also inspect and replace any failing bottom brackets that attach the cables to the door. After new parts are installed, we carefully re-string and re-tension the spring system. This ensures the cables are wound correctly on the drums and the door is balanced. Correct spring tension is critical for proper cable function and door longevity. We use industry-standard practices to prevent future cable issues. This comprehensive approach ensures the entire lift system works as intended.",
+  "problemSigns": [
+    {
+      "sign": "Door hangs crooked in the opening",
+      "detail": "One side of the garage door is lower than the other, indicating an issue with one of the lift cables."
+    },
+    {
+      "sign": "Cable hanging loose or wrapped off the drum",
+      "detail": "A visible cable that is slack, tangled, or unwound from its proper position on the cable drum."
+    },
+    {
+      "sign": "Grinding or scraping noise as the door moves",
+      "detail": "Unusual sounds can indicate a cable rubbing against components or a frayed cable beginning to fail."
+    },
+    {
+      "sign": "Door slams down faster than normal or won't stay open",
+      "detail": "A loss of balance due to a damaged cable can cause the door to close rapidly or fail to hold its position."
+    }
+  ],
+  "process": [
+    {
+      "step": "Contact Us",
+      "description": "Call us or book online. We are open for dispatch Monday through Saturday, 24 hours a day for emergency service."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "Our technician arrives, inspects your garage door's cables and entire system, and provides a flat-rate price. This quote is given before any work starts."
+    },
+    {
+      "step": "Professional Repair",
+      "description": "Our trucks are stocked with common parts. We replace broken or worn cables, drums, and brackets. We work safely and efficiently to restore your garage door's function quickly and safely."
+    },
+    {
+      "step": "Balance and Safety Test",
+      "description": "After every job, we perform a balance test and safety-reverse test. This ensures your garage door operates correctly and safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned company serving Chicagoland.",
+    "Open 24 hours Monday–Saturday for urgent repairs.",
+    "Upfront flat-rate quotes before work begins.",
+    "10% discount for online booking.",
+    "Technicians arrive with trucks stocked with common parts."
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door cable repair cost?",
+      "a": "The cost for garage door cable repair typically ranges from $150 to $350. This price includes all necessary parts, such as new galvanized aircraft-grade lift cables, and labor. The final cost depends on factors like whether one or both cables need replacement, if cable drums or bottom brackets also require replacement, and the specific type of spring system on your garage door. We provide an upfront, flat-rate quote before any work begins, so you know the exact cost beforehand."
+    },
+    {
+      "q": "Why do garage door cables break or come off their drums?",
+      "a": "Garage door cables can fail for several reasons. The most common cause is general wear and tear from years of lifting and lowering the heavy door, leading to fraying. Corrosion from moisture exposure, especially in humid Chicago weather or unheated garages, can weaken the steel strands. If the garage door springs lose tension or are improperly balanced, the cables can become slack and jump off their drums. Accidental impact to the door or cables can also cause immediate damage. Regular maintenance can extend cable life, but eventual replacement is part of routine garage door care."
+    },
+    {
+      "q": "Is a broken garage door cable dangerous?",
+      "a": "Yes, a broken garage door cable is dangerous. These cables bear the full weight of the garage door. If a cable snaps or comes loose, the door can fall suddenly and without warning. This uncontrolled descent poses a severe risk of injury to anyone nearby and can cause significant property damage to vehicles or other items in the garage. Additionally, the high tension in the garage door springs can be extremely hazardous if mishandled. We recommend keeping a safe distance from a door with a broken cable and contacting a professional for repair."
+    },
+    {
+      "q": "How long does a garage door cable repair take?",
+      "a": "Most garage door cable repairs can be completed in approximately one to two hours. This timeframe includes the removal of old components, installation of new cables and any related parts, and the crucial step of re-tensioning and balancing the door's spring system. Our service trucks are stocked with common parts, allowing our technicians to complete most repairs during the initial visit. We work efficiently to restore your garage door's function quickly and safely."
+    },
+    {
+      "q": "What happens if only one garage door cable is broken?",
+      "a": "If only one garage door cable breaks, the door will likely hang crooked or become jammed in the tracks. The remaining cable will bear all the door's weight on one side, putting excessive stress on that cable, the spring system, and other components. Continuing to operate the door in this condition can quickly lead to damage to the good cable, the garage door tracks, the opener, or the door panels themselves. It is always recommended to replace both cables at the same time, even if only one is visibly broken, to ensure balanced operation and prevent uneven wear."
+    }
+  ],
+  "ctaLine": "Need garage door cable repair? Schedule service online or call us today."
+}

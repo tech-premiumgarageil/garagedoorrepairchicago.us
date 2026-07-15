@@ -1,0 +1,94 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "naperville",
+  "generatedAt": "2026-07-14T18:37:10.661Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation Naperville, IL | Family Owned",
+    "description": "Upgrade your Naperville home with a new garage door. We install insulated steel, carriage house, and full-view doors. Upfront pricing. Online booking"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Naperville, IL",
+    "subheadline": "Upgrade your home's curb appeal and energy efficiency."
+  },
+  "intro": "We are a family-owned garage door repair company serving Naperville, DuPage County, IL. We specialize in new garage door installation. You get an upfront flat-rate quote before any work starts. This quote covers all parts and labor. Book your installation online to receive a 10% discount. A new garage door improves your home's appearance and function. Many homes in Naperville's Ashbury and Tall Grass neighborhoods are now ready for a door replacement. Original builder-grade doors wear out from years of use. We offer various styles, including insulated steel, carriage-house style, and full-view aluminum doors. Our trucks are stocked with common parts. This helps ensure a smooth, efficient installation. We always test the door balance and safety reverse after every job is complete.",
+  "localContext": "Naperville's housing stock from the 1980s through 2000s often features large subdivision homes. These homes, particularly in areas like Cress Creek and White Eagle, came with attached two- and three-car garages. Many original insulated steel doors and builder-grade openers are now reaching the end of their service life. Chicago-area weather takes a toll. Rust and delamination become common issues. Metra BNSF commuters depend on their garage every morning. A spring that snaps at 6 AM in Cress Creek can mean a missed train. Oversized doors common here need properly matched high-cycle springs for reliable daily operation. This prevents premature wear and ensures safety.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or cracked panels",
+      "detail": "Your garage door panels show rust spots, dents, or cracks from age and weather."
+    },
+    {
+      "sign": "Delaminating sections",
+      "detail": "Sections of your door are separating or peeling apart, indicating material failure."
+    },
+    {
+      "sign": "Drafty or cold garage",
+      "detail": "Cold air enters your garage through an uninsulated or single-layer door during winter."
+    },
+    {
+      "sign": "Dated appearance",
+      "detail": "Your garage door looks old or negatively impacts your home's curb appeal before selling."
+    },
+    {
+      "sign": "Converting a garage",
+      "detail": "You plan to insulate your garage for a new purpose, requiring a more energy-efficient door."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation and Quote",
+      "description": "We discuss your new door options and provide an upfront flat-rate quote for your installation."
+    },
+    {
+      "step": "Door Selection",
+      "description": "Choose from insulated steel, carriage-house style, or full-view aluminum doors."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians install your new door, including complete track and spring hardware."
+    },
+    {
+      "step": "Safety Testing",
+      "description": "We perform a balance and safety-reverse test after installation to ensure proper function."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned local business.",
+    "You receive an upfront flat-rate quote before any work begins.",
+    "Book online to get a 10% discount on your new door installation.",
+    "Our trucks are stocked with common parts for efficient service.",
+    "We test door balance and safety features after every installation."
+  ],
+  "neighborhoodsServed": [
+    "Ashbury",
+    "Cress Creek",
+    "Tall Grass",
+    "White Eagle",
+    "Knoch Knolls",
+    "Downtown Naperville"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Naperville?",
+      "a": "New garage door installations in Naperville typically range from $1,100 to $4,500, installed. Pricing depends on door type, insulation, and size for homes in areas like Knoch Knolls."
+    },
+    {
+      "q": "How long does a new garage door installation take?",
+      "a": "Most new garage door installations are completed in one day. We coordinate timing to minimize disruption, especially for Metra commuters in neighborhoods like Cress Creek."
+    },
+    {
+      "q": "Do you install doors for the larger homes common in Naperville subdivisions?",
+      "a": "Yes, we regularly install new doors for two- and three-car garages in Naperville neighborhoods like White Eagle and Ashbury. We ensure proper high-cycle springs for oversized doors."
+    },
+    {
+      "q": "Can I convert my uninsulated Naperville garage door to an insulated one?",
+      "a": "Yes, we install insulated steel doors with R-values from R-9 to R-18. This helps with energy efficiency for homes in Tall Grass and other areas during Chicago winters."
+    },
+    {
+      "q": "What types of new garage doors do you offer for Naperville homes?",
+      "a": "We install insulated steel doors, carriage-house style doors, and full-view aluminum and glass doors. Many Naperville homeowners upgrade their curb appeal before selling."
+    }
+  ],
+  "ctaLine": "Schedule your new garage door installation today and save 10% when you book online!"
+}

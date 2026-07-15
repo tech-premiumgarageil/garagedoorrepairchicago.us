@@ -1,0 +1,92 @@
+{
+  "service": "garage-door-tune-up",
+  "city": "mount-prospect",
+  "generatedAt": "2026-07-14T23:04:28.726Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up Mount Prospect, IL | Quiet Operation",
+    "description": "Prevent garage door failures in Mount Prospect. We service noisy doors, lubricate parts, and test safety. Flat rates, 24/6 service, book online for 10%"
+  },
+  "hero": {
+    "headline": "Garage Door Tune-Up & Maintenance in Mount Prospect, IL",
+    "subheadline": "Prevent unexpected breakdowns. Keep your Mount Prospect garage door operating smoothly and safely."
+  },
+  "intro": "A garage door tune-up prevents future problems. We inspect, lubricate, and adjust your entire door system. This service catches small issues before they become major repairs. It keeps your door operating quietly. We service all common residential garage door types. Our technicians work quickly. They arrive with common parts stocked on their trucks. We provide an upfront flat-rate quote before any work starts. Book your tune-up online for a 10% discount. This service extends the life of your garage door and opener. It ensures reliable access to your home. We are a family-owned business. We serve Mount Prospect residents Monday through Saturday, 24 hours a day.",
+  "localContext": "Mount Prospect experiences cold winters. Many homes in areas like Prospect Manor and Countryside feature 1950s–60s brick ranches. These often have original steel garage doors. Many are un-insulated single-skin panels. In subzero January days, these doors visibly bow inward. This puts stress on hinges and tracks. It causes binding. Overworked openers follow quickly. Neglecting maintenance means these issues worsen. The cold makes existing problems more severe. A proper tune-up addresses these specific challenges. It prepares doors in Downtown Mount Prospect and throughout the city for the changing seasons. This prevents premature wear and costly repairs.",
+  "problemSigns": [
+    {
+      "sign": "Loud Operation",
+      "detail": "Your garage door makes more noise than before. Squeaks or grinding sounds are common signs."
+    },
+    {
+      "sign": "No Recent Service",
+      "detail": "You haven't had your garage door inspected or serviced since you bought your home."
+    },
+    {
+      "sign": "Seasonal Preparation",
+      "detail": "You want to prepare your garage door for the deep cold of a Mount Prospect winter."
+    },
+    {
+      "sign": "Minor Glitches",
+      "detail": "Small issues are present that you want addressed before they cause a full breakdown."
+    },
+    {
+      "sign": "Visible Flexing",
+      "detail": "Your un-insulated steel door visibly bows inward during cold weather, indicating stress."
+    }
+  ],
+  "process": [
+    {
+      "step": "Upfront Quote",
+      "description": "We provide a flat-rate quote for the tune-up service before any work begins."
+    },
+    {
+      "step": "Thorough Inspection",
+      "description": "Our technician inspects all moving parts, tracks, and the opener for wear and damage."
+    },
+    {
+      "step": "Lubrication and Adjustment",
+      "description": "We apply garage-door-specific lubricant. We adjust hinges and check fastener hardware."
+    },
+    {
+      "step": "Safety Testing",
+      "description": "We perform a balance test and safety-reverse test to ensure safe operation."
+    }
+  ],
+  "whyUs": [
+    "We are a local, family-owned garage door repair company.",
+    "You get an upfront flat-rate quote before any work starts.",
+    "We are open 24 hours, Monday through Saturday, for your schedule.",
+    "Our trucks are stocked with common parts for efficient service.",
+    "Book your service online and receive a 10% discount."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Mount Prospect",
+    "Prospect Manor",
+    "We-Go Park",
+    "Countryside"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a garage door tune-up in Mount Prospect?",
+      "a": "Most tune-ups cost $89–$150 flat. This price includes lubrication, adjustments, and safety checks. We provide an exact upfront quote."
+    },
+    {
+      "q": "How often should I get my garage door tuned up in Mount Prospect's climate?",
+      "a": "We recommend an annual tune-up. Mount Prospect's cold winters and temperature swings can stress garage door components, especially older un-insulated doors."
+    },
+    {
+      "q": "My garage door is loud in my Prospect Manor home. Will a tune-up fix this?",
+      "a": "A tune-up often reduces noise by lubricating moving parts and tightening hardware. If a component is worn, we will identify it during the inspection and provide repair options."
+    },
+    {
+      "q": "Can you service the older steel doors common in Mount Prospect neighborhoods like Countryside?",
+      "a": "Yes, we regularly service all types of residential garage doors, including the older steel panel doors found in Mount Prospect. We address issues related to their specific wear patterns."
+    },
+    {
+      "q": "Is a tune-up an emergency service if my door is struggling in cold weather?",
+      "a": "A tune-up is not an emergency service. If your door is completely stuck or unsafe, that is a repair call. A tune-up is for preventative care and minor adjustments."
+    }
+  ],
+  "ctaLine": "Schedule your Mount Prospect garage door tune-up online today."
+}

@@ -1,0 +1,88 @@
+{
+  "service": "garage-door-spring-repair",
+  "city": "lombard",
+  "generatedAt": "2026-07-14T17:19:26.687Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Spring Repair in Lombard, IL | Same-Day Service",
+    "description": "Lombard garage door spring broken? We offer 24/6 emergency spring repair for DuPage County. Upfront flat-rate pricing, certified technicians, family-owned."
+  },
+  "hero": {
+    "headline": "Garage Door Spring Repair in Lombard, IL",
+    "subheadline": "Broken spring? Get immediate, reliable service. Upfront pricing."
+  },
+  "intro": "A broken garage door spring stops your door. In Lombard, IL, this often means your daily routine is interrupted. We provide fast, reliable garage door spring repair. Our family-owned company serves homes across Lombard, from the 1920s bungalows near Lilacia Park to the ranches closer to Yorktown. When a spring breaks, your door becomes dangerously heavy or won't move. We fix this problem safely and efficiently. Our technicians arrive with common parts stocked in their trucks. You receive an upfront flat-rate quote before any work starts. Book online for a 10% discount on your spring repair. We work to restore your garage door's function quickly and safely.",
+  "localContext": "Lombard's varied housing stock contributes to unique spring wear. Many 1920s bungalows in the Lilacia Park area have detached garages. Their frames often settle on clay soil. This causes out-of-square openings that pinch tracks seasonally. The continuous strain on springs from unbalanced doors leads to early failure. Properties towards Westmore and Yorktown, featuring 1960s–70s ranches, often have attached garages on their second or third opener. Older doors mean more cycles. Chicago-area freeze-thaw cycles also impact garage foundations. This shifts the door frame, throwing off spring balance. We understand these specific challenges in DuPage County.",
+  "problemSigns": [
+    {
+      "sign": "Loud Bang from Garage",
+      "detail": "A broken spring often makes a sharp, loud noise. This sounds like a gunshot inside your garage."
+    },
+    {
+      "sign": "Door Won't Lift or Feels Heavy",
+      "detail": "Springs counterbalance the door's weight. Without them, the door is extremely heavy or impossible to open manually."
+    },
+    {
+      "sign": "Visible Gap in Torsion Spring",
+      "detail": "Look above the garage door. A broken torsion spring will have a noticeable gap, usually 1-2 inches wide."
+    },
+    {
+      "sign": "Door Lifts a Few Inches Then Stops",
+      "detail": "This indicates partial spring failure. The door cannot sustain its lift beyond the initial push."
+    },
+    {
+      "sign": "Loose or Slack Cables",
+      "detail": "If the cables on either side of the door appear loose or have come off the drums, it often points to a broken spring."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspection and Quote",
+      "description": "Our technician checks your garage door system. You get a flat-rate price quote before any work begins."
+    },
+    {
+      "step": "Part Replacement",
+      "description": "We replace the broken spring with high-cycle, oil-tempered torsion springs or extension springs with safety cables. Our trucks carry common parts."
+    },
+    {
+      "step": "System Calibration",
+      "description": "We install new winding cones, center and end bearing plates as needed. We adjust the new springs to balance your door correctly."
+    },
+    {
+      "step": "Safety Check",
+      "description": "We perform a balance test and safety-reverse test. This ensures your door operates safely and smoothly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront flat-rate pricing on all repairs.",
+    "Emergency service available 24 hours Monday–Saturday.",
+    "Trucks stocked with common repair parts for fast service.",
+    "10% discount when you book your service online."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Lombard",
+    "Lilacia Park area",
+    "Yorktown",
+    "Westmore"
+  ],
+  "faqs": [
+    {
+      "q": "What does garage door spring repair cost in Lombard?",
+      "a": "Spring repair in Lombard typically costs $180–$450. This includes all parts and labor. The final price depends on your specific spring type and door size. You receive an upfront flat-rate quote."
+    },
+    {
+      "q": "Can you fix my broken garage door spring today in Lombard?",
+      "a": "Yes. We offer emergency dispatch 24 hours Monday through Saturday. We prioritize broken spring repairs. We serve all Lombard neighborhoods, including the Lilacia Park area and Yorktown."
+    },
+    {
+      "q": "Why do garage door springs break in Lombard, IL?",
+      "a": "Lombard's older garages, especially those near Downtown Lombard or Westmore, often sit on clay soil. This causes foundation settling and out-of-square door openings. The added stress wears springs faster. Frequent Chicago-area temperature swings also contribute to material fatigue."
+    },
+    {
+      "q": "What type of springs do you install for Lombard garages?",
+      "a": "We install high-cycle, oil-tempered torsion springs and extension springs with safety cables. We also replace worn center and end bearing plates and winding cones as needed to ensure proper function."
+    }
+  ],
+  "ctaLine": "Get your garage door spring repaired. Book online for a 10% discount."
+}

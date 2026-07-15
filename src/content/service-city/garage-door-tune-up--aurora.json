@@ -1,0 +1,89 @@
+{
+  "service": "garage-door-tune-up",
+  "city": "aurora",
+  "generatedAt": "2026-07-14T22:55:12.790Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up & Maintenance Aurora, IL | Quick Service",
+    "description": "Maintain your Aurora garage door. We offer upfront flat-rate quotes and 24/6 service. Prevent breakdowns with our tune-up. Book online for 10% off."
+  },
+  "hero": {
+    "headline": "Aurora Garage Door Tune-Up & Maintenance",
+    "subheadline": "Extend your door's life. Prevent unexpected failures."
+  },
+  "intro": "Your garage door works hard every day. Regular tune-ups keep it operating smoothly. They also help prevent larger, more expensive problems from developing. Our family-owned company offers thorough maintenance services for Aurora homeowners. We check all moving parts. We lubricate components and make necessary adjustments. You get an upfront flat-rate quote before any work begins. This means no surprises. We are open 24 hours Monday through Saturday for your convenience. Our service trucks carry common parts. We can often complete repairs during your tune-up appointment. Book your service online and receive a 10% discount. A properly maintained door operates quietly and safely. Our service ensures this performance for your home.",
+  "localContext": "Aurora's diverse housing stock means garage doors face unique stresses. Victorian-era homes near the Fox River, including those in the West Side Historic District, often have older detached garages. The Fox River valley's humidity swings cause wood doors to warp and bare metal tracks to rust. This increases wear on rollers and springs. Newer subdivisions on the far east side, such as Stonebridge and Fox Valley, often feature attached three-car garages. Many of these homes were built within a five-year window in the 1990s and 2000s. Their original garage door springs and openers are now simultaneously reaching their end-of-life. Regular maintenance can identify these potential issues early. It keeps your door running reliably through Aurora's varied seasons.",
+  "problemSigns": [
+    {
+      "sign": "Door is louder than it used to be",
+      "detail": "Grinding, squeaking, or scraping sounds indicate worn parts or a need for lubrication."
+    },
+    {
+      "sign": "Haven't serviced the door since moving in",
+      "detail": "New homes or resales benefit from an initial inspection. This catches deferred maintenance."
+    },
+    {
+      "sign": "Preparing the door for winter",
+      "detail": "Cold weather stresses components. A pre-winter tune-up helps prevent freezing issues or breakages."
+    },
+    {
+      "sign": "Small issues you want caught before they strand your car",
+      "detail": "Minor fraying cables or worn rollers can lead to complete door failure without warning."
+    }
+  ],
+  "process": [
+    {
+      "step": "Full System Check",
+      "description": "We inspect all moving parts: springs, cables, rollers, hinges, and track alignment."
+    },
+    {
+      "step": "Lubrication and Adjustment",
+      "description": "We apply garage-door-specific lubricant to all appropriate parts. We adjust spring tension and opener limits."
+    },
+    {
+      "step": "Component Replacement",
+      "description": "Our trucks are stocked with common parts like hinges, weather seals, and fastener hardware. We replace worn components as needed."
+    },
+    {
+      "step": "Safety Testing",
+      "description": "After all work, we perform a balance test and safety-reverse test. This ensures your door operates safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront flat-rate quotes provided before work starts.",
+    "24 hours Monday–Saturday availability for repairs.",
+    "10% discount when you book your service online.",
+    "Trucks stocked with common parts for faster service."
+  ],
+  "neighborhoodsServed": [
+    "Stonebridge",
+    "West Side Historic District",
+    "Fox Valley",
+    "Eola",
+    "Pigeon Hill"
+  ],
+  "faqs": [
+    {
+      "q": "Why is my Aurora garage door making more noise now?",
+      "a": "Aurora's humidity and temperature changes can cause parts to wear faster. The Fox River valley often experiences significant moisture swings. This can affect older wood doors and bare metal tracks. Regular lubrication and adjustment during a tune-up can reduce noise. It also extends the life of components like rollers and hinges before they fail completely."
+    },
+    {
+      "q": "How often should I get a tune-up for my Aurora garage door?",
+      "a": "We recommend an annual tune-up. For homes in Aurora's east-side subdivisions, many garage doors installed in the 1990s and 2000s are now reaching their service life simultaneously. An annual check identifies worn springs or opener issues before they cause unexpected breakdowns. This is especially important before winter months."
+    },
+    {
+      "q": "What is the typical cost for a garage door tune-up in Aurora?",
+      "a": "A standard tune-up typically costs $89 to $150 flat. This price includes inspection, lubrication, and minor adjustments. If parts like hinges or weather seals need replacing, we provide an updated upfront flat-rate quote. You will know the full cost before any additional work proceeds."
+    },
+    {
+      "q": "Can you service my older detached garage door near the Fox River?",
+      "a": "Yes, we service all types of garages, including older detached units. Homes in the West Side Historic District near the Fox River often have unique door systems. Our technicians are familiar with the common issues for these doors. We address specific problems like rust on tracks and warping from local humidity."
+    },
+    {
+      "q": "What if I need a tune-up on a Saturday?",
+      "a": "We are open 24 hours Monday through Saturday. This schedule accommodates most Aurora residents. You can book an appointment for a Saturday tune-up. This flexibility ensures your garage door receives maintenance at your convenience, without disrupting your weekday schedule."
+    }
+  ],
+  "ctaLine": "Book your Aurora garage door tune-up online today."
+}

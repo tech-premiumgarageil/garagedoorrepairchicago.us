@@ -1,0 +1,89 @@
+{
+  "service": "garage-door-tune-up",
+  "city": "arlington-heights",
+  "generatedAt": "2026-07-14T22:59:14.353Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up Arlington Heights, IL | Fast Service",
+    "description": "Prevent garage door failures in Arlington Heights. Our tune-up service keeps your door quiet and reliable. Flat-rate pricing, family-owned. Book online"
+  },
+  "hero": {
+    "headline": "Garage Door Tune-Up & Maintenance in Arlington Heights, IL",
+    "subheadline": "We keep your Arlington Heights garage door running smoothly and quietly."
+  },
+  "intro": "A working garage door is important for Arlington Heights residents. Our tune-up service addresses common door issues. It prevents small problems from becoming bigger, more expensive repairs. We lubricate moving parts, tighten hardware, and inspect the entire system. Your door will run quieter. We can prepare your garage door for the cold Chicago winter. It also catches minor wear before it strands your car. Many homeowners haven't serviced their garage door since moving in. This service is for them. We provide upfront flat-rate quotes before any work starts. Our family-owned company serves Arlington Heights 24 hours Monday through Saturday. Book your tune-up online and get a 10% discount.",
+  "localContext": "Garage doors in Arlington Heights face specific challenges. The established housing stock ranges from 1950s ranches near Downtown Arlington to 1990s two-stories around Lake Arlington. These homes often have mid-life garage door openers. Chicago’s weather with its cold winters and temperature swings stresses door components. Original hardware, hinges, and weather seals wear out. This leads to louder operation, especially noticeable in homes where bedrooms are above the garage. Residents in Scarsdale or Berkley Square with older homes benefit from proactive maintenance. Our service addresses these specific wear patterns. It helps prevent unexpected failures, particularly for Metra UP-NW commuters who need a reliable door in the morning. A quiet belt-drive opener is a common upgrade request when the current one is under a bedroom.",
+  "problemSigns": [
+    {
+      "sign": "Door is louder than it used to be",
+      "detail": "Squeaks, grinding noises, or increased operational volume indicate parts needing lubrication or replacement."
+    },
+    {
+      "sign": "Haven't serviced the door since moving in",
+      "detail": "Deferred maintenance can lead to unexpected failures. Regular service extends door life."
+    },
+    {
+      "sign": "Preparing the door for winter",
+      "detail": "Winter weather in Chicago stresses all garage door components. A tune-up prevents cold-weather failures."
+    },
+    {
+      "sign": "Small issues you want caught before they strand your car",
+      "detail": "Catching minor wear on rollers, hinges, or springs prevents inconvenient breakdowns."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspect All Components",
+      "description": "Our technician examines springs, cables, rollers, hinges, and weather seals for wear."
+    },
+    {
+      "step": "Lubricate and Tighten",
+      "description": "We apply garage-door-specific lubricant to moving parts. We tighten all fastener hardware."
+    },
+    {
+      "step": "Minor Hardware Replacement",
+      "description": "We replace worn hinges or damaged bottom weather seals if they compromise door function."
+    },
+    {
+      "step": "Safety Performance Check",
+      "description": "We conduct a balance test and safety-reverse test to ensure your door operates safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business serving Chicagoland.",
+    "Upfront flat-rate quotes before any work begins.",
+    "Service available 24 hours Monday–Saturday.",
+    "Trucks stocked with common parts for quick repairs.",
+    "Book online to receive a 10% discount on your service."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Arlington",
+    "Scarsdale",
+    "Pioneer Park",
+    "Berkley Square",
+    "Lake Arlington"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a garage door tune-up in Arlington Heights?",
+      "a": "A standard tune-up in Arlington Heights typically costs $89–$150. This is an upfront flat rate. Any additional parts needed are quoted separately."
+    },
+    {
+      "q": "How long does a tune-up take for my Arlington Heights garage door?",
+      "a": "Most tune-ups for Arlington Heights' established housing stock take 30-60 minutes. This includes inspection, lubrication, adjustments, and safety testing."
+    },
+    {
+      "q": "Can I schedule a tune-up outside of standard business hours in Arlington Heights?",
+      "a": "Yes, we offer tune-ups 24 hours Monday through Saturday. We can accommodate early morning slots for Metra UP-NW commuters."
+    },
+    {
+      "q": "Why is a tune-up important for Arlington Heights homes with older garage doors?",
+      "a": "Many homes in areas like Scarsdale or Berkley Square have garage doors and openers from the 1950s-1990s. Regular tune-ups prevent wear from Chicago weather and extend the life of these mid-life systems, preventing costly breakdowns."
+    },
+    {
+      "q": "Is a tune-up considered an emergency service?",
+      "a": "No, a garage door tune-up is not an emergency service. It is preventative maintenance. If your door is completely broken, you need a repair service."
+    }
+  ],
+  "ctaLine": "Book your Arlington Heights tune-up online for 10% off."
+}

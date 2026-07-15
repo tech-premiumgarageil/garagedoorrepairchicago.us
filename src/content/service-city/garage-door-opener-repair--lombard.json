@@ -1,0 +1,88 @@
+{
+  "service": "garage-door-opener-repair",
+  "city": "lombard",
+  "generatedAt": "2026-07-14T17:45:13.249Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Opener Repair in Lombard, IL | Quick Service",
+    "description": "Lombard garage door opener repair. Upfront quotes. Family-owned. Same-day service often available. Fix hums, reverse issues, sensor problems. Book online"
+  },
+  "hero": {
+    "headline": "Garage Door Opener Repair in Lombard, IL",
+    "subheadline": "Upfront Flat-Rate Quotes. Open 24 Hours Monday–Saturday."
+  },
+  "intro": "Your garage door opener is crucial for daily life in Lombard. When it fails, your schedule stops. We offer reliable garage door opener repair across Lombard, DuPage County. This includes homes in Downtown Lombard, the Lilacia Park area, and neighborhoods toward Yorktown. Our family-owned business provides upfront flat-rate quotes before any work begins. We fix most opener problems on the first visit. Our trucks arrive stocked with common parts. Book your repair online and receive a 10% discount. We are open 24 hours Monday–Saturday. Expect clear pricing and a properly working garage door opener.",
+  "localContext": "Lombard's older housing stock often deals with shifting foundations. Many 1920s bungalows near Lilacia Park have detached garages. 1960s and 1970s ranches toward Yorktown have attached garages. These structures sit on clay soil, common throughout DuPage County. This soil type expands and contracts with Chicago-area weather, especially freeze-thaw cycles. Garage door openings can become slightly out-of-square. This causes tracks to pinch seasonally, putting extra strain on your opener. Older openers in Westmore, often on their second or third unit, work harder to lift doors. This accelerates wear on gears and belts, leading to breakdowns.",
+  "problemSigns": [
+    {
+      "sign": "Opener hums, door does not move",
+      "detail": "The motor runs, but the door remains stationary. This often points to a stripped gear or a broken chain/belt."
+    },
+    {
+      "sign": "Door reverses before touching the floor",
+      "detail": "The door closes part-way, then opens again. This can be a sign of misaligned safety sensors or an obstruction."
+    },
+    {
+      "sign": "Remote or keypad stopped responding",
+      "detail": "Your opener does not react to commands from your remote control or external keypad. This could be a logic board or receiver issue."
+    },
+    {
+      "sign": "Safety sensor lights blinking",
+      "detail": "The small lights on your safety sensors are flashing. This indicates an obstruction or misalignment preventing the door from closing."
+    },
+    {
+      "sign": "Trolley moves, but door stays down",
+      "detail": "The carriage travels along the track, but the door is disconnected. This usually means a broken or disengaged trolley carriage."
+    }
+  ],
+  "process": [
+    {
+      "step": "Get Your Quote",
+      "description": "We provide an upfront flat-rate quote for your opener repair. You approve the price before we start."
+    },
+    {
+      "step": "Skilled Repair",
+      "description": "Our technicians arrive with common opener parts. Most repairs are completed on the first visit."
+    },
+    {
+      "step": "Test Performance",
+      "description": "After repair, we perform a balance test and safety-reverse test. Your opener will operate safely and smoothly."
+    },
+    {
+      "step": "Book Online & Save",
+      "description": "Schedule your service online for a 10% discount. We confirm your appointment quickly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront flat-rate pricing on all repairs.",
+    "Trucks stocked with common opener parts for quick fixes.",
+    "Open 24 hours Monday–Saturday for your convenience.",
+    "Get 10% off when you book your service online."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Lombard",
+    "Lilacia Park area",
+    "Yorktown",
+    "Westmore"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for garage door opener repair in Lombard?",
+      "a": "Most garage door opener repairs in Lombard cost between $120 and $320. This price includes parts and labor. We provide an exact upfront quote after diagnosis."
+    },
+    {
+      "q": "How quickly can you repair my opener in Lombard?",
+      "a": "We aim for same-day service for Lombard residents when possible. We are open 24 hours Monday through Saturday. Call us, and we will schedule your repair promptly."
+    },
+    {
+      "q": "My Lombard home has an older opener. Should I repair or replace it?",
+      "a": "Many Lombard homes, especially 1960s-70s ranches near Yorktown, are on their second or third opener. If the issue is a common part like a drive gear or safety sensor, repair is often cost-effective. We will provide an honest assessment."
+    },
+    {
+      "q": "Why do my safety sensors often act up in my Lombard garage?",
+      "a": "Older garages in Lombard, particularly 1920s bungalows near Lilacia Park, can settle over time. This can cause slight shifts in the garage opening. Misalignment of safety sensors is common when the structure shifts or during seasonal weather changes."
+    }
+  ],
+  "ctaLine": "Get your Lombard garage door opener fixed today."
+}

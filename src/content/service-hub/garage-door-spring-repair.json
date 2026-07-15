@@ -1,0 +1,85 @@
+{
+  "service": "garage-door-spring-repair",
+  "generatedAt": "2026-07-15T15:39:30.110Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Spring Repair in Chicago & Chicagoland",
+    "description": "Family-owned Chicago company repairs broken garage door springs. We offer 24/6 emergency service for torsion and extension springs. Get an upfront"
+  },
+  "hero": {
+    "headline": "Garage Door Spring Repair in Chicago & Chicagoland",
+    "subheadline": "Broken springs make your garage door unusable. We fix them quickly and safely."
+  },
+  "intro": "A broken garage door spring stops your door from opening. Springs handle the heavy work, counterbalancing the door's weight. Most residential garages use either torsion springs, located above the door, or extension springs, running along the tracks. When a spring breaks, the door becomes extremely heavy or completely stuck. It is a common repair for both city alley garages and suburban attached units. Operating a door with a broken spring is unsafe. It can damage the opener or cause the door to fall unexpectedly. This creates a safety risk for people and property. Professional repair is essential for correct function and lasting safety. Our company provides spring repair across Chicago and its surrounding suburbs. We fix broken torsion and extension springs for all garage door types. Our technicians are ready for dispatch 24 hours a day, Monday through Saturday, to restore your garage access safely and efficiently. We focus on durable parts and precise installation.",
+  "whatWeDo": "We replace broken garage door springs with durable, correctly sized components. For torsion systems, we install oil-tempered, high-cycle springs designed for longevity. Each spring is rated for a specific number of cycles, and we match the correct spring wire gauge and length to your door's weight and dimensions. This ensures proper balance. We also replace worn center and end bearing plates, and inspect winding cones during the process. For extension spring systems, we install new springs with safety cables. These cables prevent a broken spring from flying across the garage. All spring repairs include a door balance test and safety-reverse test. This ensures the door operates smoothly and safely after service. Our trucks carry common spring sizes for immediate repair.",
+  "problemSigns": [
+    {
+      "sign": "Loud bang from the garage",
+      "detail": "This often indicates a torsion spring has snapped due to tension release."
+    },
+    {
+      "sign": "Door won't lift or feels extremely heavy",
+      "detail": "The springs are no longer counterbalancing the door's weight, making manual lifting difficult or impossible."
+    },
+    {
+      "sign": "Visible gap in the torsion spring above the door",
+      "detail": "A clear separation in the spring coil confirms a broken torsion spring."
+    },
+    {
+      "sign": "Door lifts a few inches then stops",
+      "detail": "This can happen when the opener struggles to lift the unbalanced weight without spring assistance."
+    },
+    {
+      "sign": "Cables look loose or slack",
+      "detail": "When a spring breaks, tension is released, causing the cables that lift the door to lose their tautness."
+    }
+  ],
+  "process": [
+    {
+      "step": "Contact Us",
+      "description": "Call for immediate service or book online. Online bookings receive a 10% discount."
+    },
+    {
+      "step": "On-Site Assessment",
+      "description": "Our technician inspects your garage door system to identify the broken spring type and assess overall door condition."
+    },
+    {
+      "step": "Upfront Pricing",
+      "description": "You receive a flat-rate quote for the repair before any work begins. This includes parts and labor."
+    },
+    {
+      "step": "Professional Repair and Testing",
+      "description": "We replace the broken spring with a new, high-quality part. We then perform a balance and safety-reverse test to ensure safe operation."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned local business.",
+    "You receive an upfront flat-rate quote before any work starts.",
+    "Our trucks are stocked with common parts for immediate repairs.",
+    "We offer 24-hour service Monday through Saturday for urgent repairs.",
+    "Every job includes a balance and safety-reverse test."
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door spring repair cost?",
+      "a": "Garage door spring repair typically costs $180 to $450, including all parts and labor. The price varies based on the type of spring (torsion or extension), the number of springs, and the door's size and weight. We provide an exact upfront quote after diagnosis."
+    },
+    {
+      "q": "What is the difference between torsion and extension springs?",
+      "a": "Torsion springs are mounted horizontally above the garage door opening. They twist to store energy. Extension springs run parallel to the horizontal tracks, stretching and contracting to lift the door. Torsion systems are generally more durable and quieter."
+    },
+    {
+      "q": "How long do garage door springs last?",
+      "a": "Standard garage door springs are rated for about 10,000 cycles. A cycle is one opening and closing. With average use (2-4 times per day), they typically last 5-7 years. High-cycle springs can last longer, often 15,000-30,000 cycles."
+    },
+    {
+      "q": "Can I replace a garage door spring myself?",
+      "a": "Replacing garage door springs is dangerous. Springs are under extreme tension and can cause severe injury if mishandled. Specialized tools and training are required for safe removal and installation. We advise against DIY spring repair."
+    },
+    {
+      "q": "What happens if I operate my door with a broken spring?",
+      "a": "Operating your garage door with a broken spring puts excessive strain on the garage door opener. This can burn out the opener's motor. It also creates a safety hazard, as the door can fall unexpectedly or move erratically."
+    }
+  ],
+  "ctaLine": "Need a spring repair? Contact us today for an upfront quote and fast service!"
+}

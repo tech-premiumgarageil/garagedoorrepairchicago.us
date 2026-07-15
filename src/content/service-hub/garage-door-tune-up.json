@@ -1,0 +1,89 @@
+{
+  "service": "garage-door-tune-up",
+  "generatedAt": "2026-07-15T15:44:27.266Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up & Maintenance Chicago & Chicagoland",
+    "description": "Get a garage door tune-up in Chicago & Chicagoland. Our family-owned business performs full inspections, lubrication, and adjustments. Upfront flat-rate"
+  },
+  "hero": {
+    "headline": "Garage Door Tune-Up & Maintenance Chicago & Chicagoland",
+    "subheadline": "Annual service prevents major repairs. We keep your garage door working correctly."
+  },
+  "intro": "Your garage door is a daily machine. It opens and closes thousands of times each year. Regular tune-ups keep it running smoothly. We serve homes throughout Chicago and its suburbs. City garages, often in alleys, face different demands than attached suburban garages. Both need consistent care. Chicago winters are hard on moving parts. Cold temperatures stiffen springs and dry out lubricants. Moisture leads to rust. Summer heat can also affect components. A yearly maintenance visit prevents small problems from becoming large, expensive repairs. We inspect all moving parts. We lubricate as needed. We adjust door balance. This extends your door's lifespan. It ensures safe operation. Scheduling a tune-up addresses minor issues before they lead to breakdowns. This keeps your vehicle accessible. It protects your property. Our service helps avoid the inconvenience of a stuck door. We give you a clear, upfront flat-rate price. No hidden fees. This service is designed to maintain your door's function. It protects your investment.",
+  "whatWeDo": "A garage door tune-up is a comprehensive check of your entire system. We inspect springs, cables, rollers, hinges, and tracks. We look for wear, corrosion, or misalignment. The goal is to identify potential failure points. We apply garage-door-specific lubricant to all moving metal parts. This reduces friction and noise. We tighten loose fastener hardware throughout the door system. This prevents components from separating. We check and adjust the balance of the door. An unbalanced door strains the opener and other parts. We install new bottom weather seal if the existing one is cracked or flattened. This keeps out cold, heat, and pests. The $89–$150 price range depends on the number of moving parts requiring lubrication, the extent of hardware tightening needed, and if minor parts like rollers or hinges need replacement on the spot. Some doors have more panels or heavier springs, requiring more attention. We provide an upfront flat-rate quote before any work starts. We finish every job with a balance and safety-reverse test.",
+  "problemSigns": [
+    {
+      "sign": "Door louder than it used to be",
+      "detail": "Your garage door makes grinding, squeaking, or rubbing noises. This signals worn parts or lack of lubrication."
+    },
+    {
+      "sign": "Haven't serviced the door since moving in",
+      "detail": "Years of operation without maintenance lead to hidden wear. Parts can fail without warning."
+    },
+    {
+      "sign": "Preparing the door for winter",
+      "detail": "Cold temperatures stress door components. Lubrication and adjustments now prevent winter breakdowns."
+    },
+    {
+      "sign": "Small issues you want caught before they strand your car",
+      "detail": "Minor hitches like slow movement or slight sticking can quickly worsen, trapping your vehicle."
+    },
+    {
+      "sign": "Visible rust on hinges or springs",
+      "detail": "Rust weakens metal components. It can lead to premature failure and costly repairs."
+    }
+  ],
+  "process": [
+    {
+      "step": "Schedule Service",
+      "description": "Book your appointment online for a 10% discount. Or call us directly."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "Our technician arrives, inspects your door, and gives a flat-rate price. No work begins until you approve it."
+    },
+    {
+      "step": "Perform Tune-Up",
+      "description": "We lubricate all moving parts, tighten hardware, and make necessary adjustments. We replace worn minor components if needed."
+    },
+    {
+      "step": "Safety Check",
+      "description": "After the tune-up, we test the door balance and the safety reverse mechanism. We confirm everything works safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated. We are a local, family-owned business. We serve the Chicagoland community directly.",
+    "Upfront flat-rate quotes. You receive a clear price before any work begins. There are no hidden fees.",
+    "Fully stocked trucks. Our service vehicles carry common parts. Most repairs happen on the first visit.",
+    "Convenient booking & hours. Book online for a 10% discount. We are open 24 hours Monday–Saturday.",
+    "Safety is our priority. Every job finishes with a balance and safety-reverse test."
+  ],
+  "faqs": [
+    {
+      "q": "How often should I get a garage door tune-up?",
+      "a": "Most garage doors benefit from an annual tune-up. Doors used multiple times a day, or those in harsh Chicago weather, may need service more often. Regular maintenance extends the door's lifespan and prevents unexpected failures."
+    },
+    {
+      "q": "What is included in your garage door tune-up service?",
+      "a": "Our tune-up includes a thorough inspection of all moving parts: springs, cables, rollers, hinges, and tracks. We lubricate all metal-on-metal components with garage-door-specific lubricant. We tighten loose hardware. We adjust door balance and ensure proper safety reverse function. We will also replace minor worn items like a damaged weather seal or a single hinge as needed."
+    },
+    {
+      "q": "Why is the price range $89–$150 for a tune-up?",
+      "a": "The exact price within this range depends on the type of door and the specific parts requiring attention. Factors include the number of panels, the number of moving parts to lubricate, and the condition of the door's hardware. Some doors simply require more time and minor material. We always provide an upfront flat-rate quote after a full inspection."
+    },
+    {
+      "q": "Can a tune-up fix a completely broken garage door?",
+      "a": "No. A tune-up is for preventative maintenance and to address minor issues before they become major problems. If your garage door is completely broken, stuck, or has significant damage, it likely requires a repair service. We can diagnose the specific issue and provide a repair quote."
+    },
+    {
+      "q": "What if my garage door is loud but not broken?",
+      "a": "Loud noises are often a primary sign that a tune-up is needed. Squeaks, grinding, or groaning sounds usually indicate dry, worn, or misaligned parts. Lubrication and adjustment can often quiet a noisy door. Our tune-up directly addresses these symptoms."
+    },
+    {
+      "q": "How long does a typical tune-up take?",
+      "a": "Most standard garage door tune-ups take about 30 to 60 minutes. The exact time depends on the door's condition and how many adjustments or minor parts replacements are necessary. Our technicians work efficiently to restore your door's function."
+    }
+  ],
+  "ctaLine": "Schedule your garage door tune-up today and save 10% by booking online."
+}

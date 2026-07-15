@@ -1,0 +1,93 @@
+{
+  "service": "garage-door-opener-installation",
+  "city": "aurora",
+  "generatedAt": "2026-07-14T17:49:54.442Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Opener Installation Aurora, IL | Quiet",
+    "description": "Upgrade your Aurora garage door opener. Get quiet operation, smartphone control, or battery backup. Serving Stonebridge, Fox Valley, and West Side homes."
+  },
+  "hero": {
+    "headline": "Garage Door Opener Installation in Aurora, IL",
+    "subheadline": "Reliable Opener Installation. Quiet Operation. Smart Control."
+  },
+  "intro": "You need a new garage door opener for your Aurora home. We install new openers designed for reliability. This includes belt-drive models, known for quiet operation. We offer chain-drive openers, which provide good value. We also install wall-mount jackshaft units. These are ideal for homes with limited overhead space or unique garage designs. Many Aurora homeowners want smartphone control or battery backup for power outages. We can add these modern features to your new system. Our company is family-owned. We provide upfront flat-rate quotes before any work begins. Our service trucks carry common opener parts. This allows for quick, efficient installation. Book online and get 10% off your service.",
+  "localContext": "Aurora's diverse housing stock impacts garage door opener life. Victorian-era homes near the Fox River often have older, detached garages. The Fox River valley experiences significant humidity swings. This can warp older wood garage doors and rust bare metal tracks. An opener struggles with a stiff or heavy door. Homes in newer subdivisions like Stonebridge, Fox Valley, and Eola often have attached three-car garages. These subdivisions were built in the same five-year window in the 1990s and 2000s. Openers in these homes are now reaching their end-of-life together. Many garages are located under bedrooms in these areas. A loud chain-drive opener disrupts sleep in these homes across Pigeon Hill and other east-side neighborhoods. Upgrading to a quiet belt-drive opener solves this problem.",
+  "problemSigns": [
+    {
+      "sign": "Opener is 15+ years old and lacks safety sensors.",
+      "detail": "Older openers do not meet current safety standards. They may not have modern safety features like photoelectric eyes."
+    },
+    {
+      "sign": "You want smartphone or MyQ control.",
+      "detail": "New openers integrate with smart home systems. You can open, close, and monitor your garage door from your phone."
+    },
+    {
+      "sign": "You need battery backup for power outages.",
+      "detail": "Battery backup systems keep your garage door working during electrical failures. This prevents being locked out."
+    },
+    {
+      "sign": "Current opener is too loud under a bedroom.",
+      "detail": "Noisy chain-drive openers transmit sound through floors. A new belt-drive opener provides quieter operation."
+    },
+    {
+      "sign": "Opener struggles or stops mid-cycle.",
+      "detail": "An old or failing opener may lack the power to lift your garage door reliably. This indicates wear or mechanical failure."
+    }
+  ],
+  "process": [
+    {
+      "step": "Initial Opener Assessment",
+      "description": "We inspect your current opener and garage door system. We identify any issues."
+    },
+    {
+      "step": "Upfront Flat-Rate Quote",
+      "description": "You receive a clear, detailed price before any work begins. No hidden fees."
+    },
+    {
+      "step": "Professional Opener Installation",
+      "description": "Our technicians install your new garage door opener. We ensure proper function and secure mounting."
+    },
+    {
+      "step": "Comprehensive Safety Test",
+      "description": "We perform a balance test and safety-reverse test. The door operates safely and correctly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated business.",
+    "Upfront flat-rate quotes before work starts.",
+    "Service trucks stocked with common parts for efficiency.",
+    "We perform a balance and safety-reverse test after every job.",
+    "Book your service online and receive a 10% discount."
+  ],
+  "neighborhoodsServed": [
+    "Stonebridge",
+    "West Side Historic District",
+    "Fox Valley",
+    "Eola",
+    "Pigeon Hill"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door opener installation in Aurora, IL?",
+      "a": "New opener installation in Aurora typically costs $450–$900 installed. Price depends on the opener type, like a quiet belt-drive or a value chain-drive. Features like battery backup or smart controls also affect cost."
+    },
+    {
+      "q": "My Aurora home in Fox Valley has a bedroom above the garage. Which opener is best to reduce noise?",
+      "a": "For homes like yours in Fox Valley, a belt-drive opener is the quietest option. Its rubber belt runs smoothly. This reduces noise transfer to living spaces above the garage."
+    },
+    {
+      "q": "Do you install openers in older Victorian-era homes near the Fox River in Aurora?",
+      "a": "Yes, we install openers in all Aurora homes, including older Victorian-era properties near the Fox River. For limited overhead space, a wall-mount jackshaft opener is an option. We also check for issues like warped wood doors from humidity swings."
+    },
+    {
+      "q": "What types of garage door openers do you install in Aurora?",
+      "a": "We install belt-drive openers for quiet operation, chain-drive openers for value, and wall-mount jackshaft openers for unique garage setups. We also offer smart keypads, remotes, and battery backup systems."
+    },
+    {
+      "q": "How long does it take to install a new garage door opener in Aurora?",
+      "a": "Most standard garage door opener installations take 2-3 hours. Our trucks are stocked with common parts. This helps us complete the job quickly and efficiently for Aurora residents."
+    }
+  ],
+  "ctaLine": "Schedule your opener installation today."
+}

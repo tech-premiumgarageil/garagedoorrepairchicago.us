@@ -51,4 +51,7 @@ export function flattenText(obj: unknown): string {
 // same-topic pages.
 export const SIMILARITY_THRESHOLD = 0.2;
 export const MIN_SPOKE_WORDS = 650;
-export const MIN_HUB_WORDS = 700;
+export const MIN_SERVICE_HUB_WORDS = 700;
+// City hubs have fewer content sections than spokes/service hubs (no
+// problem-signs/process/why-us), so a realistic substantial bar is lower.
+export const MIN_CITY_HUB_WORDS = 600;

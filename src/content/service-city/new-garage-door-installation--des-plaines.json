@@ -1,0 +1,88 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "des-plaines",
+  "generatedAt": "2026-07-14T19:04:24.572Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation Des Plaines, IL | Built to Last",
+    "description": "Upgrade your Des Plaines home with a new garage door. We install insulated steel, carriage-house, and full-view doors. Upfront pricing. Online booking"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Des Plaines, IL",
+    "subheadline": "Replace rusted panels, improve insulation, or boost curb appeal."
+  },
+  "intro": "A new garage door improves your home's appearance and function. Many Des Plaines homeowners replace doors due to rust, damage, or poor insulation. Old single-layer doors leak heat during cold Chicago winters. This raises energy bills for attached garages or heated detached spaces. We install new garage doors in Des Plaines. Our options include insulated steel, carriage-house style, and modern full-view aluminum and glass doors. We provide an upfront flat-rate quote before any work starts. This covers the door, track, and spring hardware. Our family-owned company ensures a clear process. Schedule online for a 10% discount. We serve homes across Des Plaines, from Downtown to Orchard Place. Get a door that performs better and lasts longer.",
+  "localContext": "Homes in Des Plaines face specific challenges that impact garage doors. Post-war Cape Cods and ranches, common in areas like Cumberland and the River Road corridor, often have older garage doors. These doors may be single-layer, offering minimal insulation against Chicago’s winter temperatures. Damp garage slabs, especially near the Des Plaines River, cause bottom brackets and tracks to rust prematurely. This accelerates door failure. Many residents work early or late shifts in the O'Hare-corridor. A door failure at 4 AM requires reliable service. Replacing an old, failing door with an insulated model improves home energy efficiency and reliability for these demanding schedules.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or Cracked Panels",
+      "detail": "Door sections show visible rust, cracks, or delamination from weather exposure. This compromises structural integrity and appearance."
+    },
+    {
+      "sign": "Poor Garage Insulation",
+      "detail": "A single-layer garage door allows significant heat loss, making an attached garage cold and increasing heating costs."
+    },
+    {
+      "sign": "Outdated Curb Appeal",
+      "detail": "An old, worn garage door detracts from your home's exterior, especially when preparing to sell or update your property."
+    },
+    {
+      "sign": "Converting to Heated Space",
+      "detail": "Upgrading to an insulated door is necessary when converting a garage into a heated workshop or living area."
+    }
+  ],
+  "process": [
+    {
+      "step": "Schedule Consultation",
+      "description": "Contact us to discuss your new garage door needs. We assess your current setup and desired door style."
+    },
+    {
+      "step": "Upfront Flat-Rate Quote",
+      "description": "Receive a detailed quote for the new door and complete hardware installation. This price is final before work begins."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians install your new insulated steel, carriage-house, or full-view door. Trucks are stocked with common parts for efficiency."
+    },
+    {
+      "step": "Safety and Balance Test",
+      "description": "We perform a balance and safety-reverse test. This ensures your new door operates correctly and safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned company serving Chicagoland.",
+    "Upfront flat-rate quotes before any work starts.",
+    "10% discount available for online booking.",
+    "Trucks stocked with common parts for efficient service.",
+    "Every job includes a balance and safety-reverse test."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Des Plaines",
+    "Cumberland",
+    "Orchard Place",
+    "River Road corridor"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Des Plaines?",
+      "a": "New garage door installations in Des Plaines typically cost between $1,100 and $4,500. This price includes the door, track, and spring hardware."
+    },
+    {
+      "q": "How long does a new garage door installation take?",
+      "a": "Most standard garage door installations can be completed within a single day. Complex installations or custom orders may take longer."
+    },
+    {
+      "q": "Can I get an insulated door for my Des Plaines home?",
+      "a": "Yes, we install insulated steel doors with R-values from R-9 to R-18. These improve energy efficiency for Des Plaines homes, especially for heated garages."
+    },
+    {
+      "q": "Is a new garage door installation considered an emergency service?",
+      "a": "New garage door installations are not emergency-eligible. We schedule these projects by appointment. Our repair services handle emergency failures."
+    },
+    {
+      "q": "Do you install doors for both attached and detached garages in Des Plaines?",
+      "a": "Yes, we install new garage doors for both attached and detached garages, common throughout Des Plaines neighborhoods like Orchard Place and Cumberland."
+    }
+  ],
+  "ctaLine": "Ready for a new garage door? Book online for a 10% discount."
+}

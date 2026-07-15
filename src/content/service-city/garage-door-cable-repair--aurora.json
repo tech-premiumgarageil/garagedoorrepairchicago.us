@@ -1,0 +1,85 @@
+{
+  "service": "garage-door-cable-repair",
+  "city": "aurora",
+  "generatedAt": "2026-07-14T17:22:36.108Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Cable Repair Aurora, IL | Same-Day Service",
+    "description": "Aurora garage door cable issues? We offer fast repair, upfront quotes, and 24/6 emergency service for West Side Historic District, Fox Valley, and"
+  },
+  "hero": {
+    "headline": "Garage Door Cable Repair in Aurora, IL",
+    "subheadline": "Fast service. Upfront pricing. Available 24/6!"
+  },
+  "intro": "A broken garage door cable needs immediate attention. Your door might hang crooked, make grinding noises, or drop too quickly. These issues prevent safe operation. Our family-owned company repairs garage door cables in Aurora, IL. We serve homes across Kane County, from the Victorian properties near the Fox River to the attached three-car garages in newer subdivisions like Stonebridge. We provide upfront, flat-rate quotes before any work begins. Our service trucks are stocked with common parts. This allows us to complete most repairs in one visit. We are available for dispatch 24 hours Monday through Saturday. Book online for a 10% discount on your repair.",
+  "localContext": "Aurora's diverse housing stock faces unique challenges. Victorian-era homes with detached garages near the Fox River experience significant humidity swings. This climate can cause older wood doors to warp, putting stress on lift cables. Cables can rust faster when exposed to moisture. Many east-side subdivisions, like Fox Valley, were built in the 1990s–2000s. Their original garage door springs and cables are now reaching end-of-life together. Cables fray or snap over time from normal use. This is especially true for heavier doors on attached three-car garages. Residents in areas like Pigeon Hill might also see issues with cables wrapping off drums due to wear or impact.",
+  "problemSigns": [
+    {
+      "sign": "Door hangs crooked in the opening",
+      "detail": "One side of your garage door sits lower than the other, creating an uneven gap."
+    },
+    {
+      "sign": "Cable hanging loose or wrapped off the drum",
+      "detail": "You see a cable dangling freely or incorrectly spooled on the cable drum above the door."
+    },
+    {
+      "sign": "Grinding noise as the door moves",
+      "detail": "Unusual scraping or grating sounds indicate a problem with the cable system during door operation."
+    },
+    {
+      "sign": "Door slams down faster than normal",
+      "detail": "The garage door drops quickly and uncontrolled when closing, indicating a loss of tension from a faulty cable."
+    }
+  ],
+  "process": [
+    {
+      "step": "Assess the Damage",
+      "description": "Our technician inspects the garage door system to identify the cause of the cable failure. We check the cables, drums, and bottom brackets."
+    },
+    {
+      "step": "Provide Upfront Quote",
+      "description": "We give you a flat-rate price for the repair. This quote includes all parts and labor. No hidden fees."
+    },
+    {
+      "step": "Perform the Repair",
+      "description": "We install new galvanized aircraft-grade lift cables and replace any damaged drums or bottom brackets. Our trucks carry common parts."
+    },
+    {
+      "step": "Test and Verify",
+      "description": "After the repair, we perform a balance test and safety-reverse test. This ensures your garage door operates safely and correctly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront, flat-rate pricing before work starts.",
+    "24-hour Monday–Saturday emergency dispatch for urgent repairs.",
+    "10% discount when you book your service online.",
+    "Trucks stocked with common parts for same-visit repairs."
+  ],
+  "neighborhoodsServed": [
+    "Stonebridge",
+    "West Side Historic District",
+    "Fox Valley",
+    "Eola",
+    "Pigeon Hill"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for garage door cable repair in Aurora?",
+      "a": "The typical cost for garage door cable repair in Aurora is $150–$350. This price includes parts and labor. The exact cost depends on the specific parts needed and the extent of the damage to your door system."
+    },
+    {
+      "q": "Is garage door cable repair considered an emergency service in Aurora?",
+      "a": "Yes, garage door cable repair is an emergency service. We offer 24-hour dispatch Monday through Saturday across Aurora. A broken cable can make your garage door unsafe or unusable."
+    },
+    {
+      "q": "How quickly can you repair a broken garage door cable in Aurora?",
+      "a": "We aim for same-day service for most cable repair calls in Aurora. Our trucks are stocked with common parts, allowing us to complete repairs quickly for residents in areas like Stonebridge or the West Side Historic District."
+    },
+    {
+      "q": "Why do garage door cables often break in Aurora homes?",
+      "a": "Aurora's climate contributes to cable wear. Humidity swings near the Fox River can rust cables. On the east side, many 1990s–2000s subdivisions have original components that are now failing from age and use, especially on heavier attached garage doors."
+    }
+  ],
+  "ctaLine": "Schedule your garage door cable repair in Aurora today."
+}

@@ -1,0 +1,93 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "aurora",
+  "generatedAt": "2026-07-14T18:51:02.264Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Installation in Aurora, IL | New Doors",
+    "description": "Upgrade your Aurora home with a new garage door. We install insulated steel, carriage-house, and full-view doors. Upfront pricing. Online booking discount."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Aurora, IL",
+    "subheadline": "Upgrade your home. Improve insulation. Replace old, failing doors."
+  },
+  "intro": "Your garage door is a large part of your home's exterior. A new door improves curb appeal and energy efficiency. We install new garage doors for Aurora homeowners. We offer insulated steel, carriage-house, and full-view aluminum and glass options. Our process includes complete track and spring hardware installation. We provide upfront flat-rate quotes before any work begins. This means you know the full cost immediately. Our family-owned company serves Aurora, IL. We operate Monday through Saturday, 24 hours a day for service needs. While new door installation is not an emergency service, we schedule it at your convenience. You can book an appointment online and receive a 10% discount. We balance and safety-reverse test every new door installation. We ensure your new door operates safely and correctly.",
+  "localContext": "Aurora, Illinois' second-largest city, has diverse housing styles. Homes near the Fox River, including those in the West Side Historic District, often feature older, detached garages. These may have original wood doors. The Fox River valley experiences significant humidity swings. This weather warps older wood doors and causes bare metal tracks to rust prematurely. On the far east side, subdivisions like Stonebridge and Eola were built around the same time in the 1990s and 2000s. Many of these homes have attached three-car garages. The garage door springs installed during initial construction are now reaching their end-of-life together. Replacing a full door system addresses these age-related issues. It also improves insulation in heated garages. We understand Aurora's specific needs for new garage door installations.",
+  "problemSigns": [
+    {
+      "sign": "Rusted, cracked, or delaminating door panels",
+      "detail": "Corrosion or damage on metal or wood panels indicates structural wear and compromises appearance."
+    },
+    {
+      "sign": "Single-layer door leaking heat all winter",
+      "detail": "An uninsulated door contributes to higher energy bills, especially when the garage is heated or attached to living space."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door significantly updates the exterior look of your home, increasing its attractiveness to potential buyers."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "Adding insulation prevents heat loss and maintains comfortable temperatures inside a finished or heated garage space."
+    },
+    {
+      "sign": "Old, noisy, or inefficient door operation",
+      "detail": "Persistent loud noises, sticking, or slow operation often signal a worn-out door system that needs full replacement."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation and Quote",
+      "description": "We discuss your needs, assess your current garage, and provide an upfront flat-rate quote for your new door."
+    },
+    {
+      "step": "Door Selection and Ordering",
+      "description": "Choose from insulated steel, carriage-house, or full-view aluminum doors. We order your preferred style and size."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians remove your old door, then install the new door, tracks, and springs according to manufacturer specifications."
+    },
+    {
+      "step": "Final Safety Check",
+      "description": "We conduct a balance test and safety-reverse test. We ensure the door operates correctly and safely before finishing."
+    }
+  ],
+  "whyUs": [
+    "Our company is family-owned and operated.",
+    "We provide upfront flat-rate quotes. You know the full cost immediately.",
+    "Book your service online and receive a 10% discount.",
+    "Our trucks carry necessary installation hardware for efficient service.",
+    "We perform a balance and safety-reverse test after every installation."
+  ],
+  "neighborhoodsServed": [
+    "Stonebridge",
+    "West Side Historic District",
+    "Fox Valley",
+    "Eola",
+    "Pigeon Hill"
+  ],
+  "faqs": [
+    {
+      "q": "What types of new garage doors do you install in Aurora?",
+      "a": "We install several types of new garage doors. These include insulated steel doors with R-values from 9 to 18, providing superior thermal performance. We also offer classic carriage-house style doors and modern full-view aluminum and glass doors. All installations include complete new track and spring hardware, ensuring a full system upgrade for your Aurora home."
+    },
+    {
+      "q": "What is the typical cost for a new garage door installation in Aurora?",
+      "a": "New garage door installations in Aurora typically range from $1,100 to $4,500 installed. The final price depends on factors like the door style, the level of insulation, material choice, and any specific hardware or custom options required. We provide an upfront flat-rate quote before any work begins, so you will know the exact cost."
+    },
+    {
+      "q": "How long does a new garage door installation take in areas like Stonebridge or Eola?",
+      "a": "Most standard new garage door installations can be completed in a single visit, typically within a few hours. More complex installations or custom door setups may require additional time. We schedule installations at your convenience, usually within a few days of your chosen door arriving at our facility. We work efficiently to minimize disruption to your day."
+    },
+    {
+      "q": "My Aurora home is older, near the Fox River. Can you install a new door that fits my style?",
+      "a": "Yes. We work with various home styles common in Aurora, including the Victorian-era homes found in the West Side Historic District near the Fox River. If your detached garage has an older, warping wood door, we can replace it with a new, durable option. We offer carriage-house styles that complement historic architecture. We also install insulated doors to better protect against the Fox River valley's humidity swings and temperature changes."
+    },
+    {
+      "q": "Do you offer any discounts for new garage door installations in Aurora?",
+      "a": "Yes, we offer a specific discount for our Aurora customers. You receive a 10% discount on your new garage door installation when you book your service online through our website. This offer is applied to your upfront flat-rate quote. This allows you to plan your budget with a clear understanding of the total investment."
+    }
+  ],
+  "ctaLine": "Schedule your new garage door installation online and save 10%."
+}

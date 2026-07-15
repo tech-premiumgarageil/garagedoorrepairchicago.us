@@ -1,0 +1,93 @@
+{
+  "service": "garage-door-spring-repair",
+  "city": "evanston",
+  "generatedAt": "2026-07-14T15:40:14.403Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Spring Repair Evanston, IL | Same-Day Service",
+    "description": "Evanston garage door spring broke? We fix torsion & extension springs. Upfront prices, stocked trucks for fast repair. 24/6 emergency service."
+  },
+  "hero": {
+    "headline": "Garage Door Spring Repair in Evanston, IL",
+    "subheadline": "We fix broken garage door springs. Get your Evanston garage door working safely today."
+  },
+  "intro": "A broken garage door spring stops your day. When your garage door won't open, or if you heard a loud bang from the garage, a spring is likely the cause. We provide fast, reliable garage door spring repair for Evanston homeowners. Our technicians fix broken torsion and extension springs across town, from Central Street to South Evanston. We arrive with common parts stocked on our trucks. You get an upfront, flat-rate quote before any work begins. Our family-owned business offers dispatch 24 hours a day, Monday through Saturday, for emergency spring repairs. Get your garage door operating safely again with our experienced local service.",
+  "localContext": "Evanston's location off Lake Michigan means garage door springs work harder here. Lake-effect snow, persistent winds, and salt air increase corrosion on metal components. This includes the springs, cables, and bearings. Rust and fatigue can cause premature spring failure. Many homes in areas like the Ridge Historic District feature century-old detached garages. These older structures, often accessed via rear alleys, may have original garage door hardware. The weight of older, heavier carriage-house style doors, common due to historic district rules, adds stress to springs. We know Evanston's garage doors and the specific challenges they face from our local climate and housing stock.",
+  "problemSigns": [
+    {
+      "sign": "Loud bang from the garage",
+      "detail": "Often indicates a broken torsion spring."
+    },
+    {
+      "sign": "Garage door won't lift or feels extremely heavy",
+      "detail": "A broken spring means the opener struggles with the door's full weight."
+    },
+    {
+      "sign": "Visible gap in the torsion spring above the door",
+      "detail": "A clear sign of a broken torsion spring."
+    },
+    {
+      "sign": "Garage door lifts a few inches then stops",
+      "detail": "The door opener's safety system detects imbalance from a broken spring."
+    },
+    {
+      "sign": "Cables look loose or slack on the drum",
+      "detail": "Indicates a loss of tension from a broken spring."
+    }
+  ],
+  "process": [
+    {
+      "step": "Diagnosis",
+      "description": "Our technician inspects your garage door system to confirm a broken spring and identify any related issues."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "You receive a clear, flat-rate price quote for the repair before any work starts."
+    },
+    {
+      "step": "Spring Replacement",
+      "description": "We install new high-cycle, oil-tempered torsion springs or extension springs with safety cables. Our trucks carry common parts."
+    },
+    {
+      "step": "Safety Testing",
+      "description": "After replacement, we perform a full balance test and safety-reverse test to ensure safe operation."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business serving Chicagoland.",
+    "Upfront, flat-rate quotes before any work begins.",
+    "Trucks stocked with common parts for fast repair.",
+    "Dispatch available 24 hours Monday–Saturday for emergencies.",
+    "Balance and safety-reverse test after every job."
+  ],
+  "neighborhoodsServed": [
+    "Central Street",
+    "South Evanston",
+    "Ridge Historic District",
+    "Northwestern Campus Area",
+    "West Village"
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door spring repair typically cost in Evanston?",
+      "a": "Garage door spring repair in Evanston usually costs $180–$450. This price includes new parts and labor. We provide a firm, flat-rate quote before any work starts."
+    },
+    {
+      "q": "Can you fix my broken garage door spring today in Evanston?",
+      "a": "Yes, we offer same-day service for broken springs in Evanston. Our dispatch is available 24 hours a day, Monday through Saturday. We stock common spring types on our trucks for quick replacement."
+    },
+    {
+      "q": "My Evanston home has an older, detached garage. Does this affect spring repair?",
+      "a": "Many Evanston homes, especially in areas like the Ridge Historic District, have older detached garages. We are familiar with these systems. We replace torsion springs, extension springs with safety cables, and related hardware designed for long-term use in these older setups."
+    },
+    {
+      "q": "How does Evanston's weather impact garage door springs?",
+      "a": "Evanston's lake-effect snow, wind, and salt air accelerate corrosion on metal garage door components. This includes the springs. We install high-cycle, oil-tempered springs built to withstand these conditions and provide longer service life."
+    },
+    {
+      "q": "Do you offer any discounts for spring repair?",
+      "a": "Yes, you can get a 10% discount on your spring repair when you book your service call online."
+    }
+  ],
+  "ctaLine": "Need garage door spring repair in Evanston? Book online for a 10% discount or call us now!"
+}

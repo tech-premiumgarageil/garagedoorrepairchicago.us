@@ -1,0 +1,52 @@
+{
+  "city": "lombard",
+  "generatedAt": "2026-07-15T17:38:13.427Z",
+  "model": "gemini-2.5-pro",
+  "meta": {
+    "title": "Garage Door Repair Lombard, IL | Springs & Openers",
+    "description": "Lombard garage door repair open 24/6. We fix broken springs, cables, and openers. Upfront quotes. Book online for 10% off your Lombard repair service."
+  },
+  "hero": {
+    "headline": "Garage Door Repair in Lombard",
+    "subheadline": "24-hour service Monday–Saturday. Flat-rate quotes before we start."
+  },
+  "intro": "We are a family-owned garage door company serving all of Lombard, Illinois. Our technicians handle every common garage door problem. We replace broken torsion springs, fix snapped cables, and align bent tracks. If your opener is failing, we can repair it or install a new belt or chain drive unit. We also replace damaged door panels or install entirely new garage doors. Our services cover both residential and commercial properties. We keep our trucks stocked with the necessary parts to complete most repairs in a single visit, often on the same day you call. Before we begin any work, we provide an upfront, flat-rate quote. After the job is done, we perform a balance and safety-reverse test to ensure everything operates correctly. We are available 24 hours a day, from Monday through Saturday, for emergency service anywhere in Lombard. Book your appointment online to receive a 10% discount on the service.",
+  "localContext": "Lombard's ground conditions present specific garage door challenges. The area's clay soil causes many older, detached garages to settle over time. This is common in the bungalows around the Lilacia Park area. As the foundation shifts, the garage door opening becomes out-of-square, which pinches the vertical tracks. This adds stress to rollers and can cause the door to bind, especially during humid summers. The consistent frame movement also means a door's spring balance will drift more quickly than usual, requiring regular adjustment. In the neighborhoods toward Yorktown, the 1960s and 70s ranch homes often have their original attached garages. While more stable, these doors are frequently on their second or third opener, leading to compatibility issues with modern safety sensors and worn-out mechanical parts. Our technicians understand how to diagnose and correct these specific Lombard-area problems.",
+  "neighborhoodsServed": [
+    "Downtown Lombard",
+    "Lilacia Park",
+    "Yorktown",
+    "Westmore"
+  ],
+  "faqs": [
+    {
+      "q": "How quickly can you get to my home in Lombard?",
+      "a": "Our trucks are dispatched from a central DuPage County location. We can usually arrive anywhere in Lombard within 60-90 minutes for emergency calls, Monday through Saturday."
+    },
+    {
+      "q": "Do you serve all of Lombard, from Yorktown to Downtown?",
+      "a": "Yes. We cover every neighborhood in Lombard, from the historic homes near Lilacia Park to the newer developments. Our technicians are familiar with the area's streets and housing types."
+    },
+    {
+      "q": "My garage in the Lilacia Park area is old and seems crooked. Can you fix that?",
+      "a": "We see this often in Lombard's older homes built on clay soil. While we don't perform foundation work, we can adjust the tracks and springs to compensate for a settled frame to ensure the door runs smoothly."
+    },
+    {
+      "q": "What is a typical cost for a broken spring repair in Lombard?",
+      "a": "We provide a flat-rate quote before any work begins, so the price is clear. The final cost depends on the door's size and weight, but you will know the exact amount upfront."
+    },
+    {
+      "q": "Are your parts suited for the attached garages on 1970s ranch homes?",
+      "a": "Absolutely. Our trucks carry high-cycle springs and modern opener components compatible with the steel and wood doors common on Lombard's mid-century ranches. We can replace worn-out original hardware."
+    },
+    {
+      "q": "Can you repair commercial overhead doors near the Yorktown shopping center?",
+      "a": "Yes, we service commercial doors throughout Lombard. We handle rolling steel doors, sectional doors, and high-speed doors for local businesses."
+    },
+    {
+      "q": "Do you offer any discounts for Lombard residents?",
+      "a": "Yes. All Lombard residents receive a 10% discount on their service fee when they book their appointment through our website. This is applied directly to your final invoice."
+    }
+  ],
+  "ctaLine": "Book online for 10% off your Lombard garage door service."
+}

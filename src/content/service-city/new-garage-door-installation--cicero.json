@@ -1,0 +1,88 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "cicero",
+  "generatedAt": "2026-07-14T18:51:19.470Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation Cicero, IL | Upgrade",
+    "description": "Upgrade your Cicero home with a new garage door. We install insulated steel, carriage house, and full-view doors. Get an upfront quote for your"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Cicero, IL",
+    "subheadline": "Replace old, failing garage doors in Cicero's unique alley-facing garages. We offer full installation and new hardware."
+  },
+  "intro": "A new garage door improves your home's appearance and function. Old doors often show their age with rusted panels or delaminating sections. Single-layer doors contribute to heat loss, especially in a heated garage. We install new garage doors across Cicero, including insulated steel, carriage-house, and full-view aluminum and glass options. Our service includes complete track and spring hardware. We are a family-owned company. We provide upfront, flat-rate quotes before any work begins. This means you know the full cost upfront. Replacing your garage door is an investment in your home. Our team works Monday through Saturday, 24 hours a day, to serve Cicero residents. Book online for a 10% discount.",
+  "localContext": "Cicero’s dense blocks of brick bungalows and two-flats often feature detached single-car garages. These line shared alleys in areas like Boulevard Manor and Warren Park. Many of these garages have doors with decades-old hardware. Chicago-area winters contribute to door panel rust and cracking. A door that jumps its track in these tight alley clearances can pin a car inside a single-car garage. This creates a real inconvenience. An alley-facing garage stuck open overnight also presents a security concern for homes in Clyde and other neighborhoods. Replacing an old door with a modern, insulated model enhances security and energy efficiency. It also improves curb appeal for residents looking to sell.",
+  "problemSigns": [
+    {
+      "sign": "Door panels rusted, cracked, or delaminating",
+      "detail": "Aging panels show wear from weather exposure and impact your home's appearance."
+    },
+    {
+      "sign": "Single-layer door leaking heat",
+      "detail": "An uninsulated door allows significant heat loss, especially from a heated garage."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door improves your home's exterior and resale value."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "An insulated door is necessary to maintain temperatures in a newly heated garage space."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation and Quote",
+      "description": "We discuss your needs and provide an upfront, flat-rate quote for your new door installation."
+    },
+    {
+      "step": "Door Selection and Order",
+      "description": "Choose from insulated steel, carriage-house style, or full-view aluminum and glass doors."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our team installs your new door, including complete track and spring hardware."
+    },
+    {
+      "step": "Final Safety Check",
+      "description": "We perform a balance and safety-reverse test after every installation to ensure proper function."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated",
+    "Upfront, flat-rate quotes before work starts",
+    "Trucks stocked with common parts for efficient service",
+    "10% discount for online booking",
+    "Balance and safety-reverse test after every job"
+  ],
+  "neighborhoodsServed": [
+    "Boulevard Manor",
+    "Grant Works",
+    "Warren Park",
+    "Clyde"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Cicero?",
+      "a": "New garage door installations in Cicero generally range from $1,100 to $4,500. This price includes the door and complete hardware for typical single-car alley garages. We provide an upfront, flat-rate quote."
+    },
+    {
+      "q": "How quickly can you install a new garage door in Cicero?",
+      "a": "New garage door installations are not emergency services. We schedule installations at your convenience. Our trucks are stocked with common parts to ensure efficient service once scheduled."
+    },
+    {
+      "q": "What types of new garage doors do you recommend for Cicero homes?",
+      "a": "For Cicero's brick bungalows and two-flats with detached garages, we install insulated steel doors (R-9 to R-18), carriage-house style, or full-view aluminum and glass doors. Insulated doors are popular for heated garages."
+    },
+    {
+      "q": "Why should I install a new garage door in Cicero, especially with tight alley clearances?",
+      "a": "A new door enhances security for alley-facing garages, preventing issues like a stuck-open door. It also improves curb appeal for selling and reduces drafts from older, single-layer doors during Chicago winters."
+    },
+    {
+      "q": "Do you remove the old garage door and dispose of it?",
+      "a": "Yes, our installation service includes the complete removal and disposal of your old garage door and associated hardware."
+    }
+  ],
+  "ctaLine": "Book your new garage door installation today for an upfront quote."
+}

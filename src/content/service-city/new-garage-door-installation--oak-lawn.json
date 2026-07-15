@@ -1,0 +1,88 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "oak-lawn",
+  "generatedAt": "2026-07-14T18:53:53.799Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Oak Lawn, IL | Upgrade",
+    "description": "Get a new garage door installed in Oak Lawn, IL. We offer insulated steel, carriage house, and glass doors. Upfront pricing for residents in Columbus"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Oak Lawn, IL",
+    "subheadline": "Insulated steel, carriage house, and full-view glass doors. Upfront pricing."
+  },
+  "intro": "Your garage door protects your vehicles and tools. It also impacts your home's curb appeal. In Oak Lawn, older doors often show wear from daily use and Midwest weather. Panels can rust, crack, or delaminate. A new garage door installation improves security and energy efficiency. It can also boost your home's value, especially before selling. We install insulated steel doors, from R-9 to R-18, carriage-house style doors, and full-view aluminum and glass doors. We provide complete track and spring hardware with every job. Our family-owned company provides upfront, flat-rate quotes before any work begins. Book online to receive a 10% discount. We are open 24 hours Monday through Saturday for your convenience.",
+  "localContext": "Many Oak Lawn homes, especially in Columbus Manor and near the 95th Street corridor, feature post-war brick ranches or Georgians. These properties often have original detached garages or older attached additions. The doors on these garages have seen decades of use. Oak Lawn is a hub for local tradespeople. Garages here often serve as workshops, meaning doors cycle many times daily. This constant use accelerates wear on panels, springs, and tracks. Chicago-area winters contribute to rusted panels and heat loss through single-layer doors. Upgrading to an insulated door improves garage comfort and saves on heating bills for a converted space. Replacing worn doors also updates the look of these classic homes.",
+  "problemSigns": [
+    {
+      "sign": "Rusted, Cracked, or Delaminating Panels",
+      "detail": "Oak Lawn's older doors, exposed to harsh Chicago winters, often show significant panel damage."
+    },
+    {
+      "sign": "Leaking Heat",
+      "detail": "Single-layer garage doors common in 1950s-60s Oak Lawn garages let cold air in, especially if the garage is heated."
+    },
+    {
+      "sign": "Outdated Curb Appeal",
+      "detail": "An old, worn door detracts from the classic brick ranches and Georgians found in neighborhoods like Stony Creek."
+    },
+    {
+      "sign": "High-Cycle Wear",
+      "detail": "Garages used as workshops in Oak Lawn see heavy daily door use, leading to premature wear and failure of door components."
+    },
+    {
+      "sign": "Converting to Heated Space",
+      "detail": "Homeowners converting their garages into heated workshops or living spaces need an insulated door to maintain temperature."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation and Quote",
+      "description": "We discuss your new door options and provide a flat-rate price quote before work starts."
+    },
+    {
+      "step": "Door and Hardware Selection",
+      "description": "Choose from insulated steel, carriage-house style, or full-view aluminum and glass doors. We include new track and spring hardware."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians remove your old door and precisely install the new system. We stock common parts on our trucks."
+    },
+    {
+      "step": "Final Safety Test",
+      "description": "After installation, we perform a balance and safety-reverse test to ensure safe and correct operation."
+    }
+  ],
+  "whyUs": [
+    "We are a local, family-owned company serving Oak Lawn residents.",
+    "You receive a clear, flat-rate price before any work begins. No hidden fees.",
+    "We are available 24 hours Monday through Saturday for new door installations.",
+    "Book your service online and receive a 10% discount on your installation.",
+    "We complete a balance and safety-reverse test on every new door installation."
+  ],
+  "neighborhoodsServed": [
+    "Columbus Manor",
+    "Stony Creek",
+    "95th Street corridor",
+    "Oak Meadows"
+  ],
+  "faqs": [
+    {
+      "q": "What does a new garage door installation cost in Oak Lawn?",
+      "a": "New garage door installations in Oak Lawn typically range from $1,100 to $4,500 installed. This includes the door, hardware, and labor."
+    },
+    {
+      "q": "How long does it take to install a new garage door on my Oak Lawn home?",
+      "a": "Most new door installations are completed in a single visit. We stock common parts to ensure efficient service for homes in Oak Lawn."
+    },
+    {
+      "q": "Can you install an insulated door on my 1950s Oak Lawn detached garage?",
+      "a": "Yes, we install insulated steel doors (R-9 to R-18) suitable for post-war brick ranches and Georgians common in Oak Lawn, including detached garages. This helps with heat retention."
+    },
+    {
+      "q": "Do you offer different garage door styles for Oak Lawn homes?",
+      "a": "We offer insulated steel, carriage-house style, and full-view aluminum and glass doors. These styles can match or upgrade the curb appeal of Oak Lawn's diverse housing stock, from Columbus Manor to Oak Meadows."
+    }
+  ],
+  "ctaLine": "Upgrade your Oak Lawn garage door. Get an upfront quote today."
+}

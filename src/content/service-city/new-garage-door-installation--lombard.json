@@ -1,0 +1,92 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "lombard",
+  "generatedAt": "2026-07-14T20:11:15.374Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Lombard, IL | Upgrades",
+    "description": "Upgrade your Lombard home with a new garage door. We install insulated steel, carriage house, and full-view doors. Upfront flat-rate quotes."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Lombard, IL",
+    "subheadline": "Upgrade your home’s curb appeal and energy efficiency."
+  },
+  "intro": "A new garage door improves your Lombard home's appearance and function. It adds value. It makes your property more secure. Many older doors in Lombard show their age. Panels might be rusted, cracked, or delaminating. A single-layer door can leak heat all winter, increasing utility bills. Upgrading to a new door can significantly boost curb appeal before selling your home. It also converts an uninsulated garage to a more energy-efficient space if you plan to heat it. We install new garage doors that stand up to Chicago-area weather, providing a reliable and attractive upgrade for your home.",
+  "localContext": "Lombard's varied housing stock presents specific challenges for garage doors. Homes built in the 1920s near Lilacia Park, often with detached garages, sit on clay soil. This soil shifts through seasonal freeze-thaw cycles, causing garage door openings to settle out-of-square. This pinching can bind door tracks or misalign the door. Similarly, 1960s–70s ranches toward Yorktown with attached garages can experience frame movement over time, which affects spring balance and door operation. These structural realities, combined with Chicagoland's harsh winters, mean older doors often struggle with panel deterioration and heat loss. A new installation needs to account for these specific local conditions.",
+  "problemSigns": [
+    {
+      "sign": "Door panels rusted, cracked, or delaminating",
+      "detail": "Exposure to Chicago weather can cause steel door panels to rust, crack, or separate over time."
+    },
+    {
+      "sign": "Single-layer door leaking heat all winter",
+      "detail": "An uninsulated door offers poor thermal resistance, allowing warm air to escape from your garage."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door significantly enhances your home's exterior appearance, adding value for potential buyers."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "An insulated door is essential for maintaining a consistent temperature in a heated garage space."
+    },
+    {
+      "sign": "Door binds seasonally due to shifting frame",
+      "detail": "Lombard's clay soil can cause garage frames to shift, leading to seasonal binding or track misalignment."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspection and Quote",
+      "description": "We inspect your existing garage door opening and discuss your new door options. You receive an upfront flat-rate quote before any work starts."
+    },
+    {
+      "step": "Old Door Removal",
+      "description": "We safely remove and dispose of your old garage door, tracks, and hardware."
+    },
+    {
+      "step": "New Door Installation",
+      "description": "Our technicians install your new door, including all new tracks, springs, and panels. We ensure proper fit and alignment."
+    },
+    {
+      "step": "Testing and Cleanup",
+      "description": "After installation, we perform a balance and safety-reverse test. We then clean the work area thoroughly."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned company.",
+    "You receive upfront flat-rate quotes before work begins.",
+    "Book online to get a 10% discount.",
+    "Our trucks are stocked with common parts for efficient service.",
+    "Every job ends with a balance and safety-reverse test for your security."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Lombard",
+    "Lilacia Park area",
+    "Yorktown",
+    "Westmore"
+  ],
+  "faqs": [
+    {
+      "q": "How long does a new garage door installation take in Lombard?",
+      "a": "Most new garage door installations in Lombard take 4 to 6 hours. This can vary based on the existing frame's condition, especially in older homes around the Lilacia Park area where clay soil might have caused settling. We ensure the frame is plumb and square before proceeding with the new door installation, which may add a small amount of time to the overall process."
+    },
+    {
+      "q": "What is the typical cost for a new garage door in Lombard?",
+      "a": "New garage door installations in Lombard typically range from $1,100 to $4,500. This price includes the door, track, springs, and installation. Factors like door material, insulation R-value (R-9 to R-18), and style (carriage-house, full-view aluminum) affect the final cost. We provide an upfront flat-rate quote tailored to your specific choices and your Lombard home's needs before any work starts."
+    },
+    {
+      "q": "Do you offer specific types of doors suitable for Lombard's older homes?",
+      "a": "Yes, we install a range of doors suitable for Lombard's diverse housing stock. Many 1920s bungalows near Downtown Lombard benefit from carriage-house style doors that complement their original architecture. For 1960s-70s ranches in Westmore, upgrading to an insulated steel door can significantly improve energy efficiency, especially if the garage is heated. We install insulated steel doors (R-9 to R-18), carriage-house style doors, and full-view aluminum and glass doors to match various styles and needs."
+    },
+    {
+      "q": "Why might my garage door frame in Lombard cause installation issues?",
+      "a": "Lombard sits on clay soil. This soil expands and contracts with Chicago's weather changes, especially during winter freeze-thaw cycles. Over decades, this causes older garage openings, common in the Lilacia Park area and Yorktown, to settle out-of-square. This misalignment can pinch new door tracks or cause spring balance to drift with the frame. Our technicians are trained to assess these local conditions and make necessary adjustments for a proper and lasting installation."
+    },
+    {
+      "q": "Is it worth insulating my garage door in Lombard?",
+      "a": "Yes, insulating your garage door in Lombard is often a good investment, especially with Chicago's harsh winters. An insulated door (R-9 to R-18) prevents heat loss, making your garage more comfortable if it's a workspace or if you have living space above it. It also protects items stored in the garage from extreme temperatures. If you have a heated garage, insulation is critical for energy efficiency and lower heating bills."
+    }
+  ],
+  "ctaLine": "Get an upfront quote for your new garage door today."
+}

@@ -1,0 +1,52 @@
+{
+  "city": "wheaton",
+  "generatedAt": "2026-07-15T17:37:50.258Z",
+  "model": "gemini-2.5-pro",
+  "meta": {
+    "title": "Garage Door Repair Wheaton IL | 24-Hour Service",
+    "description": "Local Wheaton garage door repair. We fix broken springs, cables, and openers 24/6. Family-owned with flat-rate quotes. Book online for a 10% discount."
+  },
+  "hero": {
+    "headline": "Wheaton Garage Door Repair",
+    "subheadline": "Same-day service for broken springs, off-track doors, and opener problems. Open 24 hours, Monday–Saturday."
+  },
+  "intro": "We provide garage door repair across Wheaton, from single-family homes to commercial buildings. Our technicians fix common failures daily: broken torsion springs, frayed lift cables, and malfunctioning openers. We service all major brands, including Chamberlain and LiftMaster, handling everything from gear replacement to remote programming. If your door is off-track or noisy, we can realign it and replace worn rollers for smoother operation. Our service trucks are stocked with common parts, so most repairs are completed in a single visit. For homeowners looking to upgrade, we also handle complete garage door installations, offering a range of styles to fit Wheaton's diverse architecture. We service commercial overhead doors and loading dock equipment, too. Before any work begins, you receive a clear, flat-rate quote. We are a family-owned business, open 24 hours from Monday to Saturday for emergency calls throughout DuPage County. Every job concludes with a full balance and safety-reverse test to ensure your door operates correctly and safely.",
+  "localContext": "Wheaton's established neighborhoods are defined by their mature tree canopies. While beautiful, these oaks and maples create specific garage door problems we see often, especially after storms. Falling branches are a leading cause of dented and damaged door panels in areas like Arrowhead. In the fall, leaves and seed debris accumulate in door tracks, causing rollers to bind and throwing the door off balance. This debris also frequently obstructs the photo-eye safety sensors, preventing the door from closing. We clear these obstructions constantly. The housing stock also presents unique needs. Homes from the 1960s near the College Avenue area may have older, heavier doors that put more strain on springs and openers. Newer construction in the Danada area features modern systems that require precise calibration. We understand these local conditions and stock our trucks accordingly to handle Wheaton-specific repairs efficiently.",
+  "neighborhoodsServed": [
+    "Downtown Wheaton",
+    "Danada",
+    "Arrowhead",
+    "College Avenue area"
+  ],
+  "faqs": [
+    {
+      "q": "Do you service all of Wheaton, including the Danada area?",
+      "a": "Yes, our service area covers all of Wheaton and greater DuPage County. We have technicians available from the north side near Arrowhead down to the Danada Square shopping centers. Our trucks are dispatched locally to ensure prompt arrival."
+    },
+    {
+      "q": "How quickly can you get a technician to my home for a broken spring?",
+      "a": "For emergencies like a broken spring, we aim for same-day service, often within a few hours. Because our trucks are fully stocked with multiple spring sizes, we can measure and complete the repair in one visit."
+    },
+    {
+      "q": "My house near Wheaton College is older. Can you work on original wood garage doors?",
+      "a": "Absolutely. We have extensive experience repairing and maintaining the older wood doors common in the College Avenue area and Downtown Wheaton. We know how to properly balance their weight and can source parts for their specific hardware."
+    },
+    {
+      "q": "What does a typical garage door repair cost in Wheaton?",
+      "a": "Costs vary by the job, but we always provide a flat-rate quote for your specific issue before we start work. A basic service call to diagnose a problem has a set fee, which is waived if you approve the full repair."
+    },
+    {
+      "q": "The acorns from my oak tree keep blocking my garage door sensor. Is that something you fix?",
+      "a": "This is a very common call for us in Wheaton, especially during the fall. We will clear the obstruction, clean the photo eyes, and realign them to ensure they are sending a clear signal. We also check for any permanent damage to the sensor wiring."
+    },
+    {
+      "q": "Are you available for emergency repairs on weekends?",
+      "a": "We operate 24 hours a day from Monday through Saturday for all service calls, including emergencies. While we are closed on Sunday, we can schedule appointments for first thing Monday morning to resolve your issue quickly."
+    },
+    {
+      "q": "I need a new garage door installed. How does that process work in Wheaton?",
+      "a": "The process begins with a free on-site estimate where we measure your garage opening and discuss door styles and insulation options. Once you choose a door, we schedule the installation, which our crew typically completes in a single day."
+    }
+  ],
+  "ctaLine": "Get a flat-rate quote for your Wheaton garage door repair."
+}

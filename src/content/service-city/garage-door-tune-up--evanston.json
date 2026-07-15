@@ -1,0 +1,97 @@
+{
+  "service": "garage-door-tune-up",
+  "city": "evanston",
+  "generatedAt": "2026-07-14T22:54:34.903Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up Evanston, IL | Preventative Care",
+    "description": "Prevent costly repairs with a garage door tune-up in Evanston. Our team services noisy doors, replaces worn parts, and ensures safety for your home."
+  },
+  "hero": {
+    "headline": "Garage Door Tune-Up & Maintenance in Evanston, IL",
+    "subheadline": "Protect your door from Evanston weather. Get upfront pricing."
+  },
+  "intro": "A garage door tune-up in Evanston keeps your system operating smoothly. This service prevents small issues from becoming expensive repairs. It extends the life of your garage door components. Many Evanston homeowners notice their door is louder than it used to be. Others realize they haven't serviced the door since moving into their South Evanston home. Our tune-up addresses these concerns. We prepare your door for winter, lubricating moving parts and tightening hardware. This service catches small problems before they strand your car in a busy alley or cause a major breakdown. Our technicians arrive with trucks stocked with common parts. We provide an upfront flat-rate quote before any work begins, typically $89–$150. Book online to receive a 10% discount on this essential maintenance. A properly maintained door is a safer and more reliable door for your family.",
+  "localContext": "Evanston's location as the first ring off Lake Michigan creates unique challenges for garage doors. The lake-effect snow, relentless wind-driven moisture, and persistent salt air corrode metal parts faster here than further inland. This accelerates wear on hinges, cables, and bottom weather seals. Many homes in areas like Central Street and the Ridge Historic District feature century-old Victorians and brick homes. These often have original detached garages located on rear alleys. Such garages are more exposed to the elements. This exposure leads to faster degradation of lubricant, stiffening of rubber seals, and rust development on critical fastener hardware. Regular tune-ups are essential to counteract these specific environmental factors and maintain your door's integrity.",
+  "problemSigns": [
+    {
+      "sign": "Door is louder than it used to be",
+      "detail": "Friction from dry parts or loose hardware can cause grinding or squeaking."
+    },
+    {
+      "sign": "Haven't serviced the door since moving in",
+      "detail": "Regular maintenance prevents component failure and extends door life."
+    },
+    {
+      "sign": "Preparing the door for winter",
+      "detail": "Lubrication and seal checks are important before cold weather sets in."
+    },
+    {
+      "sign": "Small issues you want caught before they strand your car",
+      "detail": "Early detection of worn parts prevents unexpected breakdowns."
+    },
+    {
+      "sign": "Rollers feel rough or grind",
+      "detail": "Worn or unlubricated rollers can damage the track system."
+    },
+    {
+      "sign": "Bottom weather seal is cracked or stiff",
+      "detail": "A compromised seal allows moisture and cold air into the garage."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspect all moving parts",
+      "description": "We examine hinges, rollers, cables, springs, and tracks for wear or damage."
+    },
+    {
+      "step": "Lubricate hinges, rollers, and springs",
+      "description": "We apply garage-door-specific lubricant to reduce friction and noise."
+    },
+    {
+      "step": "Tighten loose hardware",
+      "description": "We secure all bolts, nuts, and fastener hardware on your door system."
+    },
+    {
+      "step": "Test balance and safety reverse",
+      "description": "We perform a balance test and ensure the safety reverse mechanism works correctly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront flat-rate quotes provided before any work starts.",
+    "Our trucks are stocked with common parts for efficient service.",
+    "Book online for a 10% discount on your service.",
+    "We are open 24 hours Monday–Saturday."
+  ],
+  "neighborhoodsServed": [
+    "Central Street",
+    "South Evanston",
+    "Ridge Historic District",
+    "Northwestern campus area",
+    "West Village"
+  ],
+  "faqs": [
+    {
+      "q": "How often should I get a garage door tune-up in Evanston?",
+      "a": "We recommend a tune-up every 12-18 months. Evanston's lake-effect weather, including salt air and wind, puts extra stress on garage door components. This accelerated wear means more frequent maintenance helps prevent early failures and keeps your door operating reliably through all seasons."
+    },
+    {
+      "q": "What is the typical price for a tune-up in Evanston?",
+      "a": "A standard garage door tune-up in Evanston typically costs between $89 and $150 flat. We provide an exact upfront quote before any work begins. You can also save 10% by booking your tune-up appointment online through our website."
+    },
+    {
+      "q": "Can a tune-up prevent major repairs on my century-old Evanston garage door?",
+      "a": "Yes, absolutely. Many homes in Evanston, particularly in areas like the Ridge Historic District, feature older detached garages. A tune-up lubricates aging parts, tightens hardware, and replaces worn components like hinges or bottom seals. This preventative care significantly reduces the likelihood of larger, more costly repairs on older doors."
+    },
+    {
+      "q": "How quickly can you schedule a tune-up appointment for my Evanston home?",
+      "a": "Tune-ups are not emergency services. We can usually schedule an appointment within a few business days, often sooner. We are open 24 hours Monday through Saturday. You can book online to select a time that works best for your schedule in South Evanston or near Northwestern's campus."
+    },
+    {
+      "q": "Do Evanston's historic district rules affect tune-ups?",
+      "a": "For routine maintenance like a tune-up, historic district rules typically do not apply. We are focusing on maintaining and repairing existing components, not replacing the entire door or making structural changes. If your tune-up identifies a need for major component replacement that might impact appearance, we will discuss it with you."
+    }
+  ],
+  "ctaLine": "Book your Evanston garage door tune-up online and save 10%."
+}

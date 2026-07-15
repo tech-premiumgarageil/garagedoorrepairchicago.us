@@ -1,0 +1,89 @@
+{
+  "service": "commercial-garage-door-repair",
+  "city": "arlington-heights",
+  "generatedAt": "2026-07-15T07:45:08.456Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Commercial Garage Door Repair Arlington Heights, IL | 24/7",
+    "description": "Reliable commercial garage door repair in Arlington Heights, IL. We fix loading docks, rolling steel, and operators. 24/7 dispatch Mon-Sat. Upfront quotes."
+  },
+  "hero": {
+    "headline": "Commercial Garage Door Repair in Arlington Heights, IL",
+    "subheadline": "Loading Dock Doors, Rolling Steel Curtains, Commercial Operators"
+  },
+  "intro": "Your business needs functional commercial doors. We provide commercial garage door repair in Arlington Heights, IL. Our family-owned company offers service for loading dock doors, rolling steel curtains, and commercial operators. We are open 24 hours a day, Monday through Saturday, for your repair needs. You receive an upfront flat-rate quote before any work starts. Our service trucks are stocked with common parts. This helps us complete most repairs on the first visit. We test your door's balance and safety-reverse function after every job. This ensures safe operation. Businesses in Downtown Arlington, Scarsdale, and Pioneer Park rely on us for fast, dependable service. We address issues like stuck doors, off-track curtains, and burned-out operator motors. Book online for a 10% discount on your service.",
+  "localContext": "Commercial properties across Arlington Heights face specific challenges. The consistent cold and temperature swings in Cook County, IL, stress commercial garage door systems. High-cycle springs wear out faster with increased use and seasonal temperature changes. Buildings around Downtown Arlington, some dating back decades, often have original commercial door systems. These older loading dock doors and rolling steel curtains are prone to issues like worn guides or fatigued operators. Businesses in areas like Berkley Square or near Lake Arlington see heavy use from deliveries and daily operations. A stuck loading dock door during morning deliveries is a common problem. It disrupts daily schedules for businesses and Metra UP-NW commuters alike. We understand the urgency of these commercial failures.",
+  "problemSigns": [
+    {
+      "sign": "Loading dock door stuck open or closed",
+      "detail": "Your shipping or receiving bay is inaccessible, stopping operations."
+    },
+    {
+      "sign": "Rolling steel curtain off its guides",
+      "detail": "The curtain binds, moves unevenly, or will not operate fully."
+    },
+    {
+      "sign": "Commercial operator motor burned out",
+      "detail": "The door will not open or close automatically with the opener."
+    },
+    {
+      "sign": "High-cycle springs at end of life",
+      "detail": "The door is heavy, makes excessive noise, or will not stay open."
+    }
+  ],
+  "process": [
+    {
+      "step": "Contact Us",
+      "description": "Call or book online 24 hours a day, Monday through Saturday, for commercial service."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "We provide a flat-rate quote for the repair on-site before any work begins."
+    },
+    {
+      "step": "Expert Repair",
+      "description": "Our technicians arrive with common commercial parts stocked on their trucks."
+    },
+    {
+      "step": "Safety Test",
+      "description": "We perform a balance and safety-reverse test on your door after every job."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business",
+    "Open 24 hours Monday–Saturday for emergencies",
+    "Upfront flat-rate quotes before work starts",
+    "Trucks stocked with common parts for faster repair",
+    "Balance and safety-reverse test after every job"
+  ],
+  "neighborhoodsServed": [
+    "Downtown Arlington",
+    "Scarsdale",
+    "Pioneer Park",
+    "Berkley Square",
+    "Lake Arlington"
+  ],
+  "faqs": [
+    {
+      "q": "How quickly can you repair a commercial door in Arlington Heights?",
+      "a": "We offer 24-hour dispatch Monday–Saturday. Priority dispatch is available for urgent commercial failures. This means we can often get to businesses in Downtown Arlington or Scarsdale quickly."
+    },
+    {
+      "q": "What is the typical cost for a commercial garage door repair in Arlington Heights?",
+      "a": "We provide an upfront flat-rate quote on-site before starting any work. Commercial repair costs vary based on parts and labor specific to your door's issue. You can book online for a 10% discount."
+    },
+    {
+      "q": "Do you service all types of commercial garage doors in Arlington Heights?",
+      "a": "Yes. We repair loading dock doors, rolling steel curtains, and commercial trolley and jackshaft operators. This includes systems found in older industrial properties and newer developments around Lake Arlington."
+    },
+    {
+      "q": "My commercial door opener motor is burned out. Can you replace it?",
+      "a": "Yes. We install new trolley and jackshaft operators. We also replace high-cycle torsion springs (25k–100k cycles), repair rolling steel curtains and guides, and install fusible links and safety edges."
+    },
+    {
+      "q": "My business is in Arlington Heights and needs emergency service. Is that available?",
+      "a": "Yes, we provide emergency commercial garage door repair 24 hours a day, Monday through Saturday. Call us for immediate dispatch if your loading dock door is stuck open or closed."
+    }
+  ],
+  "ctaLine": "Book your commercial garage door repair in Arlington Heights online and save 10%."
+}

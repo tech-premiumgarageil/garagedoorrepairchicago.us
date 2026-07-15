@@ -1,0 +1,93 @@
+{
+  "service": "garage-door-opener-repair",
+  "city": "evanston",
+  "generatedAt": "2026-07-14T17:35:33.240Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Opener Repair Evanston, IL | Same-Day Service",
+    "description": "Expert garage door opener repair in Evanston, IL. We fix common opener problems with upfront pricing. Book online for 10% off."
+  },
+  "hero": {
+    "headline": "Evanston Garage Door Opener Repair",
+    "subheadline": "We fix opener issues for Evanston homes. Get your door moving again. Our technicians address common problems quickly and with clear pricing."
+  },
+  "intro": "Your garage door opener provides access to your home. When it malfunctions, daily routines stop. We repair common garage door opener problems for Evanston residents. Our service technicians diagnose issues like a humming motor, doors reversing early, or unresponsive remotes. We provide an upfront, flat-rate quote before any work starts. Our trucks carry many common parts, helping us complete most repairs in one visit. We aim to restore your garage access efficiently. We are a family-owned company. We focus on clear communication and reliable repairs. After every job, we perform a balance test and check the safety-reverse function to ensure safe operation. We are open 24 hours Monday through Saturday.",
+  "localContext": "Evanston’s position along Lake Michigan exposes garage door systems to harsh conditions. Lake-effect snow, strong winds, and airborne moisture affect moving parts. Salt air from winter road treatments and the lake itself accelerates corrosion on hinges, cables, and bottom seals. This increased friction and resistance makes garage door openers work harder. Over time, this strain can damage drive gears, belts, or logic boards. Homes in the Ridge Historic District or South Evanston often feature original detached garages. These older structures, common in the Northwestern campus area, house aged opener systems. Their components are more susceptible to these environmental factors, leading to premature failure of motors, sensors, and trolleys.",
+  "problemSigns": [
+    {
+      "sign": "Opener hums, door does not move",
+      "detail": "The motor runs, but the door remains stationary. This often points to a stripped drive gear."
+    },
+    {
+      "sign": "Door reverses before touching the floor",
+      "detail": "The door detects an obstruction too early. Safety sensor alignment or damage is often the cause."
+    },
+    {
+      "sign": "Remote or keypad stopped responding",
+      "detail": "The opener does not react to commands from remotes or the wall console. Logic board failure or wiring issues can be at fault."
+    },
+    {
+      "sign": "Safety sensor lights blinking",
+      "detail": "The infrared beam is interrupted or misaligned. This prevents the door from closing fully."
+    },
+    {
+      "sign": "Trolley moves, but door stays down",
+      "detail": "The carriage detaches from the door. This indicates a broken or disengaged trolley carriage."
+    }
+  ],
+  "process": [
+    {
+      "step": "Diagnosis",
+      "description": "Our technician arrives and identifies the specific problem with your garage door opener."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "You receive a flat-rate price before any repair work begins. No hidden fees."
+    },
+    {
+      "step": "Repair",
+      "description": "We complete the repair using common parts stocked on our trucks, like drive gears, safety sensors, or logic boards."
+    },
+    {
+      "step": "Safety Test",
+      "description": "We perform a balance test and confirm the safety-reverse feature works correctly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned local business.",
+    "Open 24 hours Monday–Saturday.",
+    "Upfront flat-rate quotes before work starts.",
+    "10% discount for online booking.",
+    "Trucks stocked with common parts for faster repairs."
+  ],
+  "neighborhoodsServed": [
+    "Central Street",
+    "South Evanston",
+    "Ridge Historic District",
+    "Northwestern campus area",
+    "West Village"
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door opener repair cost in Evanston?",
+      "a": "Typical opener repair costs in Evanston range from $120 to $320, including parts. Prices vary based on the specific issue and required components, such as logic boards or drive gears. We provide a firm quote before starting any work."
+    },
+    {
+      "q": "How quickly can you repair my garage door opener in Evanston?",
+      "a": "We aim for efficient service. Our trucks are stocked with common parts, allowing us to complete most opener repairs on the first visit. We are open 24 hours Monday through Saturday for scheduling."
+    },
+    {
+      "q": "Many Evanston garages are old. Can you repair older opener models?",
+      "a": "Yes, we service a wide range of garage door opener models, including older units common in Evanston's historic homes. We carry many standard replacement parts for both older and newer systems."
+    },
+    {
+      "q": "Why do garage door openers fail more often near Lake Michigan in Evanston?",
+      "a": "Evanston's proximity to Lake Michigan brings lake-effect snow, strong winds, and moist, salt-laden air. This environment corrodes metal components and strains opener mechanisms, leading to premature wear on parts like drive gears and sensors."
+    },
+    {
+      "q": "Do you repair openers for homes near Northwestern's campus?",
+      "a": "Yes, we provide garage door opener repair services for homes and properties throughout Evanston, including those in the Northwestern campus area. We serve all Evanston neighborhoods."
+    }
+  ],
+  "ctaLine": "Get your garage door opener working correctly again. Book your repair today."
+}

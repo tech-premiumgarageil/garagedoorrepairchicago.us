@@ -1,0 +1,88 @@
+{
+  "service": "garage-door-spring-repair",
+  "city": "berwyn",
+  "generatedAt": "2026-07-14T16:02:23.230Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Spring Repair Berwyn, IL | Local Service",
+    "description": "Berwyn, IL garage door spring repair. We fix broken torsion and extension springs. Upfront pricing. 24/6 dispatch. Same-day service often available for"
+  },
+  "hero": {
+    "headline": "Garage Door Spring Repair in Berwyn, IL",
+    "subheadline": "Broken spring? We restore door function for Berwyn homes. Upfront pricing."
+  },
+  "intro": "A broken garage door spring makes your door heavy or unusable. This is a common issue for Berwyn homeowners. Many homes in the Depot District and South Berwyn still have their original detached alley garages. These older systems work hard. Daily use and Chicago weather cycles weaken springs over time. When a spring breaks, you might hear a loud bang. The door won't open, or it will feel extremely heavy. Our technicians replace broken springs with durable parts. We offer upfront flat-rate quotes before any work begins. We stock common parts on our trucks for efficient service. Our team is available 24 hours Monday through Saturday for urgent repairs. We get your Berwyn garage door working safely again.",
+  "localContext": "Berwyn is home to many Chicago-style brick bungalows. Most of these were built in the 1920s. They feature detached alley garages. These garages often still run their first or second-generation hardware. Springs on these older doors have endured decades of use. They also contend with significant temperature shifts common in Cook County. Cold winters make metal brittle. Hot summers can cause expansion. This stress leads to spring fatigue and eventual breakage. Additionally, these garages were built for narrower Model T-era vehicles. Modern SUVs and trucks often stress old systems, especially with worn rollers or bent track. Replacing an old, broken spring restores safe operation, especially important near busy areas like the Cermak Road corridor.",
+  "problemSigns": [
+    {
+      "sign": "Loud bang from the garage",
+      "detail": "Indicates a sudden spring failure, often audible from inside the home."
+    },
+    {
+      "sign": "Door won't lift or feels extremely heavy",
+      "detail": "The spring no longer provides the necessary lift assistance."
+    },
+    {
+      "sign": "Visible gap in the torsion spring above the door",
+      "detail": "A clear sign of a broken torsion spring."
+    },
+    {
+      "sign": "Door lifts a few inches then stops",
+      "detail": "Often means the spring is weak or only partially functional."
+    },
+    {
+      "sign": "Cables look loose or slack",
+      "detail": "This happens when the spring loses tension, releasing the cables."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspect the Door",
+      "description": "We assess the garage door system to confirm the broken spring and check for other issues."
+    },
+    {
+      "step": "Provide Upfront Quote",
+      "description": "You receive a flat-rate price quote before any repair work starts."
+    },
+    {
+      "step": "Replace Broken Spring",
+      "description": "Our technician replaces the damaged spring with new, high-cycle parts. We also replace any worn center and end bearing plates or winding cones as needed."
+    },
+    {
+      "step": "Test and Balance",
+      "description": "After replacement, we perform a balance test and safety-reverse test to ensure safe and smooth operation."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business serving Berwyn.",
+    "Upfront flat-rate quotes every time.",
+    "Our trucks carry common spring types for same-day repair.",
+    "We test door balance and safety reversal after every job.",
+    "Book online to receive a 10% discount on your spring repair."
+  ],
+  "neighborhoodsServed": [
+    "Depot District",
+    "South Berwyn",
+    "Proksa Park Area",
+    "Cermak Road Corridor"
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door spring repair cost in Berwyn?",
+      "a": "Spring repair in Berwyn typically costs $180–$450. This price includes new parts and labor. We provide a flat-rate quote before starting any work."
+    },
+    {
+      "q": "Can you fix my broken spring today in Berwyn?",
+      "a": "Yes, we dispatch technicians 24 hours Monday through Saturday. Our trucks are stocked with common spring types, so same-day repair is often possible for Berwyn homes, including those in the Proksa Park area."
+    },
+    {
+      "q": "My Berwyn bungalow garage has an old door. Can you still repair the spring?",
+      "a": "We regularly service older detached garages throughout Berwyn. We use high-cycle, oil-tempered torsion springs or extension springs with safety cables designed for longevity. We ensure compatibility with your existing system."
+    },
+    {
+      "q": "What kinds of springs do you install in Berwyn garages?",
+      "a": "We install high-cycle, oil-tempered torsion springs and extension springs with safety cables. We also replace worn center and end bearing plates, and winding cones. These are durable options suitable for Berwyn's climate and garage types."
+    }
+  ],
+  "ctaLine": "Get your Berwyn garage door spring fixed. Schedule service online or call us."
+}

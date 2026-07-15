@@ -1,0 +1,86 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "arlington-heights",
+  "generatedAt": "2026-07-14T19:25:35.196Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation Arlington Heights, IL | Quotes",
+    "description": "Upgrade your Arlington Heights home with a new garage door. We install insulated steel, carriage-house, and full-view doors. Upfront flat-rate quotes."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Arlington Heights, IL",
+    "subheadline": "Upfront Flat-Rate Quotes. Family-Owned. Book Online for 10% Off."
+  },
+  "intro": "A new garage door improves your Arlington Heights home. It boosts curb appeal before selling. It can add energy efficiency. We install new garage doors across Arlington Heights. This includes replacing rusted, cracked, or delaminating door panels. It covers upgrading single-layer doors that leak heat all winter. You get an upfront flat-rate quote before we start any work. Our family-owned company works Monday through Saturday. We are open 24 hours those days. Book your installation online for a 10% discount. We install insulated steel doors, carriage-house styles, and full-view aluminum and glass doors. We also install complete track and spring hardware. Our goal is a safe, functional garage door for your home.",
+  "localContext": "Arlington Heights homes vary from 1950s ranches to 1990s two-stories. Many have older garage doors. These doors often show wear from Chicago-area weather. Road salt and winter moisture cause rust on lower panels, especially in older homes in Scarsdale. Single-layer doors common in properties near Lake Arlington lose significant heat in cold months. Metra UP-NW commuters and downtown-Arlington professionals often have bedrooms above attached garages. They frequently request quiet belt-drive openers with new door installations. Upgrading to an insulated door or a more modern style is a common project for homeowners in Berkley Square.",
+  "problemSigns": [
+    {
+      "sign": "Door panels rusted, cracked, or delaminating",
+      "detail": "Aging door panels show wear from Chicagoland's varied weather. Rust, cracks, or material separation indicate it is time for a replacement."
+    },
+    {
+      "sign": "Single-layer door leaking heat all winter",
+      "detail": "Uninsulated doors allow significant heat transfer, making heated garages inefficient in cold weather."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door significantly enhances a home's exterior appearance, which can be important for resale value."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "Upgrading to an insulated door improves energy efficiency and comfort in a garage used as a workspace or extension of living space."
+    }
+  ],
+  "process": [
+    {
+      "step": "Assess your current garage door",
+      "description": "We evaluate your existing door and discuss your needs for a new installation."
+    },
+    {
+      "step": "Provide a flat-rate quote",
+      "description": "You receive a clear, upfront flat-rate quote for the new door and installation before any work starts."
+    },
+    {
+      "step": "Install your new garage door and hardware",
+      "description": "Our technicians install your selected garage door, including new tracks and springs."
+    },
+    {
+      "step": "Perform balance and safety-reverse tests",
+      "description": "After installation, we conduct essential safety tests to ensure proper operation and balance."
+    }
+  ],
+  "whyUs": [
+    "Family-owned company",
+    "Open 24 hours, Monday–Saturday",
+    "Upfront flat-rate quotes",
+    "10% discount for online booking",
+    "Trucks stocked with common parts",
+    "Balance and safety-reverse test after every job"
+  ],
+  "neighborhoodsServed": [
+    "Downtown Arlington",
+    "Scarsdale",
+    "Pioneer Park",
+    "Berkley Square",
+    "Lake Arlington"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Arlington Heights?",
+      "a": "New garage door installations in Arlington Heights typically cost $1,100–$4,500. The price depends on door size, insulation, and style. We provide an upfront flat-rate quote before any work begins, specific to your home in areas like Pioneer Park."
+    },
+    {
+      "q": "How quickly can I get a new garage door installed in Arlington Heights?",
+      "a": "New garage door installations are scheduled appointments, not emergency services. We work with your schedule to book an installation. Our services run Monday through Saturday."
+    },
+    {
+      "q": "What types of new garage doors are popular for Arlington Heights homes?",
+      "a": "Insulated steel doors, with R-9 to R-18 ratings, are popular for our Chicago winters, especially for heated garages. Quiet belt-drive openers are a common upgrade with new doors for homes in Downtown Arlington, where bedrooms are often above garages."
+    },
+    {
+      "q": "Do you include the opener in a new garage door installation price?",
+      "a": "New garage door prices usually cover the door, tracks, and springs. Openers are a separate item. We can install a new opener during your door installation. We provide a separate quote for the opener."
+    }
+  ],
+  "ctaLine": "Contact us today for a new garage door installation quote in Arlington Heights."
+}

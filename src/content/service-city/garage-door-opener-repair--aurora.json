@@ -1,0 +1,93 @@
+{
+  "service": "garage-door-opener-repair",
+  "city": "aurora",
+  "generatedAt": "2026-07-14T17:35:52.190Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Opener Repair Aurora IL | Fast Service",
+    "description": "Aurora garage door opener repair. Get upfront quotes for common opener issues. We fix safety sensors, logic boards, and more. Open 24/6. Book online for"
+  },
+  "hero": {
+    "headline": "Garage Door Opener Repair in Aurora, IL",
+    "subheadline": "Upfront quotes. Common parts stocked. Book online for 10% off."
+  },
+  "intro": "We repair garage door openers across Aurora, IL. If your garage door opener hums but the door does not move, or if your remote or keypad stops responding, we can diagnose the problem. We fix common opener issues quickly. Our technicians arrive with trucks stocked with parts like drive gears, safety sensors, and logic boards. This helps us complete most repairs on the first visit. We provide an upfront, flat-rate quote before any work begins. You will know the total cost before we start. We are a family-owned business, open 24 hours Monday through Saturday. After every opener repair, we perform a balance and safety-reverse test to ensure safe operation. Book your service appointment online today to receive a 10% discount on your repair.",
+  "localContext": "Aurora's diverse housing stock impacts garage door opener wear. Victorian homes near the Fox River, like those in the West Side Historic District, often have older, heavier wood doors. The Fox River valley's humidity swings can warp these doors, putting extra strain on opener motors and drive gears. This leads to premature failure. Newer subdivisions on Aurora's far east side, around areas like Eola and Pigeon Hill, present different challenges. Many attached three-car garages were built in the same five-year window during the 1990s and 2000s. Their original opener components, particularly drive gears and logic boards, are now reaching their end-of-life together. This often causes widespread failures in these neighborhoods.",
+  "problemSigns": [
+    {
+      "sign": "Opener hums, door stays still",
+      "detail": "Your motor runs, but the door belt or chain does not move. This often points to a worn drive gear or a broken belt."
+    },
+    {
+      "sign": "Door reverses mid-descent",
+      "detail": "The garage door starts to close but reverses before it touches the ground. This indicates a problem with safety sensors or travel limits."
+    },
+    {
+      "sign": "Remote or keypad unresponsive",
+      "detail": "Your remote controls or wall-mounted keypad no longer activate the opener. This can be a logic board issue or a sensor problem."
+    },
+    {
+      "sign": "Safety sensor lights blinking",
+      "detail": "The small lights on your safety sensors near the bottom of the door track are blinking. This means the sensors are misaligned or faulty."
+    },
+    {
+      "sign": "Trolley moves, door stays down",
+      "detail": "The trolley carriage moves along the rail, but the door itself remains closed. This typically indicates a broken trolley carriage or a disconnected emergency release."
+    }
+  ],
+  "process": [
+    {
+      "step": "Schedule Service",
+      "description": "Book your appointment online for a 10% discount or call us 24/6. We confirm your repair time."
+    },
+    {
+      "step": "Technician Arrives",
+      "description": "Our technician arrives in a stocked truck. They diagnose the opener issue."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "You receive a flat-rate quote for the repair. Work starts only after your approval."
+    },
+    {
+      "step": "Repair & Test",
+      "description": "We replace faulty opener parts. Then we perform a balance and safety-reverse test."
+    }
+  ],
+  "whyUs": [
+    "Family-owned local business.",
+    "Upfront flat-rate quotes.",
+    "Trucks stocked with common opener parts.",
+    "Open 24 hours Monday–Saturday.",
+    "10% discount for online booking."
+  ],
+  "neighborhoodsServed": [
+    "Stonebridge",
+    "West Side Historic District",
+    "Fox Valley",
+    "Eola",
+    "Pigeon Hill"
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door opener repair typically cost in Aurora, IL?",
+      "a": "Opener repairs in Aurora typically cost $120–$320, including parts. The exact price depends on the specific component needing replacement, like a logic board or safety sensors. We provide an upfront flat-rate quote."
+    },
+    {
+      "q": "Do you stock common opener parts for Aurora homes?",
+      "a": "Yes, our service trucks carry common opener parts like drive gears, logic boards, and safety sensors. This helps us complete most Aurora opener repairs on the first visit."
+    },
+    {
+      "q": "My opener failed in my 1990s east-side Aurora subdivision. Is this common?",
+      "a": "Yes. Many homes in east-side Aurora subdivisions, like Eola, were built around the same time. Their original openers are now reaching the end of their service life simultaneously, leading to common failures."
+    },
+    {
+      "q": "Can you fix an opener for an older Victorian home near the Fox River?",
+      "a": "Yes. We service all types of homes in Aurora. Older, heavier wood doors, common in areas like the West Side Historic District, can put extra strain on openers. We can diagnose and repair these systems."
+    },
+    {
+      "q": "What are your hours for opener repair in Aurora?",
+      "a": "We are available for garage door opener repair in Aurora 24 hours Monday through Saturday. You can book an appointment for any time within these hours."
+    }
+  ],
+  "ctaLine": "Need opener repair in Aurora? Book online for a 10% discount."
+}

@@ -1,0 +1,84 @@
+{
+  "service": "garage-door-cable-repair",
+  "city": "lombard",
+  "generatedAt": "2026-07-14T17:31:31.847Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Cable Repair Lombard, IL | Quick Service",
+    "description": "Lombard garage door cable snapped? We fix crooked, grinding, or slamming doors. Upfront flat-rate pricing. Same-day service available 24/6."
+  },
+  "hero": {
+    "headline": "Garage Door Cable Repair in Lombard, IL",
+    "subheadline": "We fix snapped or loose cables on any Lombard garage door. Same-day service."
+  },
+  "intro": "A broken garage door cable creates immediate problems. Your door may hang crooked, refuse to open, or slam shut. These cables are critical for lifting and balancing your garage door. When they fail, the door becomes heavy and unsafe. We repair snapped, frayed, or unwound garage door cables in Lombard, DuPage County. Our service trucks carry common parts. We arrive prepared to fix your door on the first visit. We offer upfront, flat-rate quotes before any work begins. This means you know the total cost before we start. For urgent repairs, our technicians are available 24 hours a day, Monday through Saturday. Book your cable repair online and receive a 10% discount.",
+  "localContext": "Lombard's older homes often feature aging garage structures. Bungalows near Lilacia Park, built in the 1920s, commonly have detached garages. These buildings can settle unevenly on Lombard's clay soil. This causes door openings to go out of square, especially with seasonal freeze-thaw cycles. Garage doors in these older frames develop track pinch points, stressing lift cables. Similarly, 1960s and 70s ranches in areas like Yorktown and Westmore have attached garages. Their original springs and cables are nearing or past their design life. Repeated use on doors that drift out of balance due to shifting foundations contributes to cable wear. We understand these local issues.",
+  "problemSigns": [
+    {
+      "sign": "Door hangs crooked in the opening",
+      "detail": "A broken or loose cable on one side means the door is not lifting evenly."
+    },
+    {
+      "sign": "Cable hanging loose or wrapped off the drum",
+      "detail": "This indicates a cable has slipped from its pulley or drum, or it has snapped."
+    },
+    {
+      "sign": "Grinding noise as the door moves",
+      "detail": "Damaged cables or drums can rub against other components, creating friction and noise."
+    },
+    {
+      "sign": "Door slams down faster than normal",
+      "detail": "When a cable fails, the spring system loses its counterbalance, causing the door to drop rapidly."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspect the Door System",
+      "description": "We identify if the cable is broken, frayed, or has come off its drum. We check associated components."
+    },
+    {
+      "step": "Replace Damaged Parts",
+      "description": "We install new galvanized aircraft-grade lift cables. We also replace worn cable drums or bottom brackets as needed. Our trucks carry these parts."
+    },
+    {
+      "step": "Balance and Adjust",
+      "description": "We ensure the new cables and springs work together to properly balance the door weight."
+    },
+    {
+      "step": "Safety Test",
+      "description": "After repair, we perform a balance test and verify the safety-reverse function operates correctly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business",
+    "Upfront, flat-rate pricing",
+    "Emergency dispatch 24 hours, Monday–Saturday",
+    "Trucks stocked with common cable repair parts",
+    "Balance and safety-reverse test on every repair"
+  ],
+  "neighborhoodsServed": [
+    "Downtown Lombard",
+    "Lilacia Park area",
+    "Yorktown",
+    "Westmore"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for garage door cable repair in Lombard?",
+      "a": "Cable repair in Lombard generally costs between $150 and $350. This price includes parts like galvanized aircraft-grade lift cables, and labor. We provide a flat-rate quote before starting any work."
+    },
+    {
+      "q": "How quickly can you fix a broken garage door cable in Lombard?",
+      "a": "We offer emergency dispatch 24 hours a day, Monday through Saturday. We aim for same-day service for Lombard cable repairs. Our trucks are stocked with common parts to fix your door promptly."
+    },
+    {
+      "q": "Can Lombard's weather and older homes affect garage door cables?",
+      "a": "Yes. Lombard's clay soil and freeze-thaw cycles can cause older garage foundations to shift. This puts stress on door frames and tracks, leading to premature cable wear or snapping. Homes in the Lilacia Park area or Yorktown are particularly susceptible."
+    },
+    {
+      "q": "Do you service detached garages in older Lombard neighborhoods?",
+      "a": "Yes, we service all types of garages in Lombard, including the detached garages common to 1920s bungalows near Lilacia Park. We carry parts for various door sizes and systems."
+    }
+  ],
+  "ctaLine": "Get your Lombard garage door working safely again. Book online for a 10% discount."
+}

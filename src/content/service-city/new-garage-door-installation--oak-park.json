@@ -1,0 +1,84 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "oak-park",
+  "generatedAt": "2026-07-14T18:54:29.118Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Installation in Oak Park, IL | New Doors",
+    "description": "Upgrade your Oak Park home with a new garage door. We install insulated steel, carriage-house, and full-view doors. Upfront quotes. Online booking"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Oak Park, IL",
+    "subheadline": "We replace old, damaged, and inefficient garage doors."
+  },
+  "intro": "We install new garage doors for Oak Park residents. Our company is family-owned. We are open for service 24 hours Monday through Saturday. You get an upfront, flat-rate quote before any work starts. Book online for a 10% discount. A new garage door improves your home's function and appearance. Old doors can be inefficient and detract from your property. We replace rusted panels, single-layer doors, or doors that no longer match your home. We offer insulated steel, carriage-house, and full-view aluminum and glass doors. Our team arrives with common parts stocked on trucks. We perform a balance and safety-reverse test after every installation. This ensures your new door operates correctly and safely for years to come. We serve homes across Oak Park.",
+  "localContext": "Oak Park homes, from the Frank Lloyd Wright Historic District to the Gunderson Historic District, feature unique architecture. Many garages are detached and located on alleys. These properties often have older garage doors. Years of Chicago-area winters, with extreme temperature swings and high humidity, cause corrosion. Single-layer doors leak heat, raising energy bills for heated garages. Dented or delaminating panels stand out on architecturally protected Victorians and Prairie-style homes. Upgrading your garage door here means choosing a replacement that respects the village streetscape. Historic district review boards favor carriage-house styles and period-appropriate designs. We understand these local requirements for homes in areas like the Hemingway District.",
+  "problemSigns": [
+    {
+      "sign": "Door panels are rusted, cracked, or delaminating",
+      "detail": "Midwest weather exposure and age cause deterioration, especially on older garage doors common in Oak Park."
+    },
+    {
+      "sign": "Single-layer door leaks heat all winter",
+      "detail": "Uninsulated doors allow significant heat loss, increasing energy bills for heated garages in the Chicago cold."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door improves a property's exterior, important for homes in competitive markets like Oak Park."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "An insulated door improves comfort and energy efficiency, beneficial for garages used as workshops or living spaces."
+    }
+  ],
+  "process": [
+    {
+      "step": "Initial Consultation & Quote",
+      "description": "We discuss your specific needs and provide an upfront, flat-rate quote for the new door and complete installation cost."
+    },
+    {
+      "step": "Order & Scheduling",
+      "description": "Once you approve the quote, we order your chosen garage door and schedule the installation at a time convenient for you."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our team removes your old door, installs the new one, and replaces complete track and spring hardware with precision."
+    },
+    {
+      "step": "Final Safety Check",
+      "description": "We perform a balance and safety-reverse test to ensure your new garage door operates safely and correctly before we finish."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated, serving the Chicagoland area.",
+    "Upfront, flat-rate pricing provided before any work begins.",
+    "10% discount when you book your service online.",
+    "Trucks stocked with common parts for efficient installations.",
+    "Balance and safety-reverse test included after every job."
+  ],
+  "neighborhoodsServed": [
+    "Frank Lloyd Wright Historic District",
+    "Hemingway District",
+    "Harrison Arts District",
+    "Gunderson Historic District"
+  ],
+  "faqs": [
+    {
+      "q": "How much does a new garage door installation cost in Oak Park?",
+      "a": "A typical new garage door installation in Oak Park ranges from $1,100 to $4,500. This price depends on the door style, insulation level, and required hardware. Historic district requirements in areas like the Harrison Arts District can influence material choices and therefore cost. We provide an upfront, flat-rate quote before any work begins, detailing all expenses for your project."
+    },
+    {
+      "q": "What type of garage doors are best for Oak Park's historic homes?",
+      "a": "For Oak Park's architecturally protected Victorians and Prairie-style homes, carriage-house style doors are often favored. These respect the streetscape and comply with historic district guidelines. Insulated steel doors (R-9 to R-18) are also popular for energy efficiency, especially for detached alley garages common in areas like the Hemingway District. Full-view aluminum and glass doors are an option for specific modern aesthetics that might fit certain property types."
+    },
+    {
+      "q": "Do you consider Oak Park's historic preservation guidelines for new garage doors?",
+      "a": "Yes, we understand that properties in districts like the Frank Lloyd Wright Historic District often have specific requirements for exterior changes. We can guide you in selecting a new garage door that aligns with period-appropriate styles and local aesthetic expectations. Our goal is to help you choose a door that complements your home's unique character while meeting village standards."
+    },
+    {
+      "q": "How long does a new garage door installation take in Oak Park?",
+      "a": "Most new garage door installations can be completed in a single day. The exact time depends on the complexity of the job and whether new tracks and springs are also being installed. We work efficiently to minimize disruption to your schedule, whether you live in the Gunderson Historic District or another part of Oak Park. We ensure a full balance and safety-reverse test is performed before we leave your property."
+    }
+  ],
+  "ctaLine": "Call us today for a new garage door quote in Oak Park."
+}

@@ -24,7 +24,8 @@ import {
   flattenText,
   SIMILARITY_THRESHOLD,
   MIN_SPOKE_WORDS,
-  MIN_HUB_WORDS,
+  MIN_SERVICE_HUB_WORDS,
+  MIN_CITY_HUB_WORDS,
 } from "./lib/quality";
 import type { ZodType } from "zod";
 
@@ -52,14 +53,14 @@ const targets: Target[] = [
     id: `hub:${s.slug}`,
     file: path.join(CONTENT_DIR, "service-hub", `${s.slug}.json`),
     schema: serviceHubContentSchema as ZodType,
-    minWords: MIN_HUB_WORDS,
+    minWords: MIN_SERVICE_HUB_WORDS,
     uniquenessKey: (p: Record<string, unknown>) => `${p.intro} ${p.whatWeDo}`,
   })),
   ...cities.map((c) => ({
     id: `city:${c.slug}`,
     file: path.join(CONTENT_DIR, "city-hub", `${c.slug}.json`),
     schema: cityHubContentSchema as ZodType,
-    minWords: MIN_HUB_WORDS,
+    minWords: MIN_CITY_HUB_WORDS,
     uniquenessKey: (p: Record<string, unknown>) => `${p.intro} ${p.localContext}`,
   })),
 ];

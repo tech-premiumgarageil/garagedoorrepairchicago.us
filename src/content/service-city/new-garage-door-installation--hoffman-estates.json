@@ -1,0 +1,91 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "hoffman-estates",
+  "generatedAt": "2026-07-14T20:09:42.650Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Hoffman Estates, IL | Quotes",
+    "description": "Upgrade your Hoffman Estates garage door. Replace rusted, cracked, or delaminating panels. Get upfront quotes, online booking discount, and insulated"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Hoffman Estates, IL",
+    "subheadline": "Replace old, failing doors. Get an upfront flat-rate quote before work starts. Book online for a 10% discount."
+  },
+  "intro": "Our family-owned company installs new garage doors in Hoffman Estates. We provide upfront flat-rate quotes before any work begins. You will know the full cost immediately. Our technicians arrive with common parts stocked on their trucks. This helps us complete your installation efficiently. We are open for service 24 hours Monday through Saturday. Book your new door installation online to receive a 10% discount. After every installation, we perform a balance and safety-reverse test. This ensures your new door operates correctly and safely. We install insulated steel, carriage-house style, and full-view aluminum doors. We also replace all track and spring hardware. Our typical installation prices range from $1,100 to $4,500. This service is not eligible for emergency repair.",
+  "localContext": "Many Hoffman Estates homes were built in the 1960s through 1980s. These Parcel-lettered subdivisions like Highlands, Winston Knolls, and Barrington Square often feature raised ranches and split-levels. Original garage doors on these attached two-car garages are reaching their end of life. Across blocks, especially in South Ridge, we see original wood-composite doors delaminating. Hoffman Estates' exposed northwest-corridor terrain contributes to this wear. Horizontal rain and snow hit west-facing doors hard. This weather drives moisture into panels, causing swelling and delamination. These specific conditions explain why so many garage doors in Hoffman Estates need replacement. An upgrade improves appearance and performance.",
+  "problemSigns": [
+    {
+      "sign": "Door panels are rusted, cracked, or delaminating.",
+      "detail": "This affects appearance and structural integrity."
+    },
+    {
+      "sign": "Single-layer garage door leaks heat all winter.",
+      "detail": "Cold air enters a heated garage, increasing energy bills."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling a home.",
+      "detail": "A new door significantly improves a home's exterior look."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage.",
+      "detail": "An insulated door helps maintain temperature in a conditioned space."
+    }
+  ],
+  "process": [
+    {
+      "step": "Get an Upfront Quote.",
+      "description": "We provide a flat-rate price for your new garage door installation. This happens before any work starts."
+    },
+    {
+      "step": "Schedule Installation.",
+      "description": "Choose an installation time that fits your schedule. Book online for a 10% discount."
+    },
+    {
+      "step": "Expert Door Installation.",
+      "description": "Our technicians install your new insulated steel, carriage-house, or full-view aluminum door. They also replace all track and spring hardware."
+    },
+    {
+      "step": "Safety and Performance Test.",
+      "description": "We perform a balance and safety-reverse test. This ensures your new door works properly and safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned company.",
+    "Upfront flat-rate quotes.",
+    "Trucks stocked with common parts.",
+    "10% discount for online booking.",
+    "Balance and safety-reverse test after every job."
+  ],
+  "neighborhoodsServed": [
+    "Highlands",
+    "Winston Knolls",
+    "Barrington Square",
+    "South Ridge",
+    "Huntington",
+    "Fairway Estates",
+    "Northgate"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for new garage door installation in Hoffman Estates?",
+      "a": "New garage door installation in Hoffman Estates typically costs between $1,100 and $4,500. This range covers standard insulated steel doors to premium full-view models common in local housing upgrades."
+    },
+    {
+      "q": "How long does it take to install a new garage door at my Hoffman Estates home?",
+      "a": "Most new garage door installations are completed in a single visit. Our trucks are stocked with common parts to ensure efficiency."
+    },
+    {
+      "q": "Why are many garage doors in Hoffman Estates failing, especially older ones?",
+      "a": "Many Hoffman Estates homes from the 1960s-80s, particularly in Highlands and Winston Knolls, have original wood-composite doors. The exposed northwest-corridor weather drives horizontal rain and snow, causing these older panels to swell and delaminate."
+    },
+    {
+      "q": "Can I get an insulated garage door for my 1970s split-level home in Barrington Square?",
+      "a": "Yes. We install insulated steel doors (R-9 to R-18) suitable for upgrading older homes in neighborhoods like Barrington Square. This improves energy efficiency for heated garages."
+    },
+    {
+      "q": "Is new garage door installation considered an emergency service in Hoffman Estates?",
+      "a": "No, new garage door installation is not an emergency service. We schedule these projects by appointment, offering flexible times Monday through Saturday."
+    }
+  ],
+  "ctaLine": "Schedule your new garage door installation in Hoffman Estates today."
+}

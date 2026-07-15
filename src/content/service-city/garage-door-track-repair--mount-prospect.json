@@ -1,0 +1,92 @@
+{
+  "service": "garage-door-track-repair",
+  "city": "mount-prospect",
+  "generatedAt": "2026-07-14T22:37:27.708Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Track Repair in Mount Prospect, IL | Same-Day Service",
+    "description": "Mount Prospect garage door track repair. We fix bent tracks, rollers, and alignment. Upfront pricing. 24/6 service for 1950s-60s homes. Book online for"
+  },
+  "hero": {
+    "headline": "Garage Door Track Repair in Mount Prospect, IL",
+    "subheadline": "Bent tracks and misaligned doors fixed fast. Upfront pricing for local homes."
+  },
+  "intro": "A damaged garage door track stops your door from operating correctly. We fix bent or misaligned tracks for Mount Prospect homeowners. Our technicians identify the exact problem. We replace damaged track sections or realign existing tracks. You get an upfront flat-rate quote before any work begins. Trucks arrive stocked with common parts. This means we complete most track repairs in one visit. We are a family-owned company. We serve Mount Prospect homes with reliable repairs for all garage door issues. Our service is available 24 hours a day, Monday through Saturday. Book online to save 10% on your repair. We perform a balance and safety-reverse test after every job.",
+  "localContext": "Many Mount Prospect homes, especially in Prospect Manor and We-Go Park, feature attached garages from the 1950s and 60s. These often have original steel garage doors. Many are single-skin, un-insulated panels. During deep cold spells, like subzero January days, these older doors visibly bow inward. This bowing puts extreme pressure on the vertical and horizontal tracks. Over time, tracks bend, rollers pop out, and the door binds. This specific stress on tracks is common for post-war brick ranches and split-levels here. Repairing these specific failures keeps your existing door functional. We understand these local issues.",
+  "problemSigns": [
+    {
+      "sign": "Door sticks or binds",
+      "detail": "Your garage door struggles to move past the same point each time it opens or closes."
+    },
+    {
+      "sign": "Visible bend or dent",
+      "detail": "You can see physical damage to the vertical or horizontal track sections."
+    },
+    {
+      "sign": "Rollers popping out",
+      "detail": "The garage door rollers leave the track, causing the door to tilt or jam."
+    },
+    {
+      "sign": "Gap between track and frame",
+      "detail": "The track has pulled away from the garage door frame or wall."
+    },
+    {
+      "sign": "Loud grinding noises",
+      "detail": "Scraping or grinding sounds indicate metal-on-metal friction within the track."
+    }
+  ],
+  "process": [
+    {
+      "step": "Diagnosis",
+      "description": "Our technician inspects your garage door tracks to find the exact cause of the problem."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "We provide a flat-rate price quote for the repair before any work starts."
+    },
+    {
+      "step": "Repair or Replacement",
+      "description": "We fix bent sections, replace damaged tracks, or realign the entire system."
+    },
+    {
+      "step": "Safety Test",
+      "description": "We perform a balance and safety-reverse test to ensure safe operation."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated",
+    "Upfront flat-rate quotes before work starts",
+    "24-hour service Monday–Saturday for urgent repairs",
+    "Trucks stocked with common track parts for fast service",
+    "10% discount when you book your repair online"
+  ],
+  "neighborhoodsServed": [
+    "Downtown Mount Prospect",
+    "Prospect Manor",
+    "We-Go Park",
+    "Countryside"
+  ],
+  "faqs": [
+    {
+      "q": "What causes garage door tracks to bend in Mount Prospect?",
+      "a": "Older, un-insulated steel doors common in 1950s-60s Mount Prospect homes, especially in Countryside, often flex in subzero temperatures. This puts stress on tracks, causing them to bend or misalign over time."
+    },
+    {
+      "q": "How much does garage door track repair cost in Mount Prospect?",
+      "a": "Track repair typically costs $130–$400 in Mount Prospect. The price depends on whether we need to fix a minor bend, replace a full section, or address multiple issues. We give an upfront flat-rate quote."
+    },
+    {
+      "q": "Can you fix a bent track on my older garage door in Prospect Manor?",
+      "a": "Yes. We commonly repair tracks on original 1950s-60s garage doors found in areas like Prospect Manor and We-Go Park. We carry appropriate parts for these older systems."
+    },
+    {
+      "q": "Is emergency track repair available in Mount Prospect?",
+      "a": "Yes. We offer 24-hour dispatch for emergency track repairs Monday through Saturday. If your door is jammed or unsafe, call us for immediate service in Mount Prospect."
+    },
+    {
+      "q": "How quickly can you respond for a track repair near Downtown Mount Prospect?",
+      "a": "We aim for same-day service for most track issues. Our trucks are stocked with common parts. This allows us to complete many repairs quickly, even in the Downtown Mount Prospect area."
+    }
+  ],
+  "ctaLine": "Need track repair in Mount Prospect? Book online or call for fast service."
+}

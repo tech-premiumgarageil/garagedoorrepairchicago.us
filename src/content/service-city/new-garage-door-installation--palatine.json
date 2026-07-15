@@ -1,0 +1,96 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "palatine",
+  "generatedAt": "2026-07-15T17:05:46.489Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Palatine, IL | Upgrades",
+    "description": "Upgrade your Palatine garage door. We install insulated steel, carriage-house, and full-view doors. Upfront pricing, family-owned service in Cook County."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Palatine, IL",
+    "subheadline": "Upgrade your home's exterior. Replace old, damaged, or uninsulated garage doors."
+  },
+  "intro": "Your garage door protects your home and cars. It also impacts your property's value and energy efficiency. In Palatine, many homes, especially in areas like Winston Park, feature attached two-car garages. After decades of use, these doors often show wear. Panels rust, crack, or delaminate. Older, single-layer doors allow significant heat loss during our cold Illinois winters. Upgrading your garage door improves curb appeal, especially if you are preparing to sell. For homeowners converting an attached garage into a heated workspace or living area, an insulated door is essential. We install new garage doors across Palatine, offering solutions that fit your home's style and your budget. Our service includes upfront flat-rate quotes before any work begins. We are a family-owned business, serving Palatine and Cook County residents with direct, professional service. We work Monday through Saturday, 24 hours a day.",
+  "localContext": "Palatine homes in subdivisions built from the 1970s through the 1990s often have attached two-car garages. These areas feature rolling terrain. Driveways, especially those sloping towards Deer Grove, collect water and ice near the garage door's bottom seal. This situation creates a signature winter problem for Palatine residents: ice damming at the threshold. Doors freeze solid to the concrete slab. When a homeowner attempts to open a frozen door, it often strips the opener's gears or snaps the trolley. This forces premature replacement of the entire door system. Replacing a compromised door with a better-insulated model and proper sealing prevents future issues. We understand these specific challenges for properties in Downtown Palatine and Pepper Tree. Our installations account for local weather and terrain.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or damaged panels",
+      "detail": "Garage door panels show rust, cracks, or delamination, compromising appearance and function."
+    },
+    {
+      "sign": "Poor insulation",
+      "detail": "Your single-layer garage door leaks heat, increasing energy bills during Palatine winters."
+    },
+    {
+      "sign": "Outdated appearance",
+      "detail": "You are upgrading curb appeal before selling your Palatine home or want a fresh look."
+    },
+    {
+      "sign": "Heated garage conversion",
+      "detail": "Converting your attached garage into a heated living space requires an insulated door."
+    },
+    {
+      "sign": "Opener damage from ice",
+      "detail": "Your opener's gears stripped or trolley snapped due to a door frozen to the slab."
+    },
+    {
+      "sign": "Persistent drafts and moisture",
+      "detail": "Gaps around your existing door allow significant drafts, water, or pests into the garage."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation and Quote",
+      "description": "We discuss your needs and provide an upfront flat-rate quote. No hidden fees. This quote covers all materials and labor for your new door installation."
+    },
+    {
+      "step": "Door Selection",
+      "description": "Choose from insulated steel doors (R-9 to R-18), carriage-house styles, or full-view aluminum and glass doors. We help match your home's aesthetic."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians remove your old door and install the new one. They come with trucks stocked with common parts. The installation includes new tracks and spring hardware."
+    },
+    {
+      "step": "Final Testing",
+      "description": "After installation, we perform a balance and safety-reverse test. We ensure your new garage door operates safely and correctly."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned business serving Palatine and Cook County.",
+    "You receive an upfront flat-rate quote before any work starts. No surprises.",
+    "Our trucks carry common parts, supporting efficient installation.",
+    "After installation, we perform a balance and safety-reverse test.",
+    "Book online to receive a 10% discount on your new garage door installation."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Palatine",
+    "Deer Grove",
+    "Winston Park",
+    "Pepper Tree"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Palatine?",
+      "a": "New garage door installation in Palatine typically costs between $1,100 and $4,500, fully installed. This range depends on the door type, insulation level (R-9 to R-18), and specific hardware chosen. We provide an upfront flat-rate quote after assessing your needs and before beginning any work."
+    },
+    {
+      "q": "How long does a new garage door installation take in Palatine?",
+      "a": "Most new garage door installations are completed in a single visit. Our technicians arrive with stocked trucks. The process involves removing the old door, installing the new one with its track and spring hardware, and performing final safety tests. We work efficiently to minimize disruption to your schedule."
+    },
+    {
+      "q": "Can you help select a door that withstands Palatine winters and ice damming?",
+      "a": "Yes. Given Palatine's specific challenges with ice damming, especially in areas like Deer Grove, we recommend insulated steel doors with robust bottom seals. These doors prevent cold transfer and reduce the risk of freezing to the slab. Upgrading to an insulated door protects your opener and improves your garage's energy efficiency. We install doors ranging from R-9 to R-18."
+    },
+    {
+      "q": "Is new garage door installation an emergency service in Palatine?",
+      "a": "New garage door installation is not typically an emergency service. While we are open 24 hours Monday through Saturday for urgent repairs, installation appointments are scheduled. We will work to find a time that fits your schedule, especially if your current door is failing to operate safely."
+    },
+    {
+      "q": "What types of new garage doors do you install for Palatine homes?",
+      "a": "We install a variety of new garage doors for Palatine properties. Options include insulated steel doors with R-values from 9 to 18, classic carriage-house style doors, and modern full-view aluminum and glass doors. We also install complete track and spring hardware tailored to your chosen door type."
+    }
+  ],
+  "ctaLine": "Contact us today for your new garage door installation quote."
+}

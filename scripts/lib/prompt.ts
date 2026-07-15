@@ -111,7 +111,7 @@ HARD RULES:
 1. Mention at least 3 named neighborhoods naturally.
 2. localContext (120–180 words) must explain what's distinctive about ${city.name}'s garages and doors — housing stock, weather exposure, age — so it could not describe another suburb.
 3. intro: 150–220 words covering the breadth of services (springs, cables, openers, tracks, installs, commercial) as delivered locally in ${city.name}.
-4. FAQs must be ${city.name}-specific: coverage, response times, local housing quirks.
+4. Write 6-7 FAQs, all ${city.name}-specific: coverage, response times, local housing quirks, pricing context, specific services. Each answer 2-3 full sentences.
 5. meta.title max 60 chars containing "${city.name}". meta.description max 155 chars.
 6. No banned phrases. At most one exclamation mark.
 
@@ -121,7 +121,7 @@ ${jsonShape(`{
   "intro": string,
   "localContext": string,
   "neighborhoodsServed": [string x3+ — real ${city.name} neighborhoods],
-  "faqs": [{ "q": string, "a": string } x4-6],
+  "faqs": [{ "q": string, "a": string } x6-7],
   "ctaLine": string
 }`)}`;
 }

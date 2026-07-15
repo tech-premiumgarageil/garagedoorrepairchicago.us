@@ -1,0 +1,88 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "mount-prospect",
+  "generatedAt": "2026-07-14T20:09:24.546Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Installation in Mount Prospect, IL | New Doors",
+    "description": "Upgrade your Mount Prospect garage door. We install insulated steel, carriage-house, and full-view doors. Upfront pricing for residents."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Mount Prospect, IL",
+    "subheadline": "Replace old, failing doors. Improve insulation and appearance for your Mount Prospect home."
+  },
+  "intro": "Replacing an old garage door improves your home's energy efficiency and curb appeal. A new garage door adds value and security. We install a range of new garage doors for Mount Prospect homeowners. Our selection includes insulated steel, modern full-view aluminum and glass, and traditional carriage-house styles. We provide complete track and spring hardware with every installation. We service all Mount Prospect neighborhoods. You receive an upfront flat-rate quote before we start any work. Our family-owned business has worked in Chicagoland for years. We focus on specific facts and clear service. Upgrading your garage door is a significant investment. We make the process clear and straightforward. Book online for a 10% discount. We are open 24 hours Monday through Saturday.",
+  "localContext": "Many homes in Mount Prospect, especially brick ranches and split-levels built in the 1950s and 60s, still have their original garage doors. These often consist of single-skin steel panels with no insulation. They flex and bind in Chicago's deep cold. Residents in Prospect Manor and Countryside regularly see these un-insulated doors visibly bow inward on subzero January days. This puts strain on the opener and causes tracks to bind. An old, failing door compromises your garage's energy efficiency. It also reduces comfort in attached living spaces. We understand Mount Prospect's specific housing needs and weather challenges. We install durable, insulated doors that withstand local conditions.",
+  "problemSigns": [
+    {
+      "sign": "Door panels rusted, cracked, or delaminating",
+      "detail": "Corrosion and material breakdown indicate an aging door. This compromises structural integrity."
+    },
+    {
+      "sign": "Single-layer door leaking heat all winter",
+      "detail": "Un-insulated doors allow significant heat loss from your garage, impacting attached living areas."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door improves your home's exterior appearance. This can increase market value."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "An insulated door maintains consistent temperatures. This is essential for a comfortable heated garage space."
+    }
+  ],
+  "process": [
+    {
+      "step": "Initial Consultation & Quote",
+      "description": "We discuss your needs and provide an upfront flat-rate quote. This covers all parts and labor before work begins."
+    },
+    {
+      "step": "Door Selection & Ordering",
+      "description": "Choose from insulated steel, carriage-house, or full-view aluminum and glass doors. We help you select the right fit."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians install your new door system. Trucks arrive stocked with common parts. This minimizes delays."
+    },
+    {
+      "step": "Final Inspection & Testing",
+      "description": "After installation, we perform a balance test and a safety-reverse test. This ensures proper and safe operation."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business serving Chicagoland.",
+    "Upfront flat-rate quotes provided before any work starts.",
+    "Trucks arrive stocked with common parts.",
+    "10% discount available for online booking.",
+    "Balance and safety-reverse test after every installation."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Mount Prospect",
+    "Prospect Manor",
+    "We-Go Park",
+    "Countryside"
+  ],
+  "faqs": [
+    {
+      "q": "What types of new garage doors are best for Mount Prospect's weather?",
+      "a": "Insulated steel doors are highly recommended for Mount Prospect homes. They withstand our cold winters and hot summers. We install doors with R-values from R-9 to R-18. This provides strong thermal protection and durability against extreme temperatures. They help maintain your garage temperature and reduce energy costs. This is especially true for homes with attached garages common in Prospect Manor."
+    },
+    {
+      "q": "How much does a new garage door installation typically cost in Mount Prospect?",
+      "a": "New garage door installations in Mount Prospect typically range from $1,100 to $4,500. This price includes the door and complete installation. The final cost depends on the door style, insulation level, and size. We provide an upfront flat-rate quote after assessing your specific needs."
+    },
+    {
+      "q": "Can you replace the original single-skin garage door on my 1950s-era Mount Prospect home?",
+      "a": "Yes, we specialize in replacing these older doors. Many 1950s and 60s brick ranches in areas like Countryside and We-Go Park have original single-skin steel doors. These often lack insulation and show wear. We upgrade them to modern, insulated doors. This improves efficiency and appearance for your Mount Prospect property."
+    },
+    {
+      "q": "Do you offer emergency new garage door installation services in Mount Prospect?",
+      "a": "New garage door installation is not an emergency service. We schedule installations during our regular business hours, Monday through Saturday. We are open 24 hours those days for other repair needs. We aim to complete installations efficiently once your new door is ready."
+    },
+    {
+      "q": "How long does a typical new garage door installation take in Mount Prospect?",
+      "a": "Most new garage door installations can be completed within a single day. This includes removing the old door, installing the new door, and setting up the new track and spring hardware. Our trucks are stocked with common parts to ensure a smooth process."
+    }
+  ],
+  "ctaLine": "Schedule your new garage door installation."
+}

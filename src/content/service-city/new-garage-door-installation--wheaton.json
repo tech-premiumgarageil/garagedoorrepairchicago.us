@@ -1,0 +1,92 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "wheaton",
+  "generatedAt": "2026-07-14T20:05:00.976Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Wheaton, IL | Upgrade",
+    "description": "Upgrade your Wheaton garage door. We install insulated steel, carriage-house, and full-view doors. Get an upfront quote for better curb appeal and"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Wheaton",
+    "subheadline": "Modernize your home. Improve energy efficiency."
+  },
+  "intro": "A new garage door improves your home's appearance and function. Older doors often show visible wear. Panels rust, crack, or delaminate. Single-layer doors contribute to heat loss, making your garage cold in winter. We install new garage doors for Wheaton homes. Choose from insulated steel doors, ranging from R-9 to R-18, for better climate control. We also offer classic carriage-house styles or modern full-view aluminum and glass doors. A new door boosts curb appeal before selling. It can also convert a cold garage into a usable heated space. We manage the complete installation, including all new track and spring hardware. Our service provides a clean, secure, and efficient entry point for your vehicle.",
+  "localContext": "Wheaton's mature oak canopy defines many neighborhoods. Areas like Downtown Wheaton, Arrowhead, and the College Avenue area feature tree-lined blocks with homes from the 1950s to 1970s. These beautiful trees present challenges for garage doors. Falling limbs, acorns, and other seed debris routinely foul tracks and photo eyes. This constant exposure accelerates wear. Older garage door panels, especially on single-layer designs, begin to rust and delaminate. The seasonal storms common in DuPage County also contribute to damage, bringing high winds and heavy precipitation. Replacing an old door with a modern, insulated unit addresses these specific Wheaton conditions. It prepares your garage for Chicagoland winters and stormy seasons.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or Cracked Panels",
+      "detail": "Older garage door panels show signs of rust, cracks, or delamination, especially common in Wheaton's older housing stock."
+    },
+    {
+      "sign": "Drafty Garage",
+      "detail": "A single-layer garage door allows significant heat loss, making a heated garage inefficient during winter months."
+    },
+    {
+      "sign": "Dated Appearance",
+      "detail": "An old garage door detracts from your home’s curb appeal. This is often a factor before selling in neighborhoods like Danada."
+    },
+    {
+      "sign": "Damaged from Debris",
+      "detail": "Repeated impact from falling tree limbs or persistent debris buildup from Wheaton's mature trees damages panels and tracks."
+    },
+    {
+      "sign": "Inadequate Insulation",
+      "detail": "Converting a garage into a heated workspace requires an insulated door to maintain comfortable temperatures."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation & Quote",
+      "description": "We discuss your needs and provide an upfront, flat-rate quote for your new garage door installation."
+    },
+    {
+      "step": "Order & Schedule",
+      "description": "We order your selected door and hardware. Then we schedule the installation date at your convenience."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians remove your old door and install the new unit, including all tracks and springs."
+    },
+    {
+      "step": "Final Testing",
+      "description": "We conduct a balance and safety-reverse test. This ensures the new door operates correctly and safely."
+    }
+  ],
+  "whyUs": [
+    "We provide upfront, flat-rate quotes before any work starts.",
+    "Our company is family-owned and operated.",
+    "We perform a balance and safety-reverse test after every installation.",
+    "Book online to receive a 10% discount on your new door installation."
+  ],
+  "neighborhoodsServed": [
+    "Downtown Wheaton",
+    "Danada",
+    "Arrowhead",
+    "College Avenue area",
+    "Briarcliffe"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Wheaton?",
+      "a": "New garage door installations in Wheaton typically range from $1,100 to $4,500, installed. The price depends on door material, insulation, and style choices."
+    },
+    {
+      "q": "How long does a new garage door installation take in DuPage County?",
+      "a": "Once your custom door arrives, installation usually takes a single day. The full process from quote to completion depends on door lead times."
+    },
+    {
+      "q": "Can a new garage door help with my heating bills in Wheaton?",
+      "a": "Yes. Installing an insulated steel door (R-9 to R-18) prevents heat loss. This can improve the energy efficiency of your attached garage, especially in older Wheaton homes."
+    },
+    {
+      "q": "My garage door is constantly getting leaves and debris from my old oak trees in Arrowhead. Will a new door fix this?",
+      "a": "A new door itself won't stop debris. However, new tracks and photo eyes are more resilient. Regular cleaning and an insulated door will better withstand Wheaton's tree-lined environment."
+    },
+    {
+      "q": "Do you offer emergency new garage door installations in Wheaton?",
+      "a": "New garage door installations are not an emergency service. We schedule these projects. For emergency repairs, we are open 24 hours Monday–Saturday."
+    }
+  ],
+  "ctaLine": "Schedule your new garage door installation today. Get an upfront quote and a 10% online booking discount."
+}

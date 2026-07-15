@@ -1,0 +1,89 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "joliet",
+  "generatedAt": "2026-07-14T18:42:10.666Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Joliet, IL | Family Owned",
+    "description": "Upgrade your Joliet home with a new garage door. We install insulated steel, carriage-house, and full-view doors. Upfront flat-rate quotes. Book online"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Joliet, IL",
+    "subheadline": "Replace old, damaged, or inefficient garage doors for your Joliet home."
+  },
+  "intro": "A new garage door improves your Joliet home's appearance and function. Old doors often show damage from weather or daily use. Replacing a rusted or cracked door improves safety and curb appeal. Many single-layer doors leak heat during cold Chicago winters. Upgrading to an insulated door increases energy efficiency for heated garages. We install a range of new garage doors, including insulated steel, carriage-house style, and full-view aluminum and glass models. We also replace all track and spring hardware. Our company is family-owned. We provide upfront flat-rate quotes before any work begins. Book your installation online to receive a 10% discount. We serve Joliet and surrounding Will County neighborhoods.",
+  "localContext": "Joliet's diverse housing stock means varying garage door needs. Historic limestone homes in the Cathedral Area often have older, detached garages. Their original wood or steel doors endure many harsh Chicago winters. Post-war ranches on the west side and new subdivisions near Plainfield commonly have builder-grade attached garages. These doors can show wear quickly. Years of temperature swings cause panels to crack, rust, or delaminate. Insulated doors are a practical choice for garages protecting climate-sensitive items. Even residential doors in areas like Ridgewood face constant use. Will County's logistics belt also sees heavy use on industrial doors, reflecting the general demand on door systems throughout the region.",
+  "problemSigns": [
+    {
+      "sign": "Door panels show visible damage",
+      "detail": "Rusted spots, cracks, or delamination on door sections indicate material fatigue and reduced integrity from Joliet weather."
+    },
+    {
+      "sign": "High energy bills from your garage",
+      "detail": "Single-layer or uninsulated doors allow significant heat loss during cold Chicago winters, increasing heating costs in attached or heated garages."
+    },
+    {
+      "sign": "Preparing to sell your home",
+      "detail": "An updated garage door significantly boosts your home's curb appeal and market value, especially for homes in areas like West Park or Cunningham."
+    },
+    {
+      "sign": "Converting your garage into a workshop",
+      "detail": "Upgrading to an insulated door improves temperature control, making the space comfortable year-round for new uses."
+    }
+  ],
+  "process": [
+    {
+      "step": "Consultation and Quote",
+      "description": "We discuss your needs and budget. We provide a clear, upfront flat-rate quote for the complete installation."
+    },
+    {
+      "step": "Door Selection",
+      "description": "Choose from insulated steel (R-9 to R-18), carriage-house, or full-view aluminum and glass doors. We help you select the best fit for your Joliet home."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians remove your old door and install the new unit, including all track and spring hardware."
+    },
+    {
+      "step": "Safety and Balance Test",
+      "description": "After installation, we perform a balance and safety-reverse test to ensure your new door operates correctly and safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront flat-rate quotes on all new door installations.",
+    "Save 10% when you book your service online.",
+    "Trucks are stocked with common parts for efficient service.",
+    "We perform a balance and safety-reverse test after every installation."
+  ],
+  "neighborhoodsServed": [
+    "Cathedral Area",
+    "West Park",
+    "Ridgewood",
+    "Ingalls Park",
+    "Cunningham"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Joliet?",
+      "a": "New garage door installations in Joliet typically range from $1,100 to $4,500, fully installed. This price depends on the door type, insulation level, and specific hardware requirements."
+    },
+    {
+      "q": "Can I get an insulated garage door for my historic Joliet home?",
+      "a": "Yes. Many homeowners in areas like the Cathedral Area with historic limestone homes choose insulated steel doors. These improve energy efficiency, especially for detached garages used year-round."
+    },
+    {
+      "q": "How long does a new garage door installation take?",
+      "a": "Most residential garage door installations in Joliet are completed within a single day. Complex installations or custom orders might require more time."
+    },
+    {
+      "q": "Do you offer specific styles like carriage-house doors suitable for Joliet properties?",
+      "a": "We install various styles, including carriage-house doors, full-view aluminum, and insulated steel. These options can complement both newer subdivisions and established neighborhoods like Ridgewood."
+    },
+    {
+      "q": "Are there discounts for new garage door installations?",
+      "a": "Yes, we offer a 10% discount when you book your new garage door installation online through our website."
+    }
+  ],
+  "ctaLine": "Get your upfront quote for a new garage door installation today."
+}

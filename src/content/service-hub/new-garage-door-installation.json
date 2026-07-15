@@ -1,0 +1,77 @@
+{
+  "service": "new-garage-door-installation",
+  "generatedAt": "2026-07-15T17:19:39.909Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Chicago & Chicagoland",
+    "description": "Install new garage doors in Chicago. We replace old, damaged, or uninsulated garage doors. Get upfront quotes. Book online for 10% off."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Chicago & Chicagoland",
+    "subheadline": "Upgrade your garage door. We offer upfront pricing and professional installation."
+  },
+  "intro": "Replacing an old or damaged garage door improves your home's appearance and function. In Chicago and across Chicagoland, homes vary from city bungalows with alley garages to suburban houses with attached garages. Each setup has specific requirements for a new door. An old, single-layer door can lead to significant heat loss during winter, directly impacting energy bills. Rusting panels, cracks, or delamination also compromise the door's structural integrity, security, and insulation capabilities. Upgrading to a modern, insulated garage door significantly changes your home's exterior and energy efficiency. This investment also adds tangible value to your property, especially if you are preparing to sell. We install new garage doors for all property types, addressing both aesthetic and practical needs. We provide upfront flat-rate quotes before work begins. Our team helps you choose the right door for your specific needs and budget, ensuring a professional installation that meets all safety standards. We manage the entire process from old door removal to new system setup.",
+  "whatWeDo": "We install a complete new garage door system. This includes the door panels, tracks, springs, cables, and rollers. Our service starts by removing your old door and hardware. We then precisely fit the new track system. Proper track alignment is critical for smooth door operation. We install new torsion or extension springs, ensuring correct tension for the door’s weight. Incorrect spring calibration causes premature wear or safety issues. We install new door panels, whether insulated steel, carriage-house style, or full-view aluminum and glass. After installation, we perform a balance and safety-reverse test. This ensures the door operates safely and correctly. Price varies by door material, R-value (R-9 to R-18), style, and size. A large insulated door will cost more than a basic single-layer door. We detail all costs in our upfront quote.",
+  "problemSigns": [
+    {
+      "sign": "Door panels rusted, cracked, or delaminating",
+      "detail": "Over time, weather exposure and impact can cause panels to rust, crack, or separate. This compromises the door's strength and insulation."
+    },
+    {
+      "sign": "Single-layer door leaking heat all winter",
+      "detail": "An uninsulated garage door allows significant heat transfer. This makes your garage colder and increases heating costs for attached living spaces."
+    },
+    {
+      "sign": "Upgrading curb appeal before selling",
+      "detail": "A new garage door provides a significant visual upgrade. This improves your home's exterior appearance and can increase its market value."
+    },
+    {
+      "sign": "Converting to an insulated door for a heated garage",
+      "detail": "If you heat your garage for a workshop or extra living space, an insulated door maintains a stable temperature and lowers energy expenses."
+    }
+  ],
+  "process": [
+    {
+      "step": "Initial Assessment",
+      "description": "We visit your property to measure your garage opening and discuss new door options. We consider your home’s style and your specific needs."
+    },
+    {
+      "step": "Flat-Rate Quote",
+      "description": "You receive an upfront, flat-rate quote for your chosen garage door and installation. There are no hidden fees or surprises."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians remove your old door and install the new garage door. This includes all panels, tracks, springs, and hardware."
+    },
+    {
+      "step": "Final Testing",
+      "description": "After installation, we perform a balance and safety-reverse test. This ensures the door operates smoothly and safely."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business.",
+    "Upfront flat-rate quotes before work starts.",
+    "10% discount for online booking.",
+    "Open 24 hours Monday–Saturday.",
+    "We perform a balance and safety-reverse test after every job."
+  ],
+  "faqs": [
+    {
+      "q": "What determines the price of a new garage door?",
+      "a": "The price of a new garage door, typically ranging from $1,100 to $4,500 installed, depends on several key factors. These include the door material, such as insulated steel, full-view aluminum and glass, or composite materials. The insulation R-value is another major factor; higher R-values (R-9 to R-18) increase cost but offer better energy efficiency. The door's style, like carriage-house or modern full-view, also affects pricing. Additional features, such as window inserts, decorative hardware, or custom sizing, contribute to the total cost. We provide a detailed, upfront flat-rate quote that covers all these elements before any work begins."
+    },
+    {
+      "q": "How long does a new garage door installation take?",
+      "a": "Most new garage door installations are completed within 4 to 6 hours. This timeframe includes the removal of your existing garage door and hardware, the precise installation of the new door panels, tracks, springs, cables, and rollers. Our technicians then perform critical adjustments, including balancing the door and testing the safety-reverse mechanism. Complex installations involving custom door sizes, extensive structural modifications, or integrated smart openers may require additional time. We aim to complete the work efficiently while maintaining our installation standards."
+    },
+    {
+      "q": "Can I get an insulated garage door for my attached garage in Chicago?",
+      "a": "Yes, many Chicago and Chicagoland homeowners choose insulated steel garage doors for their attached garages. These doors are available with R-values ranging from R-9 to R-18. Installing an insulated door helps regulate the temperature inside your garage, which can lead to reduced energy costs for adjacent living spaces, especially during cold winters or hot summers. Insulation also helps to dampen outside noise, creating a quieter interior environment. This upgrade is a practical investment for comfort and energy savings."
+    },
+    {
+      "q": "What types of new garage doors do you install?",
+      "a": "We install a wide range of new garage doors to suit different architectural styles and functional needs. Our options include robust insulated steel doors, available with various R-values from R-9 to R-18 for enhanced energy efficiency. We also offer classic carriage-house style doors, which add a distinctive aesthetic appeal, and modern full-view aluminum and glass doors for a contemporary look. Beyond the door panels, we install complete new systems, including all necessary track and spring hardware. We help you select the best door for your home's specific requirements."
+    }
+  ],
+  "ctaLine": "Get a new garage door installed. Book your service today."
+}

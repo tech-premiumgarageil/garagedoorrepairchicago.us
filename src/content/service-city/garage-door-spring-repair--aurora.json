@@ -1,0 +1,93 @@
+{
+  "service": "garage-door-spring-repair",
+  "city": "aurora",
+  "generatedAt": "2026-07-14T16:01:47.096Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Spring Repair in Aurora, IL | Fast Service",
+    "description": "Loud bang from your garage? We fix broken garage door springs in Aurora, IL. Upfront pricing, 24/6 dispatch. Book online for a 10% discount."
+  },
+  "hero": {
+    "headline": "Garage Door Spring Repair in Aurora, IL",
+    "subheadline": "Broken spring? We restore your garage door. Upfront pricing. Same-day service available."
+  },
+  "intro": "A loud bang often signals a broken garage door spring. Your door might feel heavy or stop lifting. This is a common failure. We repair or replace broken garage door springs for Aurora homeowners. We are a family-owned company. Our technicians arrive with common parts stocked in their trucks. This means we can often complete the repair on our first visit. We provide an upfront, flat-rate quote before any work starts. No surprises. You can book service online and get a 10% discount. We operate 24 hours Monday through Saturday for emergency dispatch.",
+  "localContext": "Aurora’s diverse housing stock impacts garage door spring wear. Homes near the Fox River, including those in the West Side Historic District, often feature older, heavier wood doors on detached garages. The Fox River valley experiences significant humidity swings. This can warp wood doors, putting extra stress on springs. Rust can also affect bare metal tracks, further stressing the system. Meanwhile, east-side subdivisions like Stonebridge and Fox Valley, built in the 1990s and 2000s, often used similar garage door setups. Many of these original springs are now reaching their end-of-life simultaneously. A typical spring lasts 10,000 cycles. High-use doors in these areas fail together. We address these specific local wear patterns.",
+  "problemSigns": [
+    {
+      "sign": "Loud Bang",
+      "detail": "A sudden, loud noise from the garage, like a firecracker or gunshot, usually means a spring has snapped."
+    },
+    {
+      "sign": "Heavy Door",
+      "detail": "The garage door feels extremely heavy or won't lift when you try to open it manually or with the opener."
+    },
+    {
+      "sign": "Visible Gap",
+      "detail": "You can see a clear gap in the torsion spring above the garage door opening."
+    },
+    {
+      "sign": "Door Stops Mid-Lift",
+      "detail": "The garage door lifts a few inches then stops moving, often tilting to one side."
+    },
+    {
+      "sign": "Loose Cables",
+      "detail": "The lift cables on either side of the door appear loose, slack, or have come off their drums."
+    }
+  ],
+  "process": [
+    {
+      "step": "Diagnosis",
+      "description": "We inspect your garage door system. We identify the broken spring type and assess any related damage."
+    },
+    {
+      "step": "Upfront Quote",
+      "description": "We provide a flat-rate price for the repair, including parts and labor. No hidden fees."
+    },
+    {
+      "step": "Expert Repair",
+      "description": "Our technicians replace broken torsion or extension springs. We use high-cycle, oil-tempered springs. Trucks are stocked with common parts."
+    },
+    {
+      "step": "Safety Check",
+      "description": "After repair, we perform a balance test and safety-reverse test. This ensures safe and smooth operation."
+    }
+  ],
+  "whyUs": [
+    "Family-owned local service",
+    "Upfront flat-rate pricing before work begins",
+    "24-hour dispatch available Monday–Saturday for emergencies",
+    "Technicians arrive with common parts for immediate repair",
+    "10% discount for online booking"
+  ],
+  "neighborhoodsServed": [
+    "Stonebridge",
+    "West Side Historic District",
+    "Fox Valley",
+    "Eola",
+    "Pigeon Hill"
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door spring repair typically cost in Aurora, IL?",
+      "a": "In Aurora, typical spring repair costs range from $180 to $450. This price includes parts and labor. We provide an exact upfront quote after diagnosis."
+    },
+    {
+      "q": "Can you repair a broken spring in Aurora on the same day?",
+      "a": "Yes. We offer 24-hour emergency dispatch Monday through Saturday. Our trucks carry common spring types. This allows for same-day repair for most broken springs."
+    },
+    {
+      "q": "Why do garage door springs break more often on Aurora's east side?",
+      "a": "Many east-side Aurora subdivisions, such as Stonebridge and Fox Valley, were built around the same time. Their original garage door springs are now reaching their typical lifespan limit together. Heavy use contributes to earlier failure."
+    },
+    {
+      "q": "Are spring repairs eligible for the 10% online booking discount?",
+      "a": "Yes, all garage door repairs, including spring replacement, are eligible for our 10% online booking discount. Book through our website to apply the savings."
+    },
+    {
+      "q": "Do older homes near the Fox River in Aurora need different spring types?",
+      "a": "Older Victorian homes, especially those with detached garages and heavier wooden doors, often require specific spring sizes and torque settings. We stock various spring types to match these older, heavier door systems found in areas like the West Side Historic District."
+    }
+  ],
+  "ctaLine": "Schedule your Aurora garage door spring repair today."
+}

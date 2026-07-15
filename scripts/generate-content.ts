@@ -30,7 +30,8 @@ import {
   flattenText,
   SIMILARITY_THRESHOLD,
   MIN_SPOKE_WORDS,
-  MIN_HUB_WORDS,
+  MIN_SERVICE_HUB_WORDS,
+  MIN_CITY_HUB_WORDS,
 } from "./lib/quality";
 
 const CONTENT_DIR = path.join(process.cwd(), "src", "content");
@@ -83,7 +84,7 @@ const hubJob = (s: Service): Job => ({
   id: `hub:${s.slug}`,
   file: path.join(CONTENT_DIR, "service-hub", `${s.slug}.json`),
   prompt: serviceHubPrompt(s),
-  minWords: MIN_HUB_WORDS,
+  minWords: MIN_SERVICE_HUB_WORDS,
   uniquenessKey: (p) => `${p.intro} ${p.whatWeDo}`,
   validate: (raw) => serviceHubContentSchema.parse(raw) as unknown as Record<string, unknown>,
   identity: { service: s.slug },
@@ -93,7 +94,7 @@ const cityJob = (c: City): Job => ({
   id: `city:${c.slug}`,
   file: path.join(CONTENT_DIR, "city-hub", `${c.slug}.json`),
   prompt: cityHubPrompt(c),
-  minWords: MIN_HUB_WORDS,
+  minWords: MIN_CITY_HUB_WORDS,
   uniquenessKey: (p) => `${p.intro} ${p.localContext}`,
   validate: (raw) => cityHubContentSchema.parse(raw) as unknown as Record<string, unknown>,
   identity: { city: c.slug },

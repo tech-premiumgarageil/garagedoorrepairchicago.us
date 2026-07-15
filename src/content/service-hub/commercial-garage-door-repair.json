@@ -1,0 +1,85 @@
+{
+  "service": "commercial-garage-door-repair",
+  "generatedAt": "2026-07-15T15:44:42.224Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Commercial Garage Door Repair Chicago & Chicagoland",
+    "description": "Commercial garage door repair for loading docks, warehouses, and businesses across Chicago and Chicagoland. Upfront quotes, 24/6 emergency service."
+  },
+  "hero": {
+    "headline": "Commercial Garage Door Repair",
+    "subheadline": "Serving Chicago & Chicagoland Businesses"
+  },
+  "intro": "Commercial garage doors operate under constant demand. They secure your property and maintain daily operations. A broken door disrupts schedules and creates safety risks. In Chicago, urban businesses often rely on high-cycle doors for frequent use in tight spaces. Suburban logistics centers use larger, heavier doors that demand robust components. Both settings require reliable, quick service when a door fails. We provide expert repair for all commercial door types. Our technicians understand the stress a broken door causes your business. We diagnose the issue and complete the repair efficiently. This gets your operations back on track with minimal downtime. We service all commercial door systems, from rolling steel to full-view glass. Depend on us for consistent, professional service.",
+  "whatWeDo": "We fix commercial garage door systems. This includes high-cycle torsion springs, rolling steel curtains, and commercial operators. Springs fatigue from repeated cycles. Operators burn out from overuse or power surges. Tracks bend, and cables fray from impacts or improper alignment. A proper repair means replacing worn or damaged components with commercial-grade parts. We install high-cycle torsion springs rated for 25,000 to 100,000 cycles. We replace faulty trolley and jackshaft operators. We repair or replace damaged rolling steel curtains and their guides. Our work includes replacing safety edges and fusible links. We ensure all parts meet industry standards for durability and safety. Each repair aims for long-term reliability.",
+  "problemSigns": [
+    {
+      "sign": "Loading dock door stuck open or closed",
+      "detail": "This can halt deliveries or leave your facility exposed. It often points to spring failure, operator malfunction, or track issues."
+    },
+    {
+      "sign": "Rolling steel curtain off its guides",
+      "detail": "A curtain off its tracks prevents the door from moving correctly. This requires realignment or replacement of damaged guides."
+    },
+    {
+      "sign": "Commercial operator motor burned out",
+      "detail": "An overworked or faulty motor will stop the door from operating. Replacement is necessary to restore automatic function."
+    },
+    {
+      "sign": "High-cycle springs at end of life",
+      "detail": "Springs wear out based on usage. When they break, the door becomes heavy and unsafe to operate, requiring immediate replacement."
+    },
+    {
+      "sign": "Door making excessive noise",
+      "detail": "Unusual grinding, squealing, or scraping can indicate worn bearings, rollers, or an imbalanced door system."
+    }
+  ],
+  "process": [
+    {
+      "step": "Book Service",
+      "description": "Schedule your repair online for a 10% discount, or call us directly. We are open 24 hours Monday through Saturday for urgent repairs."
+    },
+    {
+      "step": "On-Site Assessment",
+      "description": "A technician arrives at your business. We diagnose the door's issue. We provide an upfront, flat-rate quote for the repair before any work starts."
+    },
+    {
+      "step": "Complete Repair",
+      "description": "Our trucks are stocked with common commercial parts. This allows us to complete most repairs during the initial visit, reducing your downtime."
+    },
+    {
+      "step": "Safety Testing",
+      "description": "After the repair, we perform a balance test and safety-reverse test. We ensure your commercial door operates safely and correctly."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned business.",
+    "Emergency service is available 24 hours, Monday through Saturday.",
+    "You receive an upfront, flat-rate quote before any work begins.",
+    "Our service trucks carry common parts for quick repairs.",
+    "Book online and receive a 10% discount on your service."
+  ],
+  "faqs": [
+    {
+      "q": "What determines the cost of commercial garage door repair?",
+      "a": "Repair cost depends on the specific parts needed and the complexity of the labor. High-cycle springs, operator replacements, or full curtain repairs will have different price points. We provide an exact quote on-site."
+    },
+    {
+      "q": "How long do commercial garage door springs last?",
+      "a": "Commercial springs are rated for 25,000 to 100,000 cycles. The lifespan depends on your door's daily usage. Heavier doors and frequent operation reduce spring life."
+    },
+    {
+      "q": "Can you service my commercial door after normal business hours?",
+      "a": "Yes. We offer 24-hour dispatch Monday through Saturday for emergency commercial repairs. Priority dispatch is available."
+    },
+    {
+      "q": "What types of commercial parts do you install?",
+      "a": "We install durable, commercial-grade parts. This includes high-cycle torsion springs (25k–100k cycles), rolling steel curtains, trolley and jackshaft operators, fusible links, and safety edges."
+    },
+    {
+      "q": "What is involved in a proper commercial garage door repair?",
+      "a": "A proper repair addresses the root cause of the problem. This includes replacing worn or broken components with correct, heavy-duty parts, ensuring proper alignment, and conducting thorough safety tests post-repair."
+    }
+  ],
+  "ctaLine": "Call us or book online for commercial garage door repair."
+}

@@ -1,0 +1,96 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "elmhurst",
+  "generatedAt": "2026-07-14T20:08:10.135Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "New Garage Door Installation in Elmhurst, IL | Upgrades",
+    "description": "Upgrade your Elmhurst garage door. We install insulated steel, carriage-house, and full-view doors. Upfront pricing. Online booking discount."
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Elmhurst, IL",
+    "subheadline": "Upgrade your garage door. Improve security and energy efficiency."
+  },
+  "intro": "Our family-owned company installs new garage doors in Elmhurst, IL. We provide upfront, flat-rate quotes before any work begins. This means you know the full cost before we start. Book online and receive a 10% discount on your installation. Our trucks carry common parts, helping us complete your job efficiently. We install various door types, including insulated steel doors with R-values from 9 to 18. We also offer carriage-house style doors and modern full-view aluminum and glass options. Our service includes complete track and spring hardware. We are open for service 24 hours a day, Monday through Saturday. After installation, we perform a balance and safety-reverse test. This confirms your new door operates correctly and safely. We serve all Elmhurst neighborhoods, including College View and Crescent Park. We handle new installations for homes across DuPage County.",
+  "localContext": "Elmhurst homes, many being brick Georgians and Tudors from the 1930s to 1950s, often have original detached garages. These older structures endure harsh Chicago winters. Freezing temperatures and road salt contribute to rusted or delaminating door panels. Many owners are rebuilding or expanding their homes, adding oversized attached garages. These new garages benefit from insulated doors, preventing heat loss. In areas like Elmhurst City Centre, where curb appeal is important, upgrading an old, worn door adds value. The Salt Creek flooding history makes many Elmhurst residents proactive about weather-tight doors. A door that won't seal properly at the slab is not just an energy issue; it's a potential flood vulnerability. Converting a single-layer door to an insulated model improves both energy efficiency and a home's flood defense.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or Cracked Panels",
+      "detail": "Older garage doors, common on Elmhurst's 1930s-50s homes, show corrosion or cracks from Chicago winters."
+    },
+    {
+      "sign": "Delaminating Door Sections",
+      "detail": "Layers separating on panels, especially on wood or cheaper composite doors, compromises door integrity."
+    },
+    {
+      "sign": "Excessive Heat Loss",
+      "detail": "Single-layer garage doors do not insulate. Your heated garage loses warmth during cold Elmhurst winters."
+    },
+    {
+      "sign": "Outdated Appearance",
+      "detail": "An old garage door detracts from your home's curb appeal, particularly before selling in areas like College View."
+    },
+    {
+      "sign": "Poor Slab Seal",
+      "detail": "A door that does not seal tightly at the ground allows water intrusion, a concern for Elmhurst properties near Salt Creek."
+    },
+    {
+      "sign": "Converting to Heated Garage",
+      "detail": "You are heating your garage for the first time. An insulated door is necessary to maintain temperatures."
+    }
+  ],
+  "process": [
+    {
+      "step": "Get Your Quote",
+      "description": "We provide a flat-rate quote for your new garage door installation. You approve the price before work begins."
+    },
+    {
+      "step": "Schedule Installation",
+      "description": "We schedule your new door installation. Our trucks are stocked with common parts to facilitate efficient service."
+    },
+    {
+      "step": "Professional Installation",
+      "description": "Our technicians install your chosen garage door, track, and spring hardware. We work efficiently and safely."
+    },
+    {
+      "step": "Safety Testing",
+      "description": "After installation, we perform a balance and safety-reverse test. This ensures your new door operates correctly."
+    }
+  ],
+  "whyUs": [
+    "Family-owned business serving Chicagoland.",
+    "Upfront, flat-rate pricing before we start any work.",
+    "Book online to get a 10% discount on your service.",
+    "Trucks stocked with common parts for efficient service.",
+    "We test balance and safety-reverse after every new installation."
+  ],
+  "neighborhoodsServed": [
+    "Elmhurst City Centre",
+    "College View",
+    "Crescent Park",
+    "Yorkfield"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Elmhurst?",
+      "a": "New garage door installation in Elmhurst typically costs between $1,100 and $4,500, fully installed. The final price depends on door type, size, and features."
+    },
+    {
+      "q": "How long does it take to install a new garage door in an Elmhurst home?",
+      "a": "New garage door installations are scheduled appointments. We do not offer same-day service for new door installs. Most installations are completed within a few hours once our team arrives."
+    },
+    {
+      "q": "Can you install an insulated door on my older Elmhurst detached garage?",
+      "a": "Yes, we install insulated steel doors on both older detached garages and newer oversized attached garages common in Elmhurst. This helps with energy efficiency during winter."
+    },
+    {
+      "q": "My Elmhurst home is an older Georgian. Do you have doors that match the aesthetic?",
+      "a": "We offer carriage-house style doors and other options that complement brick Georgians and Tudors found across Elmhurst. We can also install modern full-view doors."
+    },
+    {
+      "q": "Is new garage door installation an emergency service?",
+      "a": "No, new garage door installation is not an emergency service. We schedule these appointments in advance. We are open Monday through Saturday for scheduling."
+    }
+  ],
+  "ctaLine": "Contact us today for your new garage door installation quote in Elmhurst, IL."
+}

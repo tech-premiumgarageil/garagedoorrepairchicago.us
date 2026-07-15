@@ -1,0 +1,89 @@
+{
+  "service": "new-garage-door-installation",
+  "city": "evanston",
+  "generatedAt": "2026-07-14T18:50:27.453Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Installation in Evanston, IL | Upgrade",
+    "description": "Upgrade your Evanston garage with a new insulated or carriage-house door. We install durable doors built to withstand lake-effect weather and enhance your"
+  },
+  "hero": {
+    "headline": "New Garage Door Installation in Evanston, IL",
+    "subheadline": "Replace your old door. Install durable, insulated models built for Evanston weather and specific housing styles."
+  },
+  "intro": "A new garage door improves your home’s function and appearance. Older doors often show clear signs of wear, such as rusted panels or inefficient insulation. Replacing a worn-out door provides better energy efficiency, enhanced security, and a significant boost to your property's exterior. Many Evanston homeowners choose new door installation to update curb appeal before selling, or to convert a detached garage into a more functional, insulated space. We offer clear, upfront flat-rate quotes for every job, ensuring you know the full cost before any work begins. Our family-owned business serves Chicagoland, understanding the specific demands placed on your home's exterior. We operate 24 hours a day, Monday through Saturday, to accommodate various schedules for new installations. We aim for precise installation that lasts for years. We ensure your new door operates safely and efficiently from the moment it is installed.",
+  "localContext": "Evanston's position as a first-ring community off Lake Michigan means unique challenges for garage doors. The lake-effect snow, strong winds, and consistent moisture accelerate corrosion on hinges, cables, and bottom seals. This wear is often more severe here than in inland areas. Many homes in areas like Central Street and the Ridge Historic District feature century-old Victorians and brick houses with original detached garages. These garages, often accessed via rear alleys, demand durable doors. Historic district rules frequently guide owners toward carriage-house style doors that match the architectural character. Upgrading to an insulated door protects contents from extreme temperature swings, common in the Northwestern campus area or South Evanston, especially when converting a garage into a heated workspace.",
+  "problemSigns": [
+    {
+      "sign": "Rusted or Damaged Panels",
+      "detail": "Door panels showing rust, cracks, or delamination from moisture and age compromise appearance and function."
+    },
+    {
+      "sign": "Poor Insulation",
+      "detail": "Single-layer garage doors allow significant heat loss during winter, increasing energy bills for attached garages."
+    },
+    {
+      "sign": "Outdated Appearance",
+      "detail": "An old, unappealing garage door can detract from your home's curb appeal, especially when preparing to sell."
+    },
+    {
+      "sign": "Unheated Garage Conversion",
+      "detail": "Converting a garage into a heated living or workspace requires an insulated door to maintain climate control."
+    }
+  ],
+  "process": [
+    {
+      "step": "Upfront Flat-Rate Quote",
+      "description": "We provide a clear, detailed quote for your new garage door installation before any work begins. No hidden fees."
+    },
+    {
+      "step": "Old Door Removal",
+      "description": "Our team carefully removes your existing garage door, tracks, and hardware, ensuring safe disposal."
+    },
+    {
+      "step": "New Door Installation",
+      "description": "We install your new garage door, including all necessary tracks, springs, and opener connections, to manufacturer specifications."
+    },
+    {
+      "step": "Safety & Balance Testing",
+      "description": "After installation, we perform a thorough balance test and safety-reverse test to ensure safe and correct operation."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned and operated business.",
+    "We provide upfront flat-rate quotes before we start any work.",
+    "Our trucks are stocked with common parts to complete jobs efficiently.",
+    "Book your service online and receive a 10% discount.",
+    "Every job includes a balance and safety-reverse test."
+  ],
+  "neighborhoodsServed": [
+    "Central Street",
+    "South Evanston",
+    "Ridge Historic District",
+    "Northwestern campus area",
+    "West Village"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a new garage door installation in Evanston?",
+      "a": "New garage door installations in Evanston typically range from $1,100 to $4,500, including installation. The final price depends on the door material, insulation value, and style chosen. For instance, homeowners in the Ridge Historic District might opt for a custom carriage-house door, which can be at the higher end. A standard insulated steel door might be closer to the lower end. We provide an exact, upfront flat-rate quote after assessing your specific needs and chosen door type."
+    },
+    {
+      "q": "How does Evanston's weather impact a new garage door's lifespan?",
+      "a": "Evanston's proximity to Lake Michigan exposes garage doors to unique weather challenges. Lake-effect snow, strong winds, and consistent moisture contribute to faster corrosion of metal components like hinges, cables, and bottom seals. Salt air can also accelerate wear. Installing a new door with durable, weather-resistant materials and proper seals is crucial for longevity in this environment. Insulated doors also better protect against temperature swings."
+    },
+    {
+      "q": "Are there specific new garage door styles recommended for Evanston homes?",
+      "a": "Yes, many Evanston homes, especially century-old Victorians and brick residences in areas like Central Street or South Evanston, benefit from specific door styles. Carriage-house style doors are popular and often required in historic districts to maintain architectural integrity. For modern homes or those seeking energy efficiency, insulated steel doors (R-9 to R-18) are common. Full-view aluminum and glass doors offer a contemporary look. We can help you select a door that meets both aesthetic and functional needs for your Evanston property."
+    },
+    {
+      "q": "Can you install new garage doors on older Evanston homes with alley access?",
+      "a": "We regularly install new garage doors on older Evanston homes, many of which feature original detached garages accessed from rear alleys. This setup is common in neighborhoods like the Northwestern campus area. Our team is experienced with the specific challenges and requirements of these older structures, ensuring a proper fit and secure installation. We handle the complete process, from removing the old door to installing new tracks and hardware."
+    },
+    {
+      "q": "How long does a new garage door installation typically take?",
+      "a": "A new garage door installation is not an emergency service. Once a door is selected and ordered, the actual installation process usually takes a single day. This includes removing your old door, setting up the new tracks and hardware, installing the new door panels, and conducting all necessary safety and balance tests. Lead times for custom doors, such as those often chosen in Evanston's historic areas, can vary but the on-site work is generally completed within one day."
+    }
+  ],
+  "ctaLine": "Book your new garage door installation online and save 10%."
+}

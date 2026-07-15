@@ -1,0 +1,89 @@
+{
+  "service": "garage-door-cable-repair",
+  "city": "evanston",
+  "generatedAt": "2026-07-14T17:22:19.961Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Cable Repair Evanston, IL | Same-Day Service",
+    "description": "Evanston garage door cable broken? We offer 24/6 emergency cable repair. Upfront pricing for homes near Northwestern, Ridge Historic District, Central"
+  },
+  "hero": {
+    "headline": "Garage Door Cable Repair in Evanston, IL",
+    "subheadline": "Broken cables fixed fast in Cook County."
+  },
+  "intro": "A broken garage door cable stops your door from opening or closing correctly. It is a safety issue. Our family-owned company repairs garage door cables across Evanston, IL. We respond quickly to homes in Central Street, South Evanston, and the Ridge Historic District. We provide upfront flat-rate quotes before any work begins. Our trucks are stocked with common parts. We are open for dispatch 24 hours Monday through Saturday. If your garage door hangs crooked or makes grinding noises, a cable problem is likely. We fix these issues promptly, restoring your garage door's safe operation. Book online for a 10% discount on your cable repair.",
+  "localContext": "Evanston's location off Lake Michigan means unique challenges for garage door hardware. Lake-effect snow, strong winds, and salt air corrode components faster here. Century-old Victorians and brick homes often have original detached garages on rear alleys. These older structures and their hardware are more susceptible to wear. Cables, hinges, and bottom seals degrade from constant moisture exposure. Cables can fray, rust, or snap. This is common in areas near the Northwestern campus and West Village. We understand how these local conditions affect garage door cables. We install galvanized aircraft-grade lift cables designed for durability.",
+  "problemSigns": [
+    {
+      "sign": "Door hangs crooked",
+      "detail": "One side of your garage door sits lower than the other in the opening. This indicates a broken or frayed lift cable on one side."
+    },
+    {
+      "sign": "Loose or wrapped cable",
+      "detail": "You see a cable hanging loose from the side of the door. Or it is wrapped incorrectly around the cable drum above the opening."
+    },
+    {
+      "sign": "Grinding noise",
+      "detail": "The door makes a harsh grinding or scraping sound when it moves. This can mean a cable is rubbing incorrectly or is about to fail."
+    },
+    {
+      "sign": "Door slams down",
+      "detail": "Your garage door closes much faster than normal, or drops suddenly. This is a serious safety concern and indicates a cable problem."
+    }
+  ],
+  "process": [
+    {
+      "step": "Inspection and Quote",
+      "description": "A technician arrives at your Evanston home. We inspect the garage door system to find the cable issue. You receive an upfront flat-rate quote before any work begins."
+    },
+    {
+      "step": "Cable Replacement",
+      "description": "We replace the broken or damaged cables. Our trucks carry galvanized aircraft-grade lift cables, cable drums, and bottom brackets for immediate repair."
+    },
+    {
+      "step": "System Test",
+      "description": "After repair, we perform a balance test on the garage door. We also test the safety-reverse mechanism. This ensures safe operation."
+    },
+    {
+      "step": "Final Review",
+      "description": "We confirm the repair is complete and the door operates smoothly and safely. We confirm the new cables are correctly installed."
+    }
+  ],
+  "whyUs": [
+    "Family-owned and operated in Chicagoland.",
+    "Upfront flat-rate quotes provided before work starts.",
+    "Emergency dispatch available 24 hours Monday–Saturday.",
+    "Trucks stocked with common parts for faster repairs.",
+    "10% discount when you book your service online."
+  ],
+  "neighborhoodsServed": [
+    "Central Street",
+    "South Evanston",
+    "Ridge Historic District",
+    "Northwestern campus area",
+    "West Village"
+  ],
+  "faqs": [
+    {
+      "q": "How much does garage door cable repair cost in Evanston?",
+      "a": "Typical garage door cable repair in Evanston costs $150–$350, including parts and labor. We provide an upfront flat-rate quote before we start."
+    },
+    {
+      "q": "Can I book cable repair after hours in Evanston?",
+      "a": "Yes, we offer emergency dispatch for cable repair 24 hours a day, Monday through Saturday. We respond to calls across Evanston, including the Ridge Historic District and West Village."
+    },
+    {
+      "q": "Why do garage door cables fail more often in Evanston?",
+      "a": "Evanston's lake-effect weather causes faster corrosion. Wind-driven moisture and salt air from Lake Michigan degrade cables on older detached garages, common in areas like Central Street."
+    },
+    {
+      "q": "What kind of parts do you use for cable repair?",
+      "a": "We install galvanized aircraft-grade lift cables for durability. We also replace worn cable drums and bottom brackets as needed. These parts are designed to withstand local conditions."
+    },
+    {
+      "q": "How long does a typical cable repair take?",
+      "a": "Most garage door cable repairs take 60-90 minutes. Our technicians arrive with common parts stocked on their trucks to complete the job efficiently."
+    }
+  ],
+  "ctaLine": "Need garage door cable repair in Evanston? Book online and save 10%."
+}

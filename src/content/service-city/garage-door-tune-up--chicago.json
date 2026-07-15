@@ -1,0 +1,92 @@
+{
+  "service": "garage-door-tune-up",
+  "city": "chicago",
+  "generatedAt": "2026-07-14T22:52:26.757Z",
+  "model": "gemini-2.5-flash",
+  "meta": {
+    "title": "Garage Door Tune-Up Chicago, IL | Prevent Problems",
+    "description": "Prevent Chicago garage door failures. Get a full tune-up in Lincoln Park, Portage Park, Beverly. Upfront flat rate, online booking discount. We keep your"
+  },
+  "hero": {
+    "headline": "Garage Door Tune-Up & Maintenance in Chicago, IL",
+    "subheadline": "Avoid unexpected breakdowns. Keep your Chicago garage door operating smoothly."
+  },
+  "intro": "A garage door tune-up keeps your system running reliably. It prevents small issues from becoming major problems. Many homeowners forget about garage door maintenance until it's too late. Our service extends the life of your door and opener. We perform a complete inspection and lubrication, ensuring all parts function correctly. You get an upfront flat-rate quote before any work starts. Book your tune-up online and receive a 10% discount. We are a family-owned company serving Chicago. We focus on clear communication and reliable service. Get your garage door ready for the demands of daily use.",
+  "localContext": "Chicago's weather and housing stock place unique demands on garage doors. Alley-facing doors, common with classic bungalows and two-flats in areas like Bridgeport and Albany Park, take the brunt of lake-effect snow and road salt spray. Frequent freeze-thaw cycles stress components. Many original wood-frame garages from the 1920s–1950s have older hardware that needs regular attention. A stuck door in a Chicago alley can block your car and leave your garage unsecured to public alley traffic. Regular maintenance is crucial to avoid these local issues. It protects your property and keeps your daily schedule on track.",
+  "problemSigns": [
+    {
+      "sign": "Door is louder than it used to be",
+      "detail": "Grinding, squeaking, or rubbing noises indicate worn parts or lack of lubrication."
+    },
+    {
+      "sign": "Haven't serviced the door since moving in",
+      "detail": "Regular maintenance prevents unexpected failures, especially for doors with unknown service history."
+    },
+    {
+      "sign": "Preparing the door for winter",
+      "detail": "A tune-up before cold weather ensures components handle Chicago's harsh winters."
+    },
+    {
+      "sign": "Small issues you want caught before they strand your car",
+      "detail": "Proactive service identifies minor wear before it causes the door to fail completely."
+    }
+  ],
+  "process": [
+    {
+      "step": "Full Safety Inspection",
+      "description": "We check all moving parts, including springs, cables, rollers, and hinges. We look for wear, damage, and alignment issues."
+    },
+    {
+      "step": "Lubrication and Adjustment",
+      "description": "We apply garage-door-specific lubricant to all appropriate parts. We adjust spring tension and track alignment for smooth operation."
+    },
+    {
+      "step": "Hardware Replacement",
+      "description": "We replace worn small parts like hinges, fastener hardware, or bottom weather seal if needed. Trucks carry common parts."
+    },
+    {
+      "step": "Balance and Safety Test",
+      "description": "Every job finishes with a balance test and a safety-reverse test. This confirms your door operates safely and correctly."
+    }
+  ],
+  "whyUs": [
+    "We are a family-owned Chicago company.",
+    "We provide upfront flat-rate quotes before work begins.",
+    "Book online for a 10% service discount.",
+    "Our trucks are stocked with common parts for efficient service.",
+    "We are open 24 hours Monday–Saturday for your convenience."
+  ],
+  "neighborhoodsServed": [
+    "Lincoln Park",
+    "Portage Park",
+    "Beverly",
+    "Jefferson Park",
+    "Bridgeport",
+    "Norwood Park",
+    "Mount Greenwood",
+    "Albany Park"
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical cost for a garage door tune-up in Chicago?",
+      "a": "A standard tune-up costs $89–$150 flat in Chicago. We provide your final price upfront before starting any work."
+    },
+    {
+      "q": "How often should I get a tune-up for my Chicago garage door?",
+      "a": "We recommend an annual tune-up, especially for alley-facing doors that face Chicago's lake-effect snow and road salt. Older homes in areas like Mount Greenwood or Jefferson Park often benefit from regular checks."
+    },
+    {
+      "q": "Is a garage door tune-up an emergency service in Chicago?",
+      "a": "No, a tune-up is a preventative service. It is not an emergency repair. If your door is already broken or stuck, you need a different service."
+    },
+    {
+      "q": "My Chicago bungalow has an older detached garage. Can you still tune it up?",
+      "a": "Yes. Many Chicago bungalows and two-flats have older wood-frame garages and hardware. We service all types. Our technicians identify wear common to these older systems during a tune-up."
+    },
+    {
+      "q": "Can you service my detached alley garage in Chicago?",
+      "a": "Yes. We regularly service detached alley-access garages throughout Chicago, including those in Portage Park and Albany Park. These doors often need more attention due to weather exposure."
+    }
+  ],
+  "ctaLine": "Book your garage door tune-up today."
+}
