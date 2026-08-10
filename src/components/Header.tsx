@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { business } from "@/config/business";
 import { routes } from "@/lib/routes";
@@ -15,11 +16,15 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-steel bg-charcoal/95 backdrop-blur-sm">
       <div className="relative mx-auto flex max-w-7xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
-        <Link href={routes.home()} className="flex items-baseline gap-2">
-          <span className="display text-2xl text-bone">
-            Garage Door Repair
-          </span>
-          <span className="display text-2xl text-ember">Chicago</span>
+        <Link href={routes.home()} className="flex items-center">
+          <Image
+            src="/logo-transparent.png"
+            alt={business.name}
+            width={160}
+            height={160}
+            priority
+            className="h-14 w-auto"
+          />
         </Link>
 
         <nav aria-label="Main" className="hidden md:block">

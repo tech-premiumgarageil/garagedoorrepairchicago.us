@@ -39,7 +39,7 @@ export function BookingEmbed() {
   return (
     <div
       ref={mountRef}
-      className="border border-steel bg-bone p-2"
+      className="border border-steel bg-charcoal-2 p-2"
       style={{ minHeight: 720 }}
     />
   );

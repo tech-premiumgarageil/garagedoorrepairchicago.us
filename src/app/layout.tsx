@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Big_Shoulders, Libre_Franklin } from "next/font/google";
+import { Libre_Franklin } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import { business } from "@/config/business";
 import { Header } from "@/components/Header";
@@ -8,11 +9,12 @@ import { StickyCallBar } from "@/components/StickyCallBar";
 import { JsonLd } from "@/components/JsonLd";
 import { localBusinessSchema, webSiteSchema } from "@/lib/schema";
 
-const bigShoulders = Big_Shoulders({
+const bigShoulders = localFont({
+  src: "./fonts/big-shoulders-latin.woff2",
   variable: "--font-big-shoulders",
-  subsets: ["latin"],
-  weight: ["300", "700", "800"],
+  weight: "100 900",
   display: "swap",
+  adjustFontFallback: false,
 });
 
 const libreFranklin = Libre_Franklin({

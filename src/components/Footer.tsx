@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { business } from "@/config/business";
 import { services } from "@/data/services";
@@ -13,9 +14,15 @@ export function Footer() {
     <footer className="border-t border-steel bg-charcoal-2">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 md:grid-cols-4">
         <div>
-          <p className="display text-2xl text-bone">
-            Garage Door Repair <span className="text-ember">Chicago</span>
-          </p>
+          <Link href={routes.home()} className="inline-flex items-center">
+            <Image
+              src="/logo-transparent.png"
+              alt={business.name}
+              width={160}
+              height={160}
+              className="h-16 w-auto"
+            />
+          </Link>
           <p className="mt-3 text-sm leading-relaxed text-bone-dim">
             Family-owned garage door repair and installation serving Chicago
             and all of Chicagoland. {business.hoursLabel}.

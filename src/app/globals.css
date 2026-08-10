@@ -3,14 +3,14 @@
 /* ————— Chicago Steel: industrial-editorial theme ————— */
 
 :root {
-  --charcoal: #0d0e10;
-  --charcoal-2: #141518;
-  --bone: #ede8df;
-  --bone-dim: #b8b2a6;
-  --ember: #ff5a1f;
-  --ember-deep: #d43f0a;
-  --steel: #2a2d31;
-  --steel-light: #3a3e44;
+  --charcoal: #ffffff;
+  --charcoal-2: #f1f4f8;
+  --bone: #10182b;
+  --bone-dim: #57606f;
+  --ember: #1d4ed8;
+  --ember-deep: #1e3a8a;
+  --steel: #dbe1e8;
+  --steel-light: #94a1b2;
 }
 
 @theme inline {
@@ -52,8 +52,8 @@ body {
 /* Blueprint grid section background */
 .blueprint-faint {
   background-image:
-    linear-gradient(rgba(42, 45, 49, 0.55) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(42, 45, 49, 0.55) 1px, transparent 1px);
+    linear-gradient(rgba(16, 24, 43, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(16, 24, 43, 0.06) 1px, transparent 1px);
   background-size: 48px 48px;
 }
 
