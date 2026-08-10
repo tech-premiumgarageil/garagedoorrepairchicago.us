@@ -6,17 +6,17 @@
 export const business = {
   name: "Garage Door Repair Chicago",
   legalName: "Garage Door Repair Chicago", // placeholder
-  phone: "(312) 555-0199", // placeholder
-  phoneHref: "tel:+13125550199",
+  phone: "(312) 847-8787", // placeholder
+  phoneHref: "tel:+13128478787",
   email: "info@garagedoorrepairchicago.us", // placeholder
   url: "https://garagedoorrepairchicago.us",
   address: {
-    street: "123 W Madison St", // placeholder
-    city: "Chicago",
+    street: "210 Skokie Valley Rd",
+    city: "Highland Park",
     state: "IL",
-    zip: "60602",
+    zip: "60035",
   },
-  geo: { lat: 41.8781, lng: -87.6298 },
+  geo: { lat: 42.190166, lng: -87.786697 }, // Highland Park city center — refine to exact address if needed
   /** 24 hours, Monday through Saturday (closed Sunday) */
   hours: {
     days: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
