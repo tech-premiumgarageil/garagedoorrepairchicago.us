@@ -52,3 +52,4 @@ Business Profile once it exists.
 7. Set up Google Business Profile with the same NAP.
 8. Replace `PLACEHOLDER_REVIEWS` in `src/app/page.tsx` with real reviews
    (only then consider AggregateRating schema — see note in `src/lib/schema.ts`).
+# garagedoorrepairchicago.us
